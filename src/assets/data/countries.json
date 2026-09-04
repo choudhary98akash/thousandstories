@@ -2,10 +2,35 @@
   {
     "name": "India",
     "regions": [
-      {
-        "name": "Uttar Pradesh",
-        "cities": ["Ambedkar Nagar", "Lucknow", "Varanasi"]
-      }
+      { "name": "Tamil Nadu", "cities": ["Rameswaram", "Chennai"] },
+      { "name": "Uttar Pradesh", "cities": ["Ambedkar Nagar"] },
+      { "name": "Karnataka", "cities": ["Bengaluru"] },
+      { "name": "Assam", "cities": ["Jorhat"] }
     ]
+  },
+  {
+    "name": "United Kingdom",
+    "regions": [{ "name": "England", "cities": ["Oxford", "Cambridge"] }]
+  },
+  {
+    "name": "Pakistan",
+    "regions": [
+      { "name": "Khyber Pakhtunkhwa", "cities": ["Mingora"] },
+      { "name": "Sindh", "cities": ["Karachi"] }
+    ]
+  },
+  {
+    "name": "United States",
+    "regions": [
+      { "name": "West Virginia", "cities": ["White Sulphur Springs"] }
+    ]
+  },
+  {
+    "name": "Australia",
+    "regions": [{ "name": "Victoria", "cities": ["Melbourne"] }]
+  },
+  {
+    "name": "Kenya",
+    "regions": [{ "name": "Nyeri", "cities": ["Nyeri"] }]
   }
 ]

@@ -18,5 +18,60 @@
     "id": "sports",
     "name": "Sports",
     "description": "Athletes and sporting achievements."
+  },
+  {
+    "id": "science",
+    "name": "Science",
+    "description": "Discoveries and scientific achievement."
+  },
+  {
+    "id": "leadership",
+    "name": "Leadership",
+    "description": "People who led through example and service."
+  },
+  {
+    "id": "education",
+    "name": "Education",
+    "description": "Those who advanced learning and schooling."
+  },
+  {
+    "id": "history",
+    "name": "History",
+    "description": "Figures and events of historical significance."
+  },
+  {
+    "id": "medicine",
+    "name": "Medicine",
+    "description": "Healing and health-related achievement."
+  },
+  {
+    "id": "social-change",
+    "name": "Social Change",
+    "description": "People who transformed their societies."
+  },
+  {
+    "id": "women-who-changed-history",
+    "name": "Women Who Changed History",
+    "description": "Women whose lives altered the course of events."
+  },
+  {
+    "id": "humanitarianism",
+    "name": "Humanitarianism",
+    "description": "Compassionate service to others."
+  },
+  {
+    "id": "unsung-heroes",
+    "name": "Unsung Heroes",
+    "description": "Great works carried out away from the spotlight."
+  },
+  {
+    "id": "environment",
+    "name": "Environment",
+    "description": "Guardians of the natural world."
+  },
+  {
+    "id": "technology",
+    "name": "Technology",
+    "description": "Innovation and technological advance."
   }
 ]

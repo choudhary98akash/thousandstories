@@ -25,3 +25,6 @@ Thumbs.db
 # Memory (agent episodic data)
 memory/
 MEMORY.md
+
+# Logs
+*.log

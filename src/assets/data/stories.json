@@ -1,6 +1,124 @@
 [
   {
     "id": 1,
+    "title": "The Missile Man Who Never Forgot His Roots",
+    "slug": "apj-abdul-kalam",
+    "personName": "A.P.J. Abdul Kalam",
+    "shortDescription": "From selling newspapers on a railway platform in Rameswaram to becoming India's most beloved scientist and its 11th President.",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Rameswaram",
+    "category": ["Science", "Leadership", "Education", "History"],
+    "birthYear": 1931,
+    "deathYear": 2015,
+    "storyDate": "2002",
+    "introduction": "Avul Pakir Jainulabdeen Abdul Kalam was born in 1931 into a humble family in Rameswaram, Tamil Nadu. To support his family, he sold newspapers as a schoolboy. He studied physics and later aerospace engineering, graduating from the Madras Institute of Technology.",
+    "challenge": "Raised in modest circumstances with limited means, Kalam worked hard at every stage. He overcame financial hardship and the limits of his small-town beginnings through relentless self-discipline and a deep commitment to education.",
+    "journey": "Kalam joined India's defence research organisation, where he became the driving force behind India's civilian space and military missile programs. He played a central role in the development of India's first Satellite Launch Vehicle, SLV-3, and in the integrated guided-missile development programme, earning him the title 'Missile Man of India'.",
+    "achievement": "In 2002, Kalam was elected the 11th President of India. After his presidency, he returned to teaching and writing, dedicating his later years to inspiring young people across the country. His autobiography 'Wings of Fire' encouraged millions of students to pursue science and service.",
+    "impact": "Kalam travelled widely, giving thousands of lectures to students. His vision of a developed India, combining science with moral integrity, influenced a generation of young Indians. His simple lifestyle, humility, and devotion to service left a lasting moral example.",
+    "lesson": "Great achievement need not come from privilege. Kalam's life shows that a person from the humblest background can reach the highest office through knowledge, hard work, and unwavering integrity — and that the most meaningful success is often one that lifts others up.",
+    "sources": [
+      {
+        "title": "Wings of Fire: An Autobiography",
+        "publisher": "Universities Press",
+        "url": "https://www.penguinrandomhouse.com/books/",
+        "publishedDate": "1999"
+      },
+      {
+        "title": "A.P.J. Abdul Kalam: A Life",
+        "publisher": "Hachette India",
+        "url": "https://www.hachette.co.uk/",
+        "publishedDate": "2015"
+      }
+    ],
+    "tags": [
+      "science",
+      "president",
+      "wings-of-fire",
+      "education",
+      "leadership"
+    ],
+    "verified": true
+  },
+  {
+    "id": 2,
+    "title": "The Man Who Defied the Universe From a Wheelchair",
+    "slug": "stephen-hawking",
+    "personName": "Stephen Hawking",
+    "shortDescription": "Given two years to live at age 21, Hawking went on to revolutionise our understanding of the cosmos over the next five decades.",
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Oxford",
+    "category": ["Science", "Resilience", "Medicine", "History"],
+    "birthYear": 1942,
+    "deathYear": 2018,
+    "storyDate": "1988",
+    "introduction": "Stephen Hawking was born in 1942 in Oxford. As a graduate student at Cambridge, he was diagnosed with amyotrophic lateral sclerosis (ALS), a motor-neuron disease. Doctors expected him to live only a few more years.",
+    "challenge": "The disease progressively paralysed Hawking's body. Over the years he lost the use of his limbs, then his voice, and eventually communicated only through a computer-assisted speech synthesizer controlled by a single cheek muscle. Despite this, he never abandoned his work.",
+    "journey": "Hawking reframed the question of how the universe began. Working on black holes and the nature of space-time, he developed the theory of Hawking radiation — showing that black holes emit radiation and eventually evaporate. He also proposed boundary conditions for the universe that removed the need for a single starting point.",
+    "achievement": "In 1988, he published 'A Brief History of Time', which became an international bestseller and brought modern cosmology to millions. He served as the Lucasian Professor of Mathematics at Cambridge, a chair once held by Isaac Newton, for nearly three decades.",
+    "impact": "Hawking's work reshaped theoretical physics, and his public advocacy demonstrated that profound intellectual achievement is possible in a severely disabled body. He became a symbol of the indomitable human mind.",
+    "lesson": "The limits imposed on us from outside need not define what we can contribute. Hawking's life is a testament to the power of curiosity and persistence — a mind that, even as the body failed, reached further into the universe than most people ever will.",
+    "sources": [
+      {
+        "title": "A Brief History of Time",
+        "publisher": "Bantam Books",
+        "url": "https://www.penguin.co.uk/",
+        "publishedDate": "1988"
+      },
+      {
+        "title": "Stephen Hawking: A Biography",
+        "publisher": "Greenwood",
+        "url": "https://www.abc-clio.com/",
+        "publishedDate": "2005"
+      }
+    ],
+    "tags": ["physics", "cosmology", "als", "disability", "science"],
+    "verified": true
+  },
+  {
+    "id": 3,
+    "title": "The Youngest Nobel Laureate Who Nearly Didn't Survive",
+    "slug": "malala-yousafzai",
+    "personName": "Malala Yousafzai",
+    "shortDescription": "A teenage girl shot for demanding education became the world's youngest Nobel Peace Prize laureate and a global voice for girls' schooling.",
+    "country": "Pakistan",
+    "state": "Khyber Pakhtunkhwa",
+    "city": "Mingora",
+    "category": [
+      "Courage",
+      "Education",
+      "Social Change",
+      "Women Who Changed History"
+    ],
+    "birthYear": 1997,
+    "storyDate": "2012",
+    "introduction": "Malala Yousafzai was born in 1997 in the Swat Valley of Pakistan. Her father ran a school and encouraged her love of learning. When the Taliban began banning girls' education in the region, the young Malala began speaking publicly in favour of girls' right to attend school.",
+    "challenge": "As the local situation worsened, Malala wrote for the BBC about life under the Taliban and the closing of girls' schools. On 9 October 2012, a gunman boarded her school bus and shot her in the head in an attempt to silence her. She was 15 years old.",
+    "journey": "Malala survived the attack after emergency surgery in Birmingham, England, followed by months of rehabilitation. Rather than retreating from public life, she turned her experience into a worldwide campaign for girls' education, co-founding the Malala Fund with her father.",
+    "achievement": "In 2014, at age 17, Malala was jointly awarded the Nobel Peace Prize for her struggle against the suppression of children and young people and for the right of all children to education — the youngest Nobel laureate in history.",
+    "impact": "The Malala Fund has supported girls' education programmes across the developing world. Malala graduated from the University of Oxford in 2020 and continues to advocate for education, amplifying the voices of girls denied schooling.",
+    "lesson": "A single voice — even that of a teenager — can change the world when it is grounded in truth and courage. Malala's survival and refusal to be silenced prove that the demand for education and dignity cannot be shot away.",
+    "sources": [
+      {
+        "title": "I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban",
+        "publisher": "Little, Brown and Company",
+        "url": "https://www.hachettebookgroup.com/",
+        "publishedDate": "2013"
+      },
+      {
+        "title": "Malala Yousafzai - Facts | The Nobel Peace Prize",
+        "publisher": "Nobel Prize",
+        "url": "https://www.nobelprize.org/prizes/peace/2014/yousafzai/facts/",
+        "publishedDate": "2014"
+      }
+    ],
+    "tags": ["education", "nobel-prize", "girls-education", "courage", "voice"],
+    "verified": true
+  },
+  {
+    "id": 4,
     "title": "The First Woman to Climb Everest as an Amputee",
     "slug": "arunima-sinha",
     "personName": "Arunima Sinha",
@@ -11,21 +129,280 @@
     "category": ["Courage", "Disability & Achievement", "Sports"],
     "birthYear": 1989,
     "storyDate": "2013",
-    "introduction": "Arunima Sinha was a national-level volleyball player in India. In 2011, while travelling by train, she was thrown from a moving coach during an attempted robbery and fell onto the tracks, where a passing train crushed her left leg, which had to be amputated.",
-    "challenge": "After losing her leg, Sinha faced both physical and emotional recovery. She was told she would never walk normally again, and her sports career appeared to be over.",
-    "journey": "Determined to prove that a disability need not define her limits, Sinha set a new goal: to climb Mount Everest. She trained in mountaineering, learning to climb with a prosthetic leg, and raised funds to support the expedition.",
-    "achievement": "On 21 May 2013, Arunima Sinha reached the summit of Mount Everest, becoming the first female amputee in the world to do so. She became the first Indian amputee to climb the mountain.",
-    "impact": "Sinha has since become a motivational speaker and founded the Arunima Sinha Foundation to support sports training for people with disabilities. Her climb inspired many people with disabilities to pursue adventure sports.",
-    "lesson": "A physical limitation does not define what a person can achieve. With determination and training, athletes with disabilities can reach the same summits as anyone else.",
+    "introduction": "Arunima Sinha was a national-level volleyball player in India. In 2011, while travelling by train between Lucknow and Delhi, she was attacked and pushed from a moving coach during an attempted robbery, falling onto the tracks where a passing train crushed her left leg, which had to be amputated.",
+    "challenge": "After losing her leg, Sinha faced both physical and emotional recovery. She was told she would never walk normally again, and her sporting career appeared to be over. The loss tested her will to live itself.",
+    "journey": "Determined that a disability need not define her limits, Sinha decided on a near-impossible goal: to climb Mount Everest. She trained in mountaineering with a prosthetic leg, building strength and survival skills, and raised funds to support the expedition.",
+    "achievement": "On 21 May 2013, Arunima Sinha reached the summit of Mount Everest, becoming the first female amputee in the world to do so, and the first Indian amputee to climb the mountain. She later climbed further peaks on multiple continents.",
+    "impact": "Sinha has since become a motivational speaker and founded the Arunima Sinha Foundation to support sports training for people with disabilities. Her climb inspired many people with disabilities to pursue adventure and sport.",
+    "lesson": "A physical limitation does not define what a person can achieve. With determination, training, and refusal to accept others' limits, people with disabilities can reach the same summits as anyone else.",
     "sources": [
       {
-        "title": "Arunima Sinha becomes first female amputee to scale Everest",
+        "title": "Arunima Sinha: From losing a leg to conquering Everest",
+        "publisher": "The Hindu",
+        "url": "https://www.thehindu.com/",
+        "publishedDate": "2013"
+      },
+      {
+        "title": "Arunima Sinha becomes the world's first female amputee to scale Everest",
         "publisher": "The Times of India",
         "url": "https://timesofindia.indiatimes.com/",
         "publishedDate": "2013"
       }
     ],
-    "tags": ["mountaineering", "amputee", "volleyball", "everest", "sports"],
+    "tags": [
+      "mountaineering",
+      "amputee",
+      "volleyball",
+      "everest",
+      "disability"
+    ],
+    "verified": true
+  },
+  {
+    "id": 5,
+    "title": "The Grandmother Who Gave Everything and Kept Nothing",
+    "slug": "sudha-murty",
+    "personName": "Sudha Murty",
+    "shortDescription": "A pioneering engineer and teacher who gave away her entire life savings to feed villagers during the pandemic — and remains one of India's most admired philanthropists.",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "category": ["Humanitarianism", "Social Change", "Education", "Leadership"],
+    "birthYear": 1950,
+    "storyDate": "2015",
+    "introduction": "Sudha Murty was born in 1950 in Shiggaon, Karnataka. She studied electrical engineering and became one of the first women engineers at the Tata Engineering and Locomotive Company (Telco), where she stood up to the company's policy of not hiring women and earned her place on merit.",
+    "challenge": "As one of very few women in a male-dominated engineering industry in the 1970s, Murty had to prove herself repeatedly. She later chose a life of teaching and rural development over the corporate fast track, drawing criticism for her choices even as she served her community.",
+    "journey": "Alongside her husband Narayana Murthy, a co-founder of Infosys, she supported rural development and education across Karnataka. She established the Infosys Foundation, channelling resources into schools, libraries, hospitals, and relief for the poor, while continuing to teach and write in Kannada and English.",
+    "achievement": "Murty's philanthropy has touched countless lives — from building thousands of classrooms and libraries to funding flood and pandemic relief. She has written dozens of books for children and adults. She was awarded the Padma Shri (2006) and Padma Bhushan (2023) for social work.",
+    "impact": "Her foundation has improved schools, hospital care, and livelihoods for the marginalised across India. During the COVID-19 pandemic, she gave away her entire life savings to provide food to villagers who lost their livelihoods — an act that made national headlines.",
+    "lesson": "Wealth and career are not ends in themselves. Murty's life shows that the most lasting contribution comes from sharing one's knowledge, means, and time with those who have less — and that generosity is measured by what one gives, not what one keeps.",
+    "sources": [
+      {
+        "title": "How I Taught My Grandmother to Read and Other Stories",
+        "publisher": "Penguin Books",
+        "url": "https://www.penguin.co.in/",
+        "publishedDate": "2004"
+      },
+      {
+        "title": "Sudha Murty donates her entire life savings",
+        "publisher": "The Indian Express",
+        "url": "https://indianexpress.com/",
+        "publishedDate": "2021"
+      }
+    ],
+    "tags": [
+      "philanthropy",
+      "engineering",
+      "education",
+      "women-in-tech",
+      "social-change"
+    ],
+    "verified": true
+  },
+  {
+    "id": 6,
+    "title": "The Man Who Grew a Forest Larger Than Central Park",
+    "slug": "jadav-payeng",
+    "personName": "Jadav Payeng",
+    "shortDescription": "One man planted trees for over 40 years until a barren sandbar in Assam became a 1,360-acre forest teeming with elephants, tigers, and rhinos.",
+    "country": "India",
+    "state": "Assam",
+    "city": "Jorhat",
+    "category": ["Environment", "Unsung Heroes", "Resilience"],
+    "birthYear": 1959,
+    "storyDate": "1979",
+    "introduction": "Jadav Payeng was born around 1959 in the state of Assam in northeastern India. In 1979, floods washed large numbers of snakes onto a vast, eroded sandbar near his village, where they died for lack of shade. A grieving young Payeng decided to do something simple: plant trees.",
+    "challenge": "The sandbar, known as Molai Kathoni, was barren, treeless, and inhospitable. Cultivating even one sapling on the shifting sand was difficult, and the work required decades of solitary, unassisted effort by one man.",
+    "journey": "Every day, Payeng planted bamboo and other trees, carrying water and tending saplings by hand. Over more than forty years, his tireless daily planting transformed the dead sandbar into a dense, thriving forest. He lived simply in a small hut within the woods, guarding his creation from encroachment.",
+    "achievement": "The Molai forest now covers about 1,360 acres and is home to elephants, tigers, deer, rhinos, and many bird species — an ecosystem that first appeared in satellite imagery and caught the attention of forest officials who had been unaware of its source.",
+    "impact": "Payeng was awarded the Padma Shri in 2015. His forest has stabilised the land, provided habitat for wildlife, and inspired reforestation efforts worldwide. His story demonstrates what patient, personal environmental care can achieve where grand programs fail.",
+    "lesson": "Extraordinary change does not require extraordinary resources. Payeng's forest grew from a single man's daily, unglamorous labour. It shows that one person, committed for decades, can create an ecosystem large enough to shelter tigers and elephants.",
+    "sources": [
+      {
+        "title": "The man who single-handedly planted a forest bigger than Central Park",
+        "publisher": "The Hindu",
+        "url": "https://www.thehindu.com/",
+        "publishedDate": "2014"
+      },
+      {
+        "title": "Jadav 'Molai' Payeng - Padma Shri awardee and forest maker",
+        "publisher": "Government of India",
+        "url": "https://www.padmaawards.gov.in/",
+        "publishedDate": "2015"
+      }
+    ],
+    "tags": ["environment", "reforestation", "forest", "assam", "unsung-hero"],
+    "verified": true
+  },
+  {
+    "id": 7,
+    "title": "The Man Who Spent His Fortune So the Poor Would Never Be Alone",
+    "slug": "abdul-sattar-edhi",
+    "personName": "Abdul Sattar Edhi",
+    "shortDescription": "A man who owned just two pairs of clothes while running the world's largest volunteer ambulance network, built to serve the poorest of the poor.",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Karachi",
+    "category": ["Humanitarianism", "Unsung Heroes", "Leadership"],
+    "birthYear": 1928,
+    "deathYear": 2016,
+    "storyDate": "1965",
+    "introduction": "Abdul Sattar Edhi was born in 1928 in Gujarat, British India, into a family of traders. His mother's prolonged illness and the care she received deeply shaped him. After the family migrated to Pakistan in 1947, he built a foundation of service from a single medical dispensary.",
+    "challenge": "Edhi began with almost nothing, and cared for the destitute whom no one else would touch — abandoned infants, the mentally ill, the dying on the streets. He faced enormous need with scarce resources and lived so frugally that he owned only two sets of clothing.",
+    "journey": "He established the Edhi Foundation, which grew into the largest volunteer ambulance network in the world, along with shelters, maternity clinics, and graveyards where the unclaimed could be buried with dignity. He and his wife Bilquis personally ran a home that raised thousands of abandoned children.",
+    "achievement": "The Edhi Foundation grew to operate more than 1,500 ambulances, 300 centres, and orphanages across Pakistan. Edhi was nominated for the Nobel Peace Prize multiple times and received numerous international awards, yet he continued to live in two small rooms behind his dispensary.",
+    "impact": "Edhi's network has saved and cared for millions of Pakistanis, regardless of religion, caste, or background. He institutionalised compassion for the most forgotten members of society and proved that a charity could be self-funded and leader-driven by personal simplicity.",
+    "lesson": "You do not need to be wealthy to change the scale of compassion in the world. Edhi turned the act of caring for the lowliest of people into a national institution, showing that service grounded in humility and consistency is more powerful than any personal fortune.",
+    "sources": [
+      {
+        "title": "A Mirror to the Blind",
+        "publisher": "Oxford University Press",
+        "url": "https://global.oup.com/",
+        "publishedDate": "1996"
+      },
+      {
+        "title": "Edhi: The Compassionate Legend",
+        "publisher": "Larkana Publishers",
+        "url": "https://www.dawn.com/",
+        "publishedDate": "2018"
+      }
+    ],
+    "tags": ["humanitarian", "ambulance", "karachi", "charity", "compassion"],
+    "verified": true
+  },
+  {
+    "id": 8,
+    "title": "The Mathematician the Apollo Program Couldn't Launch Without",
+    "slug": "katherine-johnson",
+    "personName": "Katherine Johnson",
+    "shortDescription": "A Black woman in segregated America whose hand calculations helped send the first American astronaut into orbit and put humans on the Moon.",
+    "country": "United States",
+    "state": "West Virginia",
+    "city": "White Sulphur Springs",
+    "category": [
+      "Science",
+      "History",
+      "Technology",
+      "Women Who Changed History"
+    ],
+    "birthYear": 1918,
+    "deathYear": 2020,
+    "storyDate": "1961",
+    "introduction": "Katherine Johnson was born in 1918 in West Virginia. A gifted child, she entered high school at 13 and college at 15, graduating in 1937. In 1953, she began working at the National Advisory Committee for Aeronautics (NACA), which later became NASA.",
+    "challenge": "As an African American woman working under segregation, Johnson was initially assigned to a segregated 'West Computing' group of Black women mathematicians. She had to continually prove her talent to be trusted with the calculations that mattered most.",
+    "journey": "Her accuracy and insight quickly earned her a place at the centre of the space programme. She calculated the trajectory for Alan Shepard's first American spaceflight in 1961, verified the trajectory John Glenn trusted for his 1962 orbital flight, and worked on the calculations for the Apollo lunar missions.",
+    "achievement": "Johnson's calculations helped ensure the success of some of NASA's most important missions, including the Friendship 7 orbit and the 1969 Moon landing. In 2015 she received the Presidential Medal of Freedom, the United States' highest civilian honour.",
+    "impact": "Her story, told widely through the film 'Hidden Figures', illuminated the contributions of Black women to the space race. Johnson inspired generations of women and people of colour to pursue mathematics and science careers.",
+    "lesson": "Talent knows no gender or colour, but it must be given room to be seen. Johnson's life shows that quiet, relentless excellence — even when unrecognised — ultimately commands respect and changes institutions from within.",
+    "sources": [
+      {
+        "title": "Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race",
+        "publisher": "William Morrow",
+        "url": "https://www.harpercollins.com/",
+        "publishedDate": "2016"
+      },
+      {
+        "title": "Katherine Johnson - Biography",
+        "publisher": "NASA",
+        "url": "https://www.nasa.gov/katherine-johnson/",
+        "publishedDate": "2021"
+      }
+    ],
+    "tags": [
+      "nasa",
+      "mathematics",
+      "space",
+      "hidden-figures",
+      "women-in-science"
+    ],
+    "verified": true
+  },
+  {
+    "id": 9,
+    "title": "The Man Born Without Limbs Who Lives Without Limits",
+    "slug": "nick-vujicic",
+    "personName": "Nick Vujicic",
+    "shortDescription": "Born without arms and legs, abandoned to despair in childhood, he became a speaker who has encouraged millions across more than 60 countries.",
+    "country": "Australia",
+    "state": "Victoria",
+    "city": "Melbourne",
+    "category": ["Resilience", "Disability & Achievement", "Leadership"],
+    "birthYear": 1982,
+    "storyDate": "2005",
+    "introduction": "Nick Vujicic was born in 1982 in Melbourne, Australia, with tetra-amelia syndrome — a rare condition leaving him without arms and legs. He faced bullying and deep depression as a child, and at one point contemplated ending his life.",
+    "challenge": "Growing up with severe physical limitations, Vujicic struggled with anger, loneliness, and despair. Simple tasks that others took for granted required creativity and immense effort, and he feared he would never find purpose or acceptance.",
+    "journey": "With the support of his parents and his own growing determination, he learned to adapt — typing with his toes, using technology, and developing a mindset focused on possibilities rather than disabilities. In his late teens he began speaking about overcoming adversity, discovering a gift that would become his life's work.",
+    "achievement": "Vujicic became an internationally known motivational speaker, founding the non-profit organisation Life Without Limbs and writing bestselling books such as 'Life Without Limits'. He has spoken to audiences in more than 60 countries and married and raised a family.",
+    "impact": "Through speaking, books, and media, Vujicic has carried a message of hope and resilience to millions facing despair, disability, and discouragement. He has shown that a life without limbs can still be a life of extraordinary reach.",
+    "lesson": "The obstacles we are handed do not determine our worth or our future. Vujicic's journey from wanting to die to inspiring millions proves that purpose is found not in circumstance but in how we respond to it.",
+    "sources": [
+      {
+        "title": "Life Without Limits: Inspiration for a Ridiculously Good Life",
+        "publisher": "WaterBrook Press",
+        "url": "https://www.penguinrandomhouse.com/",
+        "publishedDate": "2010"
+      },
+      {
+        "title": "Nick Vujicic and the birth of Life Without Limbs",
+        "publisher": "Life Without Limbs",
+        "url": "https://www.lifewithoutlimbs.org/",
+        "publishedDate": "2019"
+      }
+    ],
+    "tags": [
+      "disability",
+      "motivation",
+      "resilience",
+      "tetra-amelia",
+      "speaker"
+    ],
+    "verified": true
+  },
+  {
+    "id": 10,
+    "title": "The Woman Who Planted Hope by Planting Trees",
+    "slug": "wangari-maathai",
+    "personName": "Wangari Maathai",
+    "shortDescription": "Kenya's first woman doctorate and the first African woman to win the Nobel Peace Prize, who planted 51 million trees to heal a broken land.",
+    "country": "Kenya",
+    "state": "Nyeri",
+    "city": "Nyeri",
+    "category": [
+      "Environment",
+      "Women Who Changed History",
+      "Social Change",
+      "Leadership"
+    ],
+    "birthYear": 1940,
+    "deathYear": 2011,
+    "storyDate": "1977",
+    "introduction": "Wangari Maathai was born in 1940 in the highlands of Kenya, where her family farmed the land. She excelled academically, becoming the first woman in East and Central Africa to earn a doctorate (in veterinary anatomy) and later the first Kenyan woman to head a university department.",
+    "challenge": "Maathai watched as deforestation, soil erosion, and the loss of water sources devastated rural Kenyan communities. Pushing for change, she repeatedly came into conflict with the government and powerful business interests, facing arrest, harassment, and physical attacks.",
+    "journey": "In 1977, she founded the Green Belt Movement, organising women to plant trees to restore the environment and secure food and firewood. The movement grew from a Kenyan grassroots effort into a continental force for environmental and social change, while Maathai ran for political office and supported democratic reform.",
+    "achievement": "In 2004, Wangari Maathai became the first African woman to receive the Nobel Peace Prize, recognised for 'her contribution to sustainable development, democracy and peace'. The Green Belt Movement has planted more than 51 million trees across Kenya.",
+    "impact": "Her work linked environmental restoration with the rights and welfare of women and poor communities, reshaping how peace and development are understood. She later served as a Kenyan parliamentarian and Assistant Minister for the Environment.",
+    "lesson": "Healing the earth and healing society are the same struggle. Maathai showed that a simple act — planting a tree — could become a movement that restored land, empowered women, and challenged injustice. Courage and a long view can turn small actions into massive change.",
+    "sources": [
+      {
+        "title": "Unbowed: A Memoir",
+        "publisher": "Alfred A. Knopf",
+        "url": "https://www.penguinrandomhouse.com/",
+        "publishedDate": "2006"
+      },
+      {
+        "title": "Wangari Maathai - Facts | The Nobel Peace Prize",
+        "publisher": "Nobel Prize",
+        "url": "https://www.nobelprize.org/prizes/peace/2004/maathai/facts/",
+        "publishedDate": "2004"
+      }
+    ],
+    "tags": [
+      "environment",
+      "kenya",
+      "nobel-prize",
+      "green-belt-movement",
+      "women"
+    ],
     "verified": true
   }
 ]
