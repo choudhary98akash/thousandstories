@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+.angular/
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# Generated files
+*.generated.*
+*.ngsummary.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Memory (agent episodic data)
+memory/
+MEMORY.md

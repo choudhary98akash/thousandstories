@@ -1,0 +1,11 @@
+[
+  {
+    "name": "India",
+    "regions": [
+      {
+        "name": "Uttar Pradesh",
+        "cities": ["Ambedkar Nagar", "Lucknow", "Varanasi"]
+      }
+    ]
+  }
+]

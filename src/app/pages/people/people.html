@@ -1,0 +1,30 @@
+<div class="page">
+  <header class="page-header">
+    <div class="reading-width">
+      <h1>People</h1>
+      <p>Browse the people whose stories we tell, alphabetically.</p>
+    </div>
+  </header>
+
+  <div class="reading-width">
+    @if (loading()) {
+    <p class="state">Loading people…</p>
+    } @else { @for (entry of people(); track entry.letter) {
+    <section class="letter-group">
+      <h2 class="letter">{{ entry.letter }}</h2>
+      <ul class="people-list">
+        @for (person of entry.people; track person.id) {
+        <li>
+          <a [routerLink]="['/stories', person.slug]"
+            >{{ person.personName }}</a
+          >
+          <span class="person-meta">
+            — {{ person.country }} · {{ person.category.join(', ') }}</span
+          >
+        </li>
+        }
+      </ul>
+    </section>
+    } }
+  </div>
+</div>

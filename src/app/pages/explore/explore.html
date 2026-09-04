@@ -1,0 +1,80 @@
+<div class="page">
+  <header class="page-header">
+    <div class="reading-width">
+      <h1>Explore Stories</h1>
+      <p>Browse all stories by person, country, or theme.</p>
+    </div>
+  </header>
+
+  <div class="reading-width">
+    <div class="controls">
+      <label class="search">
+        <span class="sr-only">Search stories</span>
+        <input
+          type="search"
+          placeholder="Search by person, place, or topic…"
+          [value]="query()"
+          (input)="setQuery($any($event.target).value)"
+        />
+      </label>
+
+      <div class="filters">
+        <label>
+          Category
+          <select
+            [value]="selectedCategory()"
+            (change)="setCategory($any($event.target).value)"
+          >
+            <option value="">All categories</option>
+            @for (cat of categories(); track cat) {
+            <option [value]="cat">{{ cat }}</option>
+            }
+          </select>
+        </label>
+
+        <label>
+          Country
+          <select
+            [value]="selectedCountry()"
+            (change)="setCountry($any($event.target).value)"
+          >
+            <option value="">All countries</option>
+            @for (country of countries(); track country) {
+            <option [value]="country">{{ country }}</option>
+            }
+          </select>
+        </label>
+      </div>
+    </div>
+
+    @if (loading()) {
+    <p class="state">Loading stories…</p>
+    } @else if (filteredStories().length === 0) {
+    <p class="state">No stories match your filters.</p>
+    } @else {
+    <p class="result-count">
+      {{ filteredStories().length }} story{{ filteredStories().length === 1 ? ''
+      : 's' }} found
+    </p>
+
+    <div class="grid">
+      @for (story of filteredStories(); track story.id) {
+      <article class="card">
+        <a [routerLink]="['/stories', story.slug]" class="card-link">
+          <h2>{{ story.personName }}</h2>
+          <p class="card-desc">{{ story.shortDescription }}</p>
+          <p class="card-meta">
+            {{ story.country }}{{ story.state ? ' · ' + story.state : '' }}
+          </p>
+          <p class="card-cats">
+            @for (cat of story.category; track cat) {
+            <span class="tag">{{ cat }}</span>
+            }
+          </p>
+        </a>
+      </article>
+      }
+    </div>
+    }
+  </div>
+</div>

@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "title": "The First Woman to Climb Everest as an Amputee",
+    "slug": "arunima-sinha",
+    "personName": "Arunima Sinha",
+    "shortDescription": "From surviving a train fall that cost her a leg to becoming the world's first female amputee to summit Mount Everest.",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Ambedkar Nagar",
+    "category": ["Courage", "Disability & Achievement", "Sports"],
+    "birthYear": 1989,
+    "storyDate": "2013",
+    "introduction": "Arunima Sinha was a national-level volleyball player in India. In 2011, while travelling by train, she was thrown from a moving coach during an attempted robbery and fell onto the tracks, where a passing train crushed her left leg, which had to be amputated.",
+    "challenge": "After losing her leg, Sinha faced both physical and emotional recovery. She was told she would never walk normally again, and her sports career appeared to be over.",
+    "journey": "Determined to prove that a disability need not define her limits, Sinha set a new goal: to climb Mount Everest. She trained in mountaineering, learning to climb with a prosthetic leg, and raised funds to support the expedition.",
+    "achievement": "On 21 May 2013, Arunima Sinha reached the summit of Mount Everest, becoming the first female amputee in the world to do so. She became the first Indian amputee to climb the mountain.",
+    "impact": "Sinha has since become a motivational speaker and founded the Arunima Sinha Foundation to support sports training for people with disabilities. Her climb inspired many people with disabilities to pursue adventure sports.",
+    "lesson": "A physical limitation does not define what a person can achieve. With determination and training, athletes with disabilities can reach the same summits as anyone else.",
+    "sources": [
+      {
+        "title": "Arunima Sinha becomes first female amputee to scale Everest",
+        "publisher": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/",
+        "publishedDate": "2013"
+      }
+    ],
+    "tags": ["mountaineering", "amputee", "volleyball", "everest", "sports"],
+    "verified": true
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "courage",
+    "name": "Courage",
+    "description": "Acts of extraordinary bravery in the face of danger or adversity."
+  },
+  {
+    "id": "resilience",
+    "name": "Resilience",
+    "description": "People who recovered from setbacks and kept going."
+  },
+  {
+    "id": "disability-achievement",
+    "name": "Disability & Achievement",
+    "description": "Achievements by people with disabilities."
+  },
+  {
+    "id": "sports",
+    "name": "Sports",
+    "description": "Athletes and sporting achievements."
+  }
+]

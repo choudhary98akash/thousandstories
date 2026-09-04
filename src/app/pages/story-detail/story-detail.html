@@ -1,0 +1,82 @@
+@if (loading()) {
+<div class="reading-width loading">Loading story...</div>
+} @if (story(); as story) {
+<article class="reading-width story">
+  <header class="story-header">
+    <p class="eyebrow">
+      @for (cat of story.category; track cat) {
+      <a [routerLink]="['/stories']" [queryParams]="{ category: cat }"
+        >{{ cat }}</a
+      >
+      }
+    </p>
+    <p class="kicker">The Story of</p>
+    <h1>{{ story.personName }}</h1>
+    <p class="intro">{{ story.shortDescription }}</p>
+    <p class="meta">
+      {{ story.country }}{{ story.state ? ' · ' + story.state : '' }}{{
+      story.city ? ' · ' + story.city : '' }} @if (story.storyDate) { · {{
+      story.storyDate }} }
+    </p>
+    <p class="verified" [attr.aria-label]="'Verification status'">
+      ✓ {{ story.verified ? 'Sources Verified' : 'Historical Sources' }}
+    </p>
+  </header>
+
+  <section class="story-section">
+    <h2>The Beginning</h2>
+    <p>{{ story.introduction }}</p>
+  </section>
+
+  <section class="story-section">
+    <h2>The Challenge</h2>
+    <p>{{ story.challenge }}</p>
+  </section>
+
+  <section class="story-section">
+    <h2>The Journey</h2>
+    <p>{{ story.journey }}</p>
+  </section>
+
+  <section class="story-section">
+    <h2>What Happened</h2>
+    <p>{{ story.achievement }}</p>
+  </section>
+
+  <section class="story-section">
+    <h2>The Impact</h2>
+    <p>{{ story.impact }}</p>
+  </section>
+
+  <section class="story-section">
+    <h2>What We Can Learn</h2>
+    <p>{{ story.lesson }}</p>
+  </section>
+
+  <section class="sources">
+    <h2>Sources</h2>
+    <ul>
+      @for (source of story.sources; track source.url) {
+      <li>
+        <a [href]="source.url" target="_blank" rel="noopener">
+          {{ source.title }}
+        </a>
+        <p class="source-pub">
+          {{ source.publisher }}{{ source.publishedDate ? ' · ' +
+          source.publishedDate : '' }}
+        </p>
+      </li>
+      }
+    </ul>
+    <p class="source-meta">
+      Sources: {{ story.sources.length }} · Last reviewed: {{ story.storyDate ??
+      '—' }}
+    </p>
+  </section>
+</article>
+} @else if (!loading()) {
+<div class="reading-width not-found">
+  <h1>Story not found</h1>
+  <a routerLink="/stories">Browse all stories</a>
+</div>
+}

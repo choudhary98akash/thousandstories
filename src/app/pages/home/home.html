@@ -1,0 +1,73 @@
+<header class="site-header">
+  <a routerLink="/" class="brand">A Thousand Stories</a>
+  <nav aria-label="Primary">
+    <a routerLink="/stories">Stories</a>
+    <a routerLink="/people">People</a>
+    <a routerLink="/collections">Collections</a>
+    <a routerLink="/methodology">Methodology</a>
+  </nav>
+</header>
+
+<main>
+  <section class="hero">
+    <h1>1,000 Lives. 1,000 Journeys. All Real.</h1>
+    <p class="hero-sub">
+      Stories of people who lived through failure, struggle, courage, discovery
+      and change — documented from the real world.
+    </p>
+    <div class="hero-actions">
+      <a class="btn btn-primary" routerLink="/stories">Explore Stories</a>
+      <button class="btn btn-secondary" type="button" (click)="randomStory()">
+        Discover a Random Story
+      </button>
+    </div>
+  </section>
+
+  @if (featuredStory(); as story) {
+  <section class="featured" aria-label="Featured story">
+    <div class="reading-width">
+      <p class="eyebrow">Today's Story</p>
+      <h2>The Story of {{ story.personName }}</h2>
+      <p class="story-meta">
+        {{ story.country }}{{ story.state ? ' · ' + story.state : '' }} · {{
+        story.storyDate ?? story.birthYear }}
+      </p>
+      <p class="story-desc">{{ story.shortDescription }}</p>
+      <a class="btn btn-primary" [routerLink]="['/stories', story.slug]"
+        >Read the story</a
+      >
+    </div>
+  </section>
+  }
+
+  <section class="mission" aria-label="The mission">
+    <div class="reading-width">
+      <h2>You May Not Know Them.</h2>
+      <p>But their story happened.</p>
+      <ul>
+        <li>1,000 real stories.</li>
+        <li>No fiction.</li>
+        <li>No invented heroes.</li>
+        <li>No manufactured inspiration.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="cta" aria-label="Tell me a story">
+    <div class="reading-width">
+      <h2>Tell Me a Story</h2>
+      <p>You didn't choose this story. Maybe you needed it.</p>
+      <button class="btn btn-primary" type="button" (click)="randomStory()">
+        Read a Story →
+      </button>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="reading-width">
+    <p>A Thousand Stories · No fiction, just people who lived.</p>
+    <a routerLink="/about">About</a> ·
+    <a routerLink="/methodology">Sources &amp; Methodology</a>
+  </div>
+</footer>
