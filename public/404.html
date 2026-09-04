@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex" />
+    <title>A Thousand Stories</title>
+    <script>
+      // GitHub Pages returns this file for any unknown URL. Preserve the
+      // deep link so the SPA can restore it after loading, then land on the
+      // app root. See src/main.ts for the restore logic.
+      (function () {
+        try {
+          sessionStorage.setItem(
+            "gh-pages-404",
+            window.location.pathname + window.location.search,
+          );
+        } catch (e) {
+          /* storage unavailable */
+        }
+        window.location.replace("/thousandstories/");
+      })();
+    </script>
+  </head>
+  <body>
+    <p style="font-family: Georgia, serif; text-align: center; padding: 3rem">
+      Redirecting to the archive…
+    </p>
+  </body>
+</html>
