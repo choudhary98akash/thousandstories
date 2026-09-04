@@ -1,73 +1,181 @@
-<header class="site-header">
-  <a routerLink="/" class="brand">A Thousand Stories</a>
-  <nav aria-label="Primary">
-    <a routerLink="/stories">Stories</a>
-    <a routerLink="/people">People</a>
-    <a routerLink="/collections">Collections</a>
-    <a routerLink="/methodology">Methodology</a>
-  </nav>
-</header>
-
-<main>
-  <section class="hero">
-    <h1>1,000 Lives. 1,000 Journeys. All Real.</h1>
+<section class="hero">
+  <div class="container hero-inner">
+    <p class="eyebrow hero-eyebrow">A living archive of the real</p>
+    <h1 class="hero-title">
+      1,000 lives.<br />
+      <em>1,000 journeys.</em><br />
+      All&nbsp;real.
+    </h1>
     <p class="hero-sub">
-      Stories of people who lived through failure, struggle, courage, discovery
-      and change — documented from the real world.
+      Stories of ordinary people who lived through failure, struggle, courage,
+      discovery and change — documented from the real world, never invented.
     </p>
     <div class="hero-actions">
-      <a class="btn btn-primary" routerLink="/stories">Explore Stories</a>
-      <button class="btn btn-secondary" type="button" (click)="randomStory()">
-        Discover a Random Story
+      <a class="btn btn-primary" routerLink="/stories">
+        Explore the stories <span aria-hidden="true">→</span>
+      </a>
+      <button class="btn btn-light" type="button" (click)="randomStory()">
+        Tell me a story
       </button>
     </div>
-  </section>
-
-  @if (featuredStory(); as story) {
-  <section class="featured" aria-label="Featured story">
-    <div class="reading-width">
-      <p class="eyebrow">Today's Story</p>
-      <h2>The Story of {{ story.personName }}</h2>
-      <p class="story-meta">
-        {{ story.country }}{{ story.state ? ' · ' + story.state : '' }} · {{
-        story.storyDate ?? story.birthYear }}
-      </p>
-      <p class="story-desc">{{ story.shortDescription }}</p>
-      <a class="btn btn-primary" [routerLink]="['/stories', story.slug]"
-        >Read the story</a
-      >
+    <div class="stat-line hero-stats">
+      <div class="stat">
+        <div class="stat-num">{{ counts().stories }}</div>
+        <div class="stat-label">Documented stories</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num">{{ counts().countries }}</div>
+        <div class="stat-label">Countries</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num">{{ counts().categories }}</div>
+        <div class="stat-label">Categories of courage</div>
+      </div>
     </div>
-  </section>
-  }
-
-  <section class="mission" aria-label="The mission">
-    <div class="reading-width">
-      <h2>You May Not Know Them.</h2>
-      <p>But their story happened.</p>
-      <ul>
-        <li>1,000 real stories.</li>
-        <li>No fiction.</li>
-        <li>No invented heroes.</li>
-        <li>No manufactured inspiration.</li>
-      </ul>
-    </div>
-  </section>
-
-  <section class="cta" aria-label="Tell me a story">
-    <div class="reading-width">
-      <h2>Tell Me a Story</h2>
-      <p>You didn't choose this story. Maybe you needed it.</p>
-      <button class="btn btn-primary" type="button" (click)="randomStory()">
-        Read a Story →
-      </button>
-    </div>
-  </section>
-</main>
-
-<footer class="site-footer">
-  <div class="reading-width">
-    <p>A Thousand Stories · No fiction, just people who lived.</p>
-    <a routerLink="/about">About</a> ·
-    <a routerLink="/methodology">Sources &amp; Methodology</a>
   </div>
-</footer>
+</section>
+
+@if (featured(); as story) {
+<section class="featured-story" aria-label="Featured story">
+  <div class="container">
+    <div class="featured-topline">
+      <p class="eyebrow">Today's story</p>
+      <hr class="rule-line" />
+      @if (featured(); as st) {
+      <p class="featured-index">{{ pad(st.id) }}</p>
+      }
+    </div>
+    <div class="featured-grid">
+      <div class="featured-media" aria-hidden="true">
+        <span class="quote-mark">“</span>
+      </div>
+      <div class="featured-body">
+        <p class="featured-kicker">The story of</p>
+        <h2 class="featured-name">{{ story.personName }}</h2>
+        <p class="featured-loc">
+          {{ story.country }} @if (story.state) {
+          <span> · </span>{{ story.state }} } <span> · </span>{{ story.storyDate
+          ?? story.birthYear }}
+        </p>
+        <p class="featured-desc">{{ story.shortDescription }}</p>
+        <div class="featured-tags">
+          @for (cat of story.category; track cat) {
+          <span class="tag">{{ cat }}</span>
+          }
+        </div>
+        <a class="btn btn-ink" [routerLink]="['/stories', story.slug]">
+          Read her story <span aria-hidden="true">→</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+}
+
+<section class="section unknowable">
+  <div class="container section-head">
+    <div>
+      <p class="eyebrow">Lesser-known &amp; overlooked</p>
+      <h2 class="section-title">
+        You may not know them.<br /><em>But their story happened.</em>
+      </h2>
+    </div>
+    <a class="btn btn-ghost" routerLink="/stories">View all</a>
+  </div>
+  <div class="container card-row">
+    @for (story of lesserKnown(); track story.id) {
+    <a class="ed-card" [routerLink]="['/stories', story.slug]">
+      <p class="ed-num">{{ pad(story.id) }}</p>
+      <h3 class="ed-name">{{ story.personName }}</h3>
+      <p class="ed-loc">
+        {{ story.country }} @if (story.state) { · {{ story.state }} }
+      </p>
+      <p class="ed-desc">{{ story.shortDescription }}</p>
+      <span class="ed-link">Read story <span aria-hidden="true">→</span></span>
+    </a>
+    }
+  </div>
+</section>
+
+<section class="section discover">
+  <div class="container">
+    <p class="eyebrow">Find your story</p>
+    <h2 class="section-title">Discover by place <em>&amp; experience</em></h2>
+    <div class="discover-grid">
+      <div class="discover-block">
+        <p class="discover-label">By country</p>
+        <div class="discover-chips">
+          @for (country of countries(); track country) {
+          <a
+            class="chip"
+            [routerLink]="['/stories']"
+            [queryParams]="{ country }"
+            >{{ country }}</a
+          >
+          }
+        </div>
+      </div>
+      <div class="discover-block">
+        <p class="discover-label">By experience</p>
+        <div class="discover-chips">
+          @for (cat of categories(); track cat) {
+          <a
+            class="chip"
+            [routerLink]="['/stories']"
+            [queryParams]="{ category: cat }"
+            >{{ cat }}</a
+          >
+          }
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section serendipity">
+  <div class="container serendipity-inner">
+    <div>
+      <p class="eyebrow eyebrow-light">Tell me a story</p>
+      <h2 class="serendipity-title">
+        You didn't choose this story.<br />
+        <em>Maybe you needed it.</em>
+      </h2>
+    </div>
+    <button class="btn btn-light btn-lg" type="button" (click)="randomStory()">
+      Read a random story <span aria-hidden="true">→</span>
+    </button>
+  </div>
+</section>
+
+<section class="section mission">
+  <div class="container section-head">
+    <p class="eyebrow">The mission</p>
+    <h2 class="section-title">Truth before spectacle.</h2>
+  </div>
+  <div class="container mission-principles">
+    <div class="principle">
+      <span class="principle-mark">01</span>
+      <h3>Real people</h3>
+      <p>
+        Every person is real. No fabricated heroes, no invented biographies, no
+        composite characters.
+      </p>
+    </div>
+    <div class="principle">
+      <span class="principle-mark">02</span>
+      <h3>Documented sources</h3>
+      <p>
+        Each account rests on verifiable references — books, archives,
+        institutions and reputable reporting.
+      </p>
+    </div>
+    <div class="principle">
+      <span class="principle-mark">03</span>
+      <h3>No manufactured inspiration</h3>
+      <p>
+        We never invent drama for effect. When facts are uncertain, we say so.
+        Truth is the product.
+      </p>
+    </div>
+  </div>
+</section>

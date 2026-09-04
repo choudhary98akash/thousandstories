@@ -14,6 +14,7 @@ export class StoryDetail {
 
   readonly slug = input.required<string>();
   readonly story = signal<Story | undefined>(undefined);
+  readonly moreStories = signal<Story[]>([]);
   readonly loading = signal(true);
 
   constructor() {
@@ -25,5 +26,15 @@ export class StoryDetail {
         this.loading.set(false);
       });
     });
+
+    this.storyService.getStories().subscribe((stories) => {
+      const withoutCurrent = stories.filter((s) => s.slug !== this.slug());
+      const pool = withoutCurrent.slice(0, 4);
+      this.moreStories.set(pool);
+    });
+  }
+
+  pad(id: number): string {
+    return String(id).padStart(4, "0");
   }
 }

@@ -1,82 +1,170 @@
 @if (loading()) {
-<div class="reading-width loading">Loading story...</div>
+<div class="story-loading">
+  <div class="container"><p>Gathering the story…</p></div>
+</div>
 } @if (story(); as story) {
-<article class="reading-width story">
-  <header class="story-header">
-    <p class="eyebrow">
-      @for (cat of story.category; track cat) {
-      <a [routerLink]="['/stories']" [queryParams]="{ category: cat }"
-        >{{ cat }}</a
-      >
-      }
-    </p>
-    <p class="kicker">The Story of</p>
-    <h1>{{ story.personName }}</h1>
-    <p class="intro">{{ story.shortDescription }}</p>
-    <p class="meta">
-      {{ story.country }}{{ story.state ? ' · ' + story.state : '' }}{{
-      story.city ? ' · ' + story.city : '' }} @if (story.storyDate) { · {{
-      story.storyDate }} }
-    </p>
-    <p class="verified" [attr.aria-label]="'Verification status'">
-      ✓ {{ story.verified ? 'Sources Verified' : 'Historical Sources' }}
-    </p>
+<article>
+  <header class="story-hero">
+    <div class="container story-hero-inner">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a routerLink="/stories">All stories</a>
+        <span aria-hidden="true">/</span>
+        <span>{{ story.country }}</span>
+      </nav>
+      <p class="story-kicker">The story of</p>
+      <h1 class="story-name">{{ story.personName }}</h1>
+      <p class="story-intro">{{ story.shortDescription }}</p>
+      <div class="story-facts">
+        <div class="fact">
+          <span class="fact-label">Location</span>
+          <span class="fact-value">
+            {{ story.country }} @if (story.state) { · {{ story.state }} } @if
+            (story.city) { · {{ story.city }} }
+          </span>
+        </div>
+        <div class="fact">
+          <span class="fact-label">Year</span>
+          <span class="fact-value"
+            >{{ story.storyDate ?? story.birthYear }}</span
+          >
+        </div>
+        <div class="fact">
+          <span class="fact-label">Status</span>
+          <span class="fact-value fact-verified">
+            ✓ {{ story.verified ? 'Sources verified' : 'Historical sources' }}
+          </span>
+        </div>
+      </div>
+      <div class="story-tags">
+        @for (cat of story.category; track cat) {
+        <a
+          class="tag"
+          [routerLink]="['/stories']"
+          [queryParams]="{ category: cat }"
+          >{{ cat }}</a
+        >
+        }
+      </div>
+    </div>
   </header>
 
-  <section class="story-section">
-    <h2>The Beginning</h2>
-    <p>{{ story.introduction }}</p>
-  </section>
-
-  <section class="story-section">
-    <h2>The Challenge</h2>
-    <p>{{ story.challenge }}</p>
-  </section>
-
-  <section class="story-section">
-    <h2>The Journey</h2>
-    <p>{{ story.journey }}</p>
-  </section>
-
-  <section class="story-section">
-    <h2>What Happened</h2>
-    <p>{{ story.achievement }}</p>
-  </section>
-
-  <section class="story-section">
-    <h2>The Impact</h2>
-    <p>{{ story.impact }}</p>
-  </section>
-
-  <section class="story-section">
-    <h2>What We Can Learn</h2>
-    <p>{{ story.lesson }}</p>
-  </section>
-
-  <section class="sources">
-    <h2>Sources</h2>
-    <ul>
-      @for (source of story.sources; track source.url) {
-      <li>
-        <a [href]="source.url" target="_blank" rel="noopener">
-          {{ source.title }}
-        </a>
-        <p class="source-pub">
-          {{ source.publisher }}{{ source.publishedDate ? ' · ' +
-          source.publishedDate : '' }}
+  <div class="container story-layout">
+    <aside class="story-aside">
+      <div class="aside-block">
+        <p class="aside-title">Record</p>
+        <p class="aside-id">Story {{ pad(story.id) }}</p>
+        <p class="aside-field">
+          Born {{ story.birthYear ?? '—' }}{{ story.deathYear ? ' · Died ' +
+          story.deathYear : '' }}
         </p>
-      </li>
-      }
-    </ul>
-    <p class="source-meta">
-      Sources: {{ story.sources.length }} · Last reviewed: {{ story.storyDate ??
-      '—' }}
-    </p>
-  </section>
+        <p class="aside-field">
+          Life spans {{ story.birthYear ?? '?' }}{{ story.deathYear ? '–' +
+          story.deathYear : '+' }}
+        </p>
+      </div>
+      <div class="aside-block">
+        <p class="aside-title">Sources</p>
+        <p class="aside-sources">
+          {{ story.sources.length }} documented sources
+        </p>
+        <ul class="aside-source-list">
+          @for (source of story.sources; track source.url) {
+          <li>
+            <a [href]="source.url" target="_blank" rel="noopener"
+              >{{ source.title }}</a
+            >
+            <span class="aside-source-pub">{{ source.publisher }}</span>
+          </li>
+          }
+        </ul>
+      </div>
+    </aside>
+
+    <div class="story-body">
+      <section class="chapter">
+        <p class="chapter-label">The beginning</p>
+        <p class="chapter-text drop-cap">{{ story.introduction }}</p>
+      </section>
+
+      <section class="chapter">
+        <p class="chapter-label">The challenge</p>
+        <p class="chapter-text">{{ story.challenge }}</p>
+      </section>
+
+      <section class="chapter">
+        <p class="chapter-label">The journey</p>
+        <p class="chapter-text">{{ story.journey }}</p>
+      </section>
+
+      <section class="chapter">
+        <p class="chapter-label">What happened</p>
+        <p class="chapter-text">{{ story.achievement }}</p>
+      </section>
+
+      <section class="chapter">
+        <p class="chapter-label">The impact</p>
+        <p class="chapter-text">{{ story.impact }}</p>
+      </section>
+
+      <section class="chapter chapter-lesson">
+        <p class="chapter-label">What we can learn</p>
+        <blockquote class="lesson-quote">{{ story.lesson }}</blockquote>
+      </section>
+
+      <section class="sources-list">
+        <p class="sources-heading">Sources &amp; references</p>
+        <ol>
+          @for (source of story.sources; track source.url) {
+          <li>
+            <a [href]="source.url" target="_blank" rel="noopener"
+              >{{ source.title }}</a
+            >
+            <p class="sources-meta">
+              {{ source.publisher }}{{ source.publishedDate ? ' · ' +
+              source.publishedDate : '' }}
+            </p>
+          </li>
+          }
+        </ol>
+        <p class="src-note">
+          Last reviewed {{ story.storyDate ?? '—' }} · Reported in good faith
+          with verifiable references. Read our
+          <a routerLink="/methodology">methodology</a>.
+        </p>
+      </section>
+    </div>
+  </div>
 </article>
 } @else if (!loading()) {
-<div class="reading-width not-found">
-  <h1>Story not found</h1>
-  <a routerLink="/stories">Browse all stories</a>
+<div class="not-found">
+  <div class="container">
+    <h1>This story has gone missing.</h1>
+    <p>It may not have been documented yet.</p>
+    <a class="btn btn-primary" routerLink="/stories">Browse all stories</a>
+  </div>
 </div>
+} @if (moreStories().length) {
+<section class="more-section">
+  <div class="container">
+    <div class="more-head">
+      <p class="eyebrow">Keep wandering</p>
+      <h2 class="more-title">More stories to stumble upon</h2>
+    </div>
+    <div class="more-grid">
+      @for (story of moreStories(); track story.id) {
+      <a class="ed-card" [routerLink]="['/stories', story.slug]">
+        <p class="ed-num">{{ pad(story.id) }}</p>
+        <h3 class="ed-name">{{ story.personName }}</h3>
+        <p class="ed-loc">
+          {{ story.country }} · {{ story.storyDate ?? story.birthYear }}
+        </p>
+        <p class="ed-desc">{{ story.shortDescription }}</p>
+        <span class="ed-link"
+          >Read story <span aria-hidden="true">→</span></span
+        >
+      </a>
+      }
+    </div>
+  </div>
+</section>
 }

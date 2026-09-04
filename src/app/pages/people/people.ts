@@ -18,10 +18,12 @@ export class People {
   private readonly storyService = inject(StoryService);
 
   readonly people = signal<PersonEntry[]>([]);
+  readonly count = signal(0);
   readonly loading = signal(true);
 
   constructor() {
     this.storyService.getStories().subscribe((stories) => {
+      this.count.set(stories.length);
       const sorted = [...stories].sort((a, b) =>
         a.personName.localeCompare(b.personName),
       );

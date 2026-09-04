@@ -1,26 +1,43 @@
-<div class="page">
-  <header class="page-header">
-    <div class="reading-width">
-      <h1>Collections</h1>
-      <p>Stories grouped by theme and experience.</p>
+<section class="page-head">
+  <div class="container page-head-inner">
+    <div>
+      <p class="eyebrow">Collections</p>
+      <h1 class="page-title">Stories that belong together</h1>
+      <p class="page-sub">
+        Lives grouped by the experiences they share — courage, discovery,
+        resilience and more.
+      </p>
     </div>
-  </header>
-
-  <div class="reading-width">
-    <p class="state">
-      Collections are coming soon. As more stories are documented, they will be
-      grouped into themes like:
-    </p>
-    <ul class="ideas">
-      <li>People Who Started With Nothing</li>
-      <li>Scientists Who Changed What We Know</li>
-      <li>People Who Failed Before They Succeeded</li>
-      <li>Stories From India</li>
-      <li>Unsung Heroes</li>
-      <li>People Who Changed Their Communities</li>
-    </ul>
-    <p class="note">
-      <a routerLink="/stories">Explore stories</a> in the meantime.
-    </p>
+    <a class="btn btn-primary" routerLink="/stories">Explore all</a>
   </div>
-</div>
+</section>
+
+<section class="collections-body">
+  <div class="container">
+    @if (loading()) {
+    <p class="state">Curating collections…</p>
+    } @else { @for (collection of collections(); track collection.name) {
+    <div class="collection">
+      <div class="collection-head">
+        <h2 class="collection-title">{{ collection.name }}</h2>
+        <span class="collection-count">
+          {{ collection.stories.length }} story{{ collection.stories.length ===
+          1 ? '' : 's' }}
+        </span>
+      </div>
+      <div class="collection-row">
+        @for (story of collection.stories; track story.id) {
+        <a class="member" [routerLink]="['/stories', story.slug]">
+          <p class="member-num">{{ pad(story.id) }}</p>
+          <h3 class="member-name">{{ story.personName }}</h3>
+          <p class="member-meta">
+            {{ story.country }} @if (story.storyDate) { · {{ story.storyDate }}
+            }
+          </p>
+        </a>
+        }
+      </div>
+    </div>
+    } }
+  </div>
+</section>

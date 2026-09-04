@@ -1,30 +1,119 @@
-.page-header {
-  background-color: var(--color-secondary);
-  color: var(--color-surface);
-  padding: 64px 0;
-  margin-bottom: 40px;
+.page-head {
+  background: var(--paper-deep);
+  border-bottom: 1px solid var(--line);
+  padding: clamp(56px, 8vw, 96px) 0;
 
-  h1 {
-    color: var(--color-surface);
-    font-size: clamp(28px, 4vw, 40px);
-    margin: 0 0 8px;
+  .page-head-inner {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 32px;
+    flex-wrap: wrap;
   }
 
-  p {
-    margin: 0;
-    color: rgba(255, 255, 255, 0.8);
+  .page-title {
+    font-size: clamp(38px, 6vw, 64px);
+    font-weight: 900;
+    letter-spacing: -0.02em;
+    margin-top: 14px;
+  }
+
+  .page-sub {
+    max-width: 540px;
+    color: var(--muted);
+    font-size: 17px;
+    margin: 16px 0 0;
+  }
+}
+
+.collections-body {
+  padding: clamp(40px, 6vw, 64px) 0 96px;
+}
+
+.collection {
+  margin-bottom: 56px;
+
+  .collection-head {
+    display: flex;
+    align-items: baseline;
+    gap: 20px;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 14px;
+    margin-bottom: 24px;
+
+    .collection-title {
+      font-size: clamp(26px, 4vw, 40px);
+      font-weight: 900;
+      letter-spacing: -0.02em;
+    }
+
+    .collection-count {
+      font-family: var(--font-display);
+      font-style: italic;
+      font-size: 16px;
+      color: var(--muted);
+    }
+  }
+
+  .collection-row {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 16px;
+  }
+
+  .member {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-md);
+    padding: 22px 20px;
+    color: var(--ink);
+    transition:
+      transform 0.2s ease,
+      box-shadow 0.2s ease,
+      border-color 0.2s ease;
+
+    &:hover {
+      transform: translateY(-3px);
+      box-shadow: var(--shadow-1);
+      border-color: var(--line);
+      color: var(--ink);
+
+      .member-name {
+        color: var(--accent);
+      }
+    }
+
+    .member-num {
+      font-family: var(--font-display);
+      font-size: 13px;
+      color: var(--gold);
+      letter-spacing: 0.1em;
+      margin: 0;
+    }
+
+    .member-name {
+      font-size: 20px;
+      font-weight: 800;
+      margin: 0;
+      transition: color 0.15s ease;
+    }
+
+    .member-meta {
+      font-size: 13px;
+      color: var(--muted);
+      margin: 0;
+    }
   }
 }
 
 .state {
-  color: var(--color-text-muted);
-}
-
-.ideas {
-  padding-left: 24px;
-  line-height: 2;
-}
-
-.note {
-  margin-top: 32px;
+  text-align: center;
+  color: var(--muted);
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 20px;
+  padding: 64px 0;
 }

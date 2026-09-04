@@ -1,5 +1,5 @@
 import { Component, inject, signal } from "@angular/core";
-import { RouterLink } from "@angular/router";
+import { ActivatedRoute, RouterLink } from "@angular/router";
 import { StoryService } from "../../core/services/story.service";
 import { Story } from "../../core/models/story.model";
 
@@ -11,6 +11,7 @@ import { Story } from "../../core/models/story.model";
 })
 export class Explore {
   private readonly storyService = inject(StoryService);
+  private readonly route = inject(ActivatedRoute);
 
   readonly stories = signal<Story[]>([]);
   readonly categories = signal<string[]>([]);
@@ -28,6 +29,17 @@ export class Explore {
       );
       this.countries.set([...new Set(stories.map((s) => s.country))].sort());
       this.loading.set(false);
+    });
+
+    this.route.queryParams.subscribe((params) => {
+      const category = params["category"];
+      const country = params["country"];
+      if (category) {
+        this.selectedCategory.set(category);
+      }
+      if (country) {
+        this.selectedCountry.set(country);
+      }
     });
   }
 
@@ -60,5 +72,9 @@ export class Explore {
         story.tags.some((t) => t.toLowerCase().includes(q));
       return matchesCategory && matchesCountry && matchesQuery;
     });
+  }
+
+  pad(id: number): string {
+    return String(id).padStart(4, "0");
   }
 }

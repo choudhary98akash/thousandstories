@@ -1,30 +1,53 @@
-<div class="page">
-  <header class="page-header">
-    <div class="reading-width">
-      <h1>People</h1>
-      <p>Browse the people whose stories we tell, alphabetically.</p>
+<section class="page-head">
+  <div class="container page-head-inner">
+    <div>
+      <p class="eyebrow">People</p>
+      <h1 class="page-title">The lives behind the stories</h1>
+      <p class="page-sub">
+        Real people, arranged alphabetically. Follow any name to the account of
+        what they did and lived through.
+      </p>
     </div>
-  </header>
+    <div class="stat-line">
+      <div class="stat">
+        <div class="stat-num">{{ count() }}</div>
+        <div class="stat-label">Lives recorded</div>
+      </div>
+    </div>
+  </div>
+</section>
 
-  <div class="reading-width">
+<section class="people-body">
+  <div class="container">
+    <nav class="alphabet" aria-label="Jump to letter">
+      @for (entry of people(); track entry.letter) {
+      <a [href]="'#letter-' + entry.letter">{{ entry.letter }}</a>
+      }
+    </nav>
+
     @if (loading()) {
-    <p class="state">Loading people…</p>
+    <p class="state">Gathering the lives…</p>
     } @else { @for (entry of people(); track entry.letter) {
-    <section class="letter-group">
-      <h2 class="letter">{{ entry.letter }}</h2>
+    <section id="letter-{{ entry.letter }}" class="letter-group">
+      <div class="letter-row">
+        <h2 class="letter">{{ entry.letter }}</h2>
+        <hr class="rule-line" />
+        <span class="letter-count">{{ entry.people.length }}</span>
+      </div>
       <ul class="people-list">
         @for (person of entry.people; track person.id) {
         <li>
-          <a [routerLink]="['/stories', person.slug]"
-            >{{ person.personName }}</a
-          >
+          <a class="person-name" [routerLink]="['/stories', person.slug]">
+            {{ person.personName }}
+          </a>
           <span class="person-meta">
-            — {{ person.country }} · {{ person.category.join(', ') }}</span
-          >
+            · {{ person.country }} @if (person.storyDate) { · {{
+            person.storyDate }} }
+          </span>
         </li>
         }
       </ul>
     </section>
     } }
   </div>
-</div>
+</section>
