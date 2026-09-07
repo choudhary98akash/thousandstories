@@ -15,6 +15,7 @@ export interface StoryImage {
 export interface StoryChapter {
   heading: string;
   paragraphs: string[];
+  media?: StoryImage;
 }
 
 export interface Story {

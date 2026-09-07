@@ -56,22 +56,6 @@
     </div>
   </header>
 
-  @if (story.images?.length) {
-  <section class="story-media" aria-label="Photographs from this story">
-    <div class="container story-media-grid">
-      @for (img of story.images; track img.src) {
-      <figure>
-        <img [src]="img.src" [alt]="img.alt" loading="lazy" />
-        <figcaption>
-          {{ img.caption }}@if (img.credit) {
-          <span class="photo-credit"> · {{ img.credit }}</span> }
-        </figcaption>
-      </figure>
-      }
-    </div>
-  </section>
-  }
-
   <div class="container story-layout">
     <aside class="story-aside">
       <div class="aside-block">
@@ -105,15 +89,33 @@
     </aside>
 
     <div class="story-body">
-      <section class="chapter">
+      <section class="chapter chapter--intro">
         <p class="chapter-label">The beginning</p>
         <p class="chapter-text drop-cap">{{ story.introduction }}</p>
       </section>
 
       @if (story.chapters?.length) {
-      @for (chapter of story.chapters; track chapter.heading) {
-      <section class="chapter">
-        <p class="chapter-label">{{ chapter.heading }}</p>
+      @for (chapter of story.chapters; track chapter.heading; let i = $index)
+      {
+      <section class="chapter" [class.chapter--flip]="(i + 1) % 2 === 0">
+        <p class="chapter-label">
+          <span class="chapter-num"
+            >{{ (i + 1) < 10 ? '0' + (i + 1) : i + 1 }}</span
+          >{{ chapter.heading }}
+        </p>
+        @if (chapter.media) {
+        <figure class="chapter-figure">
+          <img
+            [src]="chapter.media.src"
+            [alt]="chapter.media.alt"
+            loading="lazy"
+          />
+          <figcaption>
+            {{ chapter.media.caption }}@if (chapter.media.credit) {
+            <span class="photo-credit"> · {{ chapter.media.credit }}</span> }
+          </figcaption>
+        </figure>
+        }
         @for (paragraph of chapter.paragraphs; track paragraph; let first =
         $first) {
         <p class="chapter-text" [class.drop-cap]="first">{{ paragraph }}</p>

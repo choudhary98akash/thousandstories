@@ -22,9 +22,9 @@ person's whole life.
 - Every chapter: 2–4 paragraphs, ~300–600 words each. Names, dates, places,
   numbers must be real and traceable.
 - **Multiple pictures — 3 to 5 free-license images.** Each reflects a different
-  part of the story (early life / work / achievement / legacy), not just a
-  portrait. Stored in `images[]`, referenced in the gallery under the hero.
-  Every image records its source/credit and license.
+  part of the story (early life / work / achievement / legacy), attached to the
+  chapter it illustrates via `chapter.media` and rendered beside the text as a
+  floated figure with caption + credit. The portrait lives in `heroImage`.
 - **Real sources.** `sources[]` must cover both facts AND image attribution.
 
 ## Daily input format
@@ -41,9 +41,10 @@ EXTRA (optional): <anything specifically worth covering>
 3. Write the story into `src/assets/data/stories.json` with the `Story` schema:
    - `shortDescription`: short card teaser (1–2 lines)
    - `introduction`: ~100-word hook
-   - `chapters: [{ heading, paragraphs[] }]` with the story's own flow
+   - `chapters: [{ heading, paragraphs[], media? }]` with the story's own flow;
+     `media` = the image (src/alt/caption/credit) for that chapter
    - `country/state/city`, `category` + `tags` (themes)
-   - `heroImage` + `images[]` with captions and credits
+   - `heroImage` (portrait) + `chapter.media` images with captions and credits
    - `sources[]`: verifiable references incl. image credits
 4. Add free-license images (≥3):
    - source from Wikimedia Commons / government archives / open-footage sites
