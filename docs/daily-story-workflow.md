@@ -1,39 +1,62 @@
 # Daily Story Workflow
 
-One real story per day, added to the platform. Each story is:
-- Introduced by a ~60-word catchy, curiosity-driven hook
-- A detailed narrative of 600–1,000 words total (not a condensed summary)
-- Backed by real, correct names, dates, places, and facts
-- Referenced with verifiable sources
-- Themed with categories + tags
-- Illustrated with a free-license image
+One real story per day, added to the platform. Each story is a long-form,
+archive-quality narrative. The reader must feel they have sat down with the
+person's whole life.
+
+## Format requirements (mandatory)
+
+- **Intro — ~100 words.** A 100-word opening that hooks the reader and sets the
+  scene before the detail begins. Lives in the `introduction` field and renders
+  as the "The beginning" chapter.
+- **Total length — 2,500 to 3,500 words.** Counted across `introduction` +
+  all `chapters`.
+- **Per-story flow.** Each story chooses its own `chapters` and headings; they
+  are NOT fixed templates. Typical arc (adjust to the life):
+  1. Early life & family (detailed, grounded in places and dates)
+  2. Education / formative years, and the path that changed everything
+  3. Hardships, failures, setbacks (rendered honestly, with facts)
+  4. Major works / the defining achievement (substantial detail)
+  5. Legacy & impact
+  6. Lesson (short, earned, never preachy)
+- Every chapter: 2–4 paragraphs, ~300–600 words each. Names, dates, places,
+  numbers must be real and traceable.
+- **Multiple pictures — 3 to 5 free-license images.** Each reflects a different
+  part of the story (early life / work / achievement / legacy), not just a
+  portrait. Stored in `images[]`, referenced in the gallery under the hero.
+  Every image records its source/credit and license.
+- **Real sources.** `sources[]` must cover both facts AND image attribution.
 
 ## Daily input format
 ```
-HOOK (~60 words): <catchy teaser — the copy that pulls a reader into the story>
+HOOK (~100 words): <the opening hook to be refined, or a seed for it>
 PERSON: <full name>
-EXTRA (optional): <anything to focus on or personally known facts>
+EXTRA (optional): <anything specifically worth covering>
 ```
 
 ## Pipeline (runs each day, per story)
-1. Read the hook; confirm which person it's about.
-2. Research the person — real dates, places, events, achievements (web search; never invent).
-3. Write the story using the `Story` schema (`src/app/core/models/story.model.ts`):
-   - `shortDescription` / `introduction`: the day's ~60-word hook (refined copy)
-   - `challenge`, `journey`, `achievement`, `impact`, `lesson`: detailed narrative
-   - Total word count across all sections: 600–1,000
-4. Append to `src/assets/data/stories.json`:
-   - next `id` (current max + 1), unique `slug`, full location fields
-   - `category` + `tags` reflecting the theme
-   - `sources`: real, verifiable references (title, publisher, URL, date)
-5. Add a free-license hero image:
+1. Read the hook and confirm the person.
+2. Research: dates, places, family, education, hardships, works, legacy — web
+   search + archives. Never invent.
+3. Write the story into `src/assets/data/stories.json` with the `Story` schema:
+   - `shortDescription`: short card teaser (1–2 lines)
+   - `introduction`: ~100-word hook
+   - `chapters: [{ heading, paragraphs[] }]` with the story's own flow
+   - `country/state/city`, `category` + `tags` (themes)
+   - `heroImage` + `images[]` with captions and credits
+   - `sources[]`: verifiable references incl. image credits
+4. Add free-license images (≥3):
    - source from Wikimedia Commons / government archives / open-footage sites
-   - download to `src/assets/images/stories/<slug>.<ext>`, set `heroImage`
-   - record the image's author + license as an additional source
-6. Verify: run `ng lint` and `ng build --configuration production`.
+   - download to `src/assets/images/stories/<slug>/` (one folder per story)
+   - record author + license per image in `sources[]`
+5. Word-count check: total 2,500–3,500 (intro ~100). Adjust until in range.
+6. Verify: `ng build --configuration production` passes (lint target not
+   configured yet).
 
 ## Hard rules
 - Never fabricate facts, figures, or quotes. Research first, then write.
-- Every claim about a named person must be traceable to a source.
+- Every claim about a named person is traceable to a source.
 - Images must carry an open/free license; record author + license.
-- One story per day — quality over quantity.
+- Keep the reader's trust: when facts are uncertain, say so — never invent
+  drama.
+- One story per day — the length is the point, so quality over quantity.

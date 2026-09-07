@@ -5,6 +5,18 @@ export interface Source {
   publishedDate?: string;
 }
 
+export interface StoryImage {
+  src: string;
+  alt: string;
+  caption?: string;
+  credit?: string;
+}
+
+export interface StoryChapter {
+  heading: string;
+  paragraphs: string[];
+}
+
 export interface Story {
   id: number;
   title: string;
@@ -19,6 +31,8 @@ export interface Story {
   deathYear?: number;
   storyDate?: string;
   heroImage?: string;
+  images?: StoryImage[];
+  chapters?: StoryChapter[];
   introduction: string;
   challenge: string;
   journey: string;

@@ -56,6 +56,22 @@
     </div>
   </header>
 
+  @if (story.images?.length) {
+  <section class="story-media" aria-label="Photographs from this story">
+    <div class="container story-media-grid">
+      @for (img of story.images; track img.src) {
+      <figure>
+        <img [src]="img.src" [alt]="img.alt" loading="lazy" />
+        <figcaption>
+          {{ img.caption }}@if (img.credit) {
+          <span class="photo-credit"> · {{ img.credit }}</span> }
+        </figcaption>
+      </figure>
+      }
+    </div>
+  </section>
+  }
+
   <div class="container story-layout">
     <aside class="story-aside">
       <div class="aside-block">
@@ -94,6 +110,17 @@
         <p class="chapter-text drop-cap">{{ story.introduction }}</p>
       </section>
 
+      @if (story.chapters?.length) {
+      @for (chapter of story.chapters; track chapter.heading) {
+      <section class="chapter">
+        <p class="chapter-label">{{ chapter.heading }}</p>
+        @for (paragraph of chapter.paragraphs; track paragraph; let first =
+        $first) {
+        <p class="chapter-text" [class.drop-cap]="first">{{ paragraph }}</p>
+        }
+      </section>
+      }
+      } @else {
       <section class="chapter">
         <p class="chapter-label">The challenge</p>
         <p class="chapter-text">{{ story.challenge }}</p>
@@ -118,6 +145,7 @@
         <p class="chapter-label">What we can learn</p>
         <blockquote class="lesson-quote">{{ story.lesson }}</blockquote>
       </section>
+      }
 
       <section class="sources-list">
         <p class="sources-heading">Sources &amp; references</p>

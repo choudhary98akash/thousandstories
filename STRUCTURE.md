@@ -8,7 +8,7 @@ thousandstories/
 │   ├── app/
 │   │   ├── core/
 │   │   │   ├── models/
-│   │   │   │   ├── story.model.ts          # Story, Source interfaces
+│   │   │   │   ├── story.model.ts          # Story, Source, StoryChapter, StoryImage
 │   │   │   │   └── category.model.ts
 │   │   │   └── services/
 │   │   │       ├── story.service.ts         # Loads/filters/searches stories
@@ -37,7 +37,7 @@ thousandstories/
 │   │   │   ├── categories.json              # Category definitions
 │   │   │   └── countries.json               # Country/region data
 │   │   └── images/
-│   │       └── stories/                     # Story photographs
+│   │       └── stories/                     # Story photographs (<slug>/ per story)
 │   ├── styles.scss                          # Global styles + design tokens
 │   └── index.html
 ├── .github/

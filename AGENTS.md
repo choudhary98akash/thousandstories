@@ -12,6 +12,7 @@ The ONE architectural fact: this is a fully static Angular SPA deployed to GitHu
 - Decisions before changing architecture: DECISIONS.md
 - Current phase & blockers: PROJECT_STATUS.md
 - Session memory: consult MEMORY.md index, load matching topic files on demand
+- Daily story pipeline (input format, length, images, per-story flow): docs/daily-story-workflow.md — MANDATORY before writing any story
 
 ## Commands
 - Install: npm install (or ng new — confirm package manager)
