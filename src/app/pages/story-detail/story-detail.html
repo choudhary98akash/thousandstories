@@ -14,6 +14,14 @@
       <p class="story-kicker">The story of</p>
       <h1 class="story-name">{{ story.personName }}</h1>
       <p class="story-intro">{{ story.shortDescription }}</p>
+      @if (story.heroImage) {
+      <figure class="story-portrait">
+        <img [src]="story.heroImage" [alt]="'Portrait of ' + story.personName" />
+        <figcaption>
+          Portrait photograph · public domain
+        </figcaption>
+      </figure>
+      }
       <div class="story-facts">
         <div class="fact">
           <span class="fact-label">Location</span>

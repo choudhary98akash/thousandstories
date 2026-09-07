@@ -4,12 +4,37 @@
       <span class="brand-name">A Thousand Stories</span>
       <span class="brand-tag">No fiction · Just people who lived</span>
     </a>
-    <nav aria-label="Primary">
-      <a routerLink="/stories" routerLinkActive="active">Stories</a>
-      <a routerLink="/people" routerLinkActive="active">People</a>
-      <a routerLink="/collections" routerLinkActive="active">Collections</a>
-      <a routerLink="/about" routerLinkActive="active">About</a>
-      <a class="btn btn-primary btn-nav" routerLink="/stories">Explore</a>
+    <button
+      class="nav-toggle"
+      type="button"
+      aria-label="Toggle navigation menu"
+      aria-controls="site-nav"
+      [attr.aria-expanded]="navOpen()"
+      (click)="toggleNav()"
+    >
+      <span class="nav-toggle-bar" aria-hidden="true"></span>
+      <span class="nav-toggle-bar" aria-hidden="true"></span>
+      <span class="nav-toggle-bar" aria-hidden="true"></span>
+    </button>
+    <nav id="site-nav" [class.open]="navOpen()" aria-label="Primary">
+      <a routerLink="/stories" routerLinkActive="active" (click)="closeNav()"
+        >Stories</a
+      >
+      <a routerLink="/people" routerLinkActive="active" (click)="closeNav()"
+        >People</a
+      >
+      <a routerLink="/collections" routerLinkActive="active" (click)="closeNav()"
+        >Collections</a
+      >
+      <a routerLink="/about" routerLinkActive="active" (click)="closeNav()"
+        >About</a
+      >
+      <a
+        class="btn btn-primary btn-nav"
+        routerLink="/stories"
+        (click)="closeNav()"
+        >Explore</a
+      >
     </nav>
   </div>
 </header>

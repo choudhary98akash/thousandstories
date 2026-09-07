@@ -1,6 +1,7 @@
 import { Component, effect, inject, input, signal } from "@angular/core";
 import { RouterLink } from "@angular/router";
 import { StoryService } from "../../core/services/story.service";
+import { SeoService, DEFAULT_TITLE } from "../../core/services/seo.service";
 import { Story } from "../../core/models/story.model";
 
 @Component({
@@ -11,6 +12,7 @@ import { Story } from "../../core/models/story.model";
 })
 export class StoryDetail {
   private readonly storyService = inject(StoryService);
+  private readonly seoService = inject(SeoService);
 
   readonly slug = input.required<string>();
   readonly story = signal<Story | undefined>(undefined);
@@ -24,6 +26,11 @@ export class StoryDetail {
       this.storyService.getStoryBySlug(slug).subscribe((story) => {
         this.story.set(story);
         this.loading.set(false);
+        if (story) {
+          this.seoService.applyStory(story);
+        } else {
+          this.seoService.applyDefaults(DEFAULT_TITLE);
+        }
       });
     });
 

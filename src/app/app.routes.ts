@@ -14,6 +14,7 @@ export const routes: Routes = [
   },
   {
     path: "stories/:slug",
+    title: "Story — A Thousand Stories",
     loadComponent: () =>
       import("./pages/story-detail/story-detail").then((m) => m.StoryDetail),
   },

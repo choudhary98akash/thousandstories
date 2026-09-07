@@ -404,5 +404,59 @@
       "women"
     ],
     "verified": true
+  },
+  {
+    "id": 11,
+    "title": "The Rail-Splitter Who Saved the Union",
+    "slug": "abraham-lincoln",
+    "personName": "Abraham Lincoln",
+    "shortDescription": "Born in a one-room Kentucky log cabin with almost no schooling, a self-taught boy who lost more elections than he won went on to save the Union, free four million enslaved people, and become the most admired president in American history.",
+    "country": "United States",
+    "state": "Kentucky",
+    "city": "Hodgenville",
+    "category": ["Leadership", "History", "Courage", "Social Change"],
+    "birthYear": 1809,
+    "deathYear": 1865,
+    "storyDate": "1863",
+    "heroImage": "assets/images/stories/abraham-lincoln.jpg",
+    "introduction": "On 12 February 1809, in a one-room log cabin a few miles south of Hodgenville, Kentucky, a boy named Abraham Lincoln was born into a life of frontier labour, with almost no money and almost no schooling. No one who held him that day could have guessed that this future rail-splitter would one day walk into the White House, hold a broken nation together, and set four million people free.",
+    "challenge": "Lincoln grew up with barely a year of formal schooling in his whole life. From childhood he worked with axe and plough, clearing land and planting corn for his father, and hiring himself out to neighbouring farms. When he was nine, his mother Nancy died of 'milk sickness' — poisoning caused by cows that had grazed on white snakeroot — and the family was shattered. His father soon remarried, bringing into the home a widow named Sarah Bush Johnston, whose kindness Lincoln later credited for his start in life. Whatever education he received came in scraps between harvests, in frontier log-schools that were little more than huts. What mattered most was what he did with the hours he had: Lincoln read with a hunger that astonished everyone around him, walking miles to borrow a single book and studying it by firelight through the night. From such unpromising soil, he insisted on growing a mind.",
+    "journey": "At twenty-two, Lincoln left home for the small settlement of New Salem, Illinois, where he kept a store, worked as postmaster and surveyor, and — during the Black Hawk War of 1832 — was elected captain of his militia company by the very men who knew him best. He had no money and little formal training, but his law partner William Herndon remembered that his 'ambition was a little engine that knew no rest.' Teaching himself law from borrowed books, he was admitted to the bar in 1836, and for years he practised across Illinois, riding the circuit from courtroom to courtroom. In 1842 he married Mary Todd of Kentucky. They had four sons — Robert, Edward, Willie and Tad — though only Robert would grow to adulthood. After a single term in the United States House of Representatives between 1847 and 1849, Lincoln seemed content to be a plain frontier lawyer. But the greatest question of his age would not leave him alone. In 1858 he ran against Senator Stephen A. Douglas and lost, yet the great debates between them carried his name across the country, and two years later, in 1860, this self-taught son of the frontier was elected the sixteenth president of the United States.",
+    "achievement": "Before Lincoln could even take the oath of office, Southern states had begun to secede, and within weeks of his first inauguration Confederate cannons opened fire on Fort Sumter in Charleston harbour. The Civil War that followed was the deadliest conflict in American history, and for four years Lincoln carried its terrible weight — appointing and dismissing commanding generals, holding the army and the country together, and slowly giving the war a larger moral purpose. On 1 January 1863 he issued the Emancipation Proclamation, declaring free all enslaved people in the rebelling states. The following November, in a speech of just 272 words at Gettysburg, he promised that 'government of the people, by the people, for the people, shall not perish from the earth.' Re-elected in 1864, he drove the Thirteenth Amendment through Congress, writing the end of slavery into the Constitution itself.",
+    "impact": "Lincoln never lived to see the peace he had won. On Good Friday, 14 April 1865, five days after the Confederacy's principal army surrendered, he was shot at Ford's Theatre in Washington by the actor John Wilkes Booth, and he died the next morning at the age of fifty-six. The White House Historical Association notes that with his death 'the possibility of peace with magnanimity died.' Yet the Union he had preserved endured, and the freedom he proclaimed was made permanent. He is remembered as America's greatest president: his face is carved into Mount Rushmore, his words are studied in every schoolroom, and his second inaugural's appeal for 'malice toward none, with charity for all' remains among the most quoted sentences in the American language.",
+    "lesson": "Lincoln's story dismantles every excuse we invent. He had almost no formal schooling — and became the most eloquent writer ever to occupy the American presidency. He lost elections for the legislature, for Congress, for the Senate — and never once surrendered his convictions. He buried two of his four sons, endured a war that killed more than six hundred thousand Americans, and carried the grief without losing his humour or his compassion. His lesson is not that genius guarantees success; it is that character does — honesty, patience, resilience, and the stubborn habit of learning at twenty, forty and fifty. The log cabin did not define him. It was simply where the story began.",
+    "sources": [
+      {
+        "title": "Abraham Lincoln — The 16th President of the United States",
+        "publisher": "White House Historical Association",
+        "url": "https://www.whitehousehistory.org/bios/abraham-lincoln",
+        "publishedDate": "2022"
+      },
+      {
+        "title": "Abraham Lincoln — Biography, Childhood, Quotes, Death & Facts",
+        "publisher": "Encyclopaedia Britannica",
+        "url": "https://www.britannica.com/biography/Abraham-Lincoln",
+        "publishedDate": "2024"
+      },
+      {
+        "title": "Abraham Lincoln — Sixteenth President of the United States",
+        "publisher": "American Battlefield Trust",
+        "url": "https://www.battlefields.org/learn/biographies/abraham-lincoln"
+      },
+      {
+        "title": "Portrait of Abraham Lincoln by Alexander Gardner (1863) — Public domain, Wikimedia Commons",
+        "publisher": "Wikimedia Commons / Library of Congress",
+        "url": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+        "publishedDate": "1863"
+      }
+    ],
+    "tags": [
+      "president",
+      "civil-war",
+      "emancipation",
+      "gettysburg-address",
+      "union"
+    ],
+    "verified": true
   }
 ]

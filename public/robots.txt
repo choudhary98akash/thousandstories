@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://choudhary98akash.github.io/thousandstories/sitemap.xml

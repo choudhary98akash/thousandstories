@@ -9,8 +9,9 @@
   --line: #e2dccf;
   --accent: #a23b2e;
   --accent-deep: #7c2b21;
-  --muted: #7a7367;
+  --muted: #6f665b;
   --gold: #b08d3e;
+  --on-ink-muted: rgba(255, 255, 255, 0.62);
 
   --font-display: "Playfair Display", Georgia, "Times New Roman", serif;
   --font-body: "Inter", "Segoe UI", system-ui, sans-serif;
@@ -243,6 +244,43 @@ img {
       font-size: 14px;
     }
   }
+
+  .nav-toggle {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+    width: 44px;
+    height: 44px;
+    padding: 0 10px;
+    background: transparent;
+    border: 1px solid var(--line);
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+
+    .nav-toggle-bar {
+      display: block;
+      height: 2px;
+      width: 100%;
+      background: var(--ink);
+      border-radius: 2px;
+      transition:
+        transform 0.2s ease,
+        opacity 0.2s ease;
+    }
+
+    &[aria-expanded="true"] .nav-toggle-bar:nth-child(1) {
+      transform: translateY(7px) rotate(45deg);
+    }
+
+    &[aria-expanded="true"] .nav-toggle-bar:nth-child(2) {
+      opacity: 0;
+    }
+
+    &[aria-expanded="true"] .nav-toggle-bar:nth-child(3) {
+      transform: translateY(-7px) rotate(-45deg);
+    }
+  }
 }
 
 /* ---------- Footer ---------- */
@@ -343,16 +381,49 @@ img {
 
 @media (max-width: 760px) {
   .site-header .header-inner {
-    flex-direction: column;
-    height: auto;
-    padding: 16px var(--gutter);
-    gap: 14px;
+    height: 64px;
+    padding: 0 var(--gutter);
+  }
+
+  .site-header .nav-toggle {
+    display: flex;
   }
 
   .site-header nav {
-    gap: 20px;
-    flex-wrap: wrap;
-    justify-content: center;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    display: none;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 4px;
+    background: var(--paper);
+    border-bottom: 1px solid var(--line);
+    box-shadow: var(--shadow-2);
+    padding: 12px var(--gutter) 20px;
+
+    &.open {
+      display: flex;
+    }
+
+    a {
+      padding: 13px 8px;
+      border-radius: var(--radius-sm);
+      font-size: 16px;
+
+      &::after {
+        display: none;
+      }
+
+      &:hover {
+        background: var(--paper-deep);
+      }
+    }
+
+    .btn-nav {
+      margin-top: 8px;
+    }
   }
 
   .footer-top {
