@@ -93,6 +93,23 @@
   }
 }
 
+.about-feedback {
+  border-top: 1px solid var(--line);
+  margin-top: 28px;
+  padding-top: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  flex-wrap: wrap;
+
+  p {
+    font-size: 16px;
+    color: var(--ink-soft);
+    margin: 0;
+  }
+}
+
 @media (max-width: 820px) {
   .about-grid {
     grid-template-columns: 1fr;

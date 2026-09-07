@@ -27,6 +27,31 @@ person's whole life.
   floated figure with caption + credit. The portrait lives in `heroImage`.
 - **Real sources.** `sources[]` must cover both facts AND image attribution.
 
+## Reader-first — the orator's plan (mandatory)
+
+The reader may have no clue who this person is, what era, or what place they
+lived in. The story must first *familiarize*, then *convey* — the way a good
+speaker warms a room before making the point.
+
+- **Assume zero prior knowledge.** Never open inside the person's world without
+  first locating the reader. Test every paragraph: would someone hearing this
+  name for the first time follow without re-reading?
+- **Open with coordinates.** The intro + first chapter must establish, plainly:
+  time, place, who this person was, and why their life matters — before any
+  detail or jargon.
+- **Anchor every name, place and term at first mention.** Tag it in line so the
+  reading never breaks — "Fort Sumter, the federal fortress in Charleston
+  harbour"; "milk sickness, a poisoning from cows that grazed on a bitter weed";
+  "the Whig Party, a rival of the Democrats".
+- **Orient before diving deep.** Open each chapter with a linking sentence that
+  re-anchors time and place ("By the winter of 1864…", "Meanwhile, a thousand
+  miles away…") so the reader always knows where the story stands.
+- **Clarity over ornament.** Short sentences, plain words, active verbs, one
+  idea per paragraph, concrete numbers with familiar comparisons. Cut anything
+  that makes a reader re-read. The point must carry — never hide it behind
+  flourish.
+- **Orator's test.** Read the chapter aloud. If a sentence stumbles, rewrite it.
+
 ## Daily input format
 ```
 HOOK (~100 words): <the opening hook to be refined, or a seed for it>
@@ -40,12 +65,15 @@ EXTRA (optional): <anything specifically worth covering>
    search + archives. Never invent.
 3. Write the story into `src/assets/data/stories.json` with the `Story` schema:
    - `shortDescription`: short card teaser (1–2 lines)
-   - `introduction`: ~100-word hook
+   - `introduction`: ~100-word hook that also sets time, place, person, stakes
    - `chapters: [{ heading, paragraphs[], media? }]` with the story's own flow;
      `media` = the image (src/alt/caption/credit) for that chapter
    - `country/state/city`, `category` + `tags` (themes)
    - `heroImage` (portrait) + `chapter.media` images with captions and credits
    - `sources[]`: verifiable references incl. image credits
+   3.5. Familiarity check (reader-first): scan for names/places/terms introduced
+   without context; confirm coordinates (time/place/who/why) are set in the
+   opening and each chapter re-anchors the reader.
 4. Add free-license images (≥3):
    - source from Wikimedia Commons / government archives / open-footage sites
    - download to `src/assets/images/stories/<slug>/` (one folder per story)

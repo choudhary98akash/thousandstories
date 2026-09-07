@@ -316,6 +316,19 @@ img {
       line-height: 1.7;
     }
 
+    .footer-email {
+      display: inline-block;
+      font-weight: 600;
+      color: #e6d9a8;
+      border-bottom: 1px solid rgba(176, 141, 62, 0.45);
+      padding-bottom: 2px;
+
+      &:hover {
+        color: #fff;
+        border-bottom-color: #fff;
+      }
+    }
+
     ul {
       list-style: none;
       padding: 0;
