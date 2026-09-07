@@ -6,6 +6,7 @@
     "start": "ng serve",
     "build": "ng build",
     "generate:sitemap": "node scripts/generate-sitemap.mjs",
+    "prerender": "node scripts/prerender-stories.mjs",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },

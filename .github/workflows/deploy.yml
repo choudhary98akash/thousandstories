@@ -37,6 +37,10 @@ jobs:
         # --base-href matches the repo path on GitHub Pages
         run: npm run build -- --base-href=/thousandstories/ --output-path=dist/thousandstories-app
 
+      - name: Prerender story pages for link previews
+        # Static per-story OG/Twitter tags so shared links show the portrait
+        run: node scripts/prerender-stories.mjs
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 

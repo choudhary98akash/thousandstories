@@ -6,6 +6,7 @@ export const DEFAULT_TITLE = "A Thousand Stories — Real Stories of Real People
 const DEFAULT_DESCRIPTION =
   "1,000 real stories of real people from around the world. No fiction. No invented heroes. Only stories supported by factual sources.";
 const SITE_NAME = "A Thousand Stories";
+const DEFAULT_IMAGE = "og-default.png";
 
 function truncate(value: string, max = 155): string {
   const trimmed = value.trim();
@@ -88,8 +89,9 @@ export class SeoService {
     this.setDescription(story.shortDescription);
 
     const canonical = this.fullUrl;
-    const image = this.absoluteUrl(story.heroImage ?? "");
-    const twitterImage = image || this.absoluteUrl("favicon.svg");
+    const image =
+      this.absoluteUrl(story.heroImage ?? "") || this.absoluteUrl(DEFAULT_IMAGE);
+    const twitterImage = image;
 
     this.setCanonical(canonical);
     this.upsertMeta("property", "og:title", story.title);
@@ -113,15 +115,18 @@ export class SeoService {
     this.setDescription(DEFAULT_DESCRIPTION);
 
     const canonical = this.fullUrl;
+    const image = this.absoluteUrl(DEFAULT_IMAGE);
     this.setCanonical(canonical);
     this.upsertMeta("property", "og:title", title);
     this.upsertMeta("property", "og:description", DEFAULT_DESCRIPTION);
     this.upsertMeta("property", "og:type", "website");
     this.upsertMeta("property", "og:url", canonical);
     this.upsertMeta("property", "og:site_name", SITE_NAME);
-    this.upsertMeta("name", "twitter:card", "summary");
+    this.upsertMeta("property", "og:image", image);
+    this.upsertMeta("name", "twitter:card", "summary_large_image");
     this.upsertMeta("name", "twitter:title", title);
     this.upsertMeta("name", "twitter:description", DEFAULT_DESCRIPTION);
+    this.upsertMeta("name", "twitter:image", image);
     this.removeJsonLd();
   }
 
