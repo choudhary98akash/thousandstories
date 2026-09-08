@@ -158,5 +158,172 @@
       "union"
     ],
     "verified": true
+  },
+  {
+    "id": 2,
+    "title": "The Missile Man Who Aimed at the Stars",
+    "slug": "apj-abdul-kalam",
+    "personName": "A. P. J. Abdul Kalam",
+    "shortDescription": "Born into a poor boat-owner's family on a tiny island in southern India, a boy who delivered newspapers and was denied his dream of flying became the scientist behind India's rockets and missiles, then the nation's most beloved President — and was still teaching when, at eighty-three, he died in the middle of a lecture.",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Rameswaram",
+    "category": ["Leadership", "Science", "Courage", "Education"],
+    "birthYear": 1931,
+    "deathYear": 2015,
+    "storyDate": "2002–2007",
+    "heroImage": "assets/images/stories/apj-abdul-kalam/portrait-2002.jpg",
+    "introduction": "In 1931, on Rameswaram, a small island off the southern tip of India, a boy called Avul Pakir Jainulabdeen Abdul Kalam was born to a boat-owner and a housewife. The family was so poor that the boy delivered newspapers before sunrise. He would never marry, never own a television, and lose the one job he wanted most — a seat in the Indian Air Force. Yet he would go on to put India in orbit, arm it with missiles, sit in the highest office of the land, and be mourned by three hundred and fifty thousand people when he died, still teaching, at the age of eighty-three. This is the story of the boy who was refused wings, and built them himself.",
+    "chapters": [
+      {
+        "heading": "The island boy",
+        "paragraphs": [
+          "Rameswaram is a pilgrimage island off the south-eastern coast of India — a finger of sand and temple on Pamban Island, linked to the mainland by a rail bridge. It was here, on 15 October 1931, in what was then the Madras Presidency of British India, that Abdul Kalam was born, the youngest of five children in a Tamil Muslim family. His father, Jainulabdeen Marakayar, was a boat owner and the imam — the prayer leader — of a local mosque. His mother, Ashiamma, ran the home. The family name Marakayar marks them out: a trading community of coastal Tamil Nadu and Sri Lanka, descended, it is said, from Arab seafarers and the local women they married.",
+          "The family had not always been poor. Kalam's ancestors were wealthy traders and landowners who ferried pilgrims and goods by boat between the mainland and the island, and on to Sri Lanka. But when the great Pamban Bridge opened in 1914, connecting the island to the mainland by rail, the ferry business collapsed. By the time Kalam was born, the fortune was gone, and the family lived with little. As a boy he cycled out before dawn to deliver newspapers, handing them over for a few coins to help his parents feed the household. He has written of those predawn rides as his first education: the discipline of being awake and useful before the day, the streets of his town, the quiet trust of householders. When cyclone winds or bad weather cut the roads, he carried the bundle on foot rather than fail his customers.",
+          "At school in nearby Ramanathapuram, he was, by his own account, an average student — but his teachers remembered him as bright and burning to learn, a boy who spent his hours on mathematics. The influences around him were unusually broad: his imam father would sit in the evenings with the head priest of the great Hindu temple of Rameswaram and a Christian church priest, sipping tea and debating the problems of the island. It was the boy's first, quiet lesson that wisdom has no single address."
+        ]
+      },
+      {
+        "heading": "The boy who wanted wings",
+        "paragraphs": [
+          "After school, Kalam studied physics at St. Joseph's College in the city of Tiruchirappalli, graduating in 1954. Then he did something that shaped his whole life: he moved to Madras — now Chennai — to study aeronautical engineering, the science of building aircraft, at the Madras Institute of Technology. He wanted to fly. His goal was to become a fighter pilot in the Indian Air Force.",
+          "Life tested that ambition hard. At the institute, a class project fell behind schedule, and the dean threatened to cancel his scholarship unless it was finished within three days. Kalam met the deadline. The dean later confessed he had been applying pressure deliberately, to see what the student was made of. But the harder blow came at the end of his training. His name was called among the candidates for pilot selection, and he travelled for an interview that drew the best young men in the country. When the results came, he stood ninth in the order of merit. There were only eight places. Kalam — alone among his peers that day — did not become a pilot.",
+          "It was a devastating door slammed shut, and he never fully shook it. Years later he would say that the aircraft he went on to help build flew because a man who had been refused a cockpit refused to give up on the sky. Instead of the air force, in 1960 he joined the Defence Research and Development Organisation — DRDO, India's military science agency — as a young scientist at its aeronautical establishment. To his own surprise, he found the work cramped and unconvincing. But it was a start, and he was too stubborn to leave science."
+        ]
+      },
+      {
+        "heading": "The church that launched rockets",
+        "paragraphs": [
+          "India's space journey began, improbably, in a church. On the mainland near the southern tip of India, scientists from the new Indian National Committee for Space Research — INCOSPAR — needed a place to launch sounding rockets, small research rockets that climb into the upper air and fall back. They chose Thumba, a fishing village near the magnetic equator, where the earth's field bends conveniently close to the surface. The town's bishop lent the scientists his church as an office. The bishop's house became the workshop, and a cow shed was pressed into service as a laboratory. The first rocket to rise from an Indian pad lifted off from that converted church in 1963. Kalam loved the image of it: workshops under coconut palms, an altar turned into a launch console — proof, as he put it, that India's space age was born not of money but of will.",
+          "Kalam's route there ran through great mentors. The space agency's founder, Vikram Sarabhai, took him under his wing, and in 1963–64 he was sent to the United States to study at NASA's Langley, Goddard, and Wallops facilities — a young Indian engineer learning American rocketry up close. Back home, he was recruited into ISRO — the Indian Space Research Organisation, which grew out of INCOSPAR — by H. G. S. Murthy, the first director of the Thumba launch station. In 1969 Kalam joined ISRO for good.",
+          "It was the turning of his tide. The hovering around a career he had doubted became, at last, a mission. Sitting in that converted church, with a bishop's blessing and a cow shed for a workshop, the boy who had been refused wings began to build the machines that would lift his country's flag into space — and, eventually, to set his sights far beyond it."
+        ]
+      },
+      {
+        "heading": "An eighteen-year wait",
+        "paragraphs": [
+          "In 1969, with the government's approval, Kalam became the project director of India's first home-built satellite launch vehicle — the SLV-3, a four-stage rocket designed to carry a small satellite into orbit around the earth. It was a lonely, grinding job: the young nation had no experience of building orbital launchers, and nearly everything had to be invented from scratch, year after year. Around the same period, in May 1974, he was invited to Rajasthan to watch India's first nuclear test — a device called Smiling Buddha carried out beneath the desert — as a representative of a defence laboratory.",
+          "The SLV project consumed the better part of a decade and a half. In August 1979 the first flight ended in catastrophe: the rocket began to tumble, its guidance failed, and it plunged into the Bay of Bengal minutes after launch. Watching the sea swallow years of work, Kalam's one-line order to his team was to find the cause and fix it, not to run ceremonies of grief. They did. On 18 July 1980, from Sriharikota on the Bay of Bengal coast, the second SLV-3 rose clean and drove its Rohini satellite into orbit around the earth. India — a poor country that had achieved independence barely thirty years before — had launched a satellite on a rocket of its own making.",
+          "Kalam was forty-eight, and the measure of the life ahead of him was set. He had learned the two lessons that would define his career: that a failure can become the blueprint for a success, and that a poor nation can keep its dignity and its direction if it dares to build its own engines."
+        ]
+      },
+      {
+        "heading": "The Missile Man",
+        "paragraphs": [
+          "Missiles — rockets built to carry weapons — are a different trade from launchers, but the technology shares blood. In the early 1980s, Defence Minister R. Venkataraman and the scientific adviser to the defence ministry, V. S. R. Arunachalam, proposed a bold idea: instead of developing one missile at a time, India should develop a whole family of them together. In 1983 the government approved the Integrated Guided Missile Development Programme — IGMDP — and handed its command to Kalam.",
+          "Under the programme, his teams built Agni, an intermediate-range ballistic missile that can strike far beyond India's borders, and Prithvi, a short-range battlefield missile named after the Sanskrit word for earth. Companion projects covered other missile types. Cost overruns and delays drew criticism, but the results stood for themselves: India now held credible power in its own hands, and the man at the centre of it became known across the country as the Missile Man of India. Even before the missile family was complete, his country had begun piling honours on him — the Padma Bhushan in 1981, the Padma Vibhushan in 1990, and, in 1997, the Bharat Ratna, India's highest civilian award.",
+          "In July 1992 he became the chief scientific adviser to the prime minister and the secretary of the DRDO. In May 1998 came his most sensitive test: Pokhran-II, India's second series of nuclear tests, five devices exploded underground in the Rajasthan desert, which he co-ordinated alongside the atomic scientist Rajagopala Chidambaram. The world protested and India rejoiced; Kalam emerged as the nation's best-known scientist. Between the missiles and the tests, he even found time to help design a low-cost heart stent, the Kalam-Raju stent, named with the cardiologist who built it — proof that the man who made weapons cared as much about the lives they must never touch."
+        ],
+        "media": {
+          "src": "assets/images/stories/apj-abdul-kalam/agni-v-2018.jpg",
+          "alt": "An Agni ballistic missile rising from its launch pad during a flight test",
+          "caption": "An Agni-V missile — from the family of missiles built on the programme Kalam led — lifting off during a DRDO flight test.",
+          "credit": "DRDO, Government of India · GODL-1.0"
+        }
+      },
+      {
+        "heading": "The People's President",
+        "paragraphs": [
+          "In 2002, with his scientific career fading into eminence, India did something extraordinary: it nominated a scientist for its presidency. The President of India is the ceremonial head of state, elected by members of parliament and the state assemblies. The ruling coalition proposed Kalam, and unusually, the main opposition party supported him too. On 15 July 2002 the electoral college voted, and Kalam won heavily — 922,884 electoral votes against 107,366 for his rival, Lakshmi Sahgal. On 25 July he was sworn in as the eleventh President of India: the first scientist and the first bachelor ever to hold the office.",
+          "He became, within months, the most loved man in the building. The official residence, Rashtrapati Bhavan, a vast palace of stone and gardens, had always been reserved and formal; Kalam threw its doors open to the young. He hosted schoolchildren, answered their letters, and talked to students as if they were his equals, which in his eyes they were. He lived simply in the palace — rising early, working late, refusing the layers of ceremony. The press gave him the name that stuck: the People's President.",
+          "His presidency was not without hard choices. He later called signing a parliamentary bill on office of profit — a law governing whether elected officials could hold paid government jobs — the toughest decision of his term. Near the end, in 2012, millions of ordinary Indians campaigned on social media for him to serve again, drawing support from political parties. But Kalam declined, saying he did not want the office of the President to be drawn into political contests. He had already given his country the thing it needed most: proof that a poor boy from an island could be trusted with the highest office in the land."
+        ],
+        "media": {
+          "src": "assets/images/stories/apj-abdul-kalam/kalam-students-2007.jpg",
+          "alt": "A. P. J. Abdul Kalam surrounded by schoolchildren in a courtyard",
+          "caption": "President Kalam meeting school students at Rashtrapati Bhavan on the eve of Republic Day, 25 January 2007.",
+          "credit": "President's Secretariat, Government of India · GODL-1.0"
+        }
+      },
+      {
+        "heading": "The teacher who never stopped",
+        "paragraphs": [
+          "When his term ended in 2007, Kalam could have retired into glory. Instead he went back to the classroom. He became a visiting professor at management institutes and his old universities, and the first chancellor of a new institute of space science and technology he helped found in Kerala. In 1999, still at the height of his missile career, he had set himself a target: to meet a hundred thousand students in the two years after he stepped down, to keep their minds alight. He would spend the rest of his life trying to overshoot it. He did not just wave at auditoriums; he taught — asking questions, demanding answers, remembering names, and ending almost every exchange with the same demand: dream, dream big, and work.",
+          "He wrote books the way other men file papers, and they sold like novels. Wings of Fire, his memoir written with Arun Tiwari, told how the newspaper boy from Rameswaram survived failure and poverty; Ignited Minds called on the young to make India a knowledge superpower; India 2020, written with the technologist Y. S. Rajan, laid out a road map for a developed nation. In 2012 he launched a movement called What Can I Give, urging the young to fight corruption in small, daily ways.",
+          "His private life was a study in restraint. He never married. He was a vegetarian who drank no alcohol, rose at six-thirty each morning and slept past midnight, played the veena — an Indian stringed instrument — and wrote poetry in Tamil, his mother tongue. He owned a few books, a CD player, a laptop, and no television at all. When he died, he left no will, because he had almost nothing to leave. What a reader takes from him is bolder than treasure: the insistence that a plain, disciplined, honest life can still shake the world."
+        ],
+        "media": {
+          "src": "assets/images/stories/apj-abdul-kalam/kalam-2008.jpg",
+          "alt": "A. P. J. Abdul Kalam in 2008 wearing a plain dark kurta",
+          "caption": "Kalam in 2008, the year after his presidency — a teacher again.",
+          "credit": "Lijesh K · CC BY-SA 3.0"
+        }
+      },
+      {
+        "heading": "A fall in Shillong",
+        "paragraphs": [
+          "On 27 July 2015, the eighty-three-year-old Kalam travelled to Shillong, a city in the green hills of north-eastern India, to deliver a lecture at the Indian Institute of Management there, an elite business school. The subject was 'Creating a Livable Planet Earth.' He had felt unwell climbing the institute stairs, but he rested briefly and walked into the packed auditorium. About five minutes into the lecture, at roughly 6:35 in the evening, he slumped, mid-sentence. He was rushed to a hospital in the city, but he had suffered a sudden cardiac arrest, and by 7:45 he was confirmed dead.",
+          "India stopped. The government declared seven days of state mourning. His body was flown to the capital, where the president, vice-president, and prime minister bowed before it; then it was carried home to the south by air and by road, lying in an open space in Rameswaram so that the people of his own island could say goodbye. On 30 July 2015, after an Islamic burial prayer read by the local imam, he was laid to rest at Pei Karumbu ground in Rameswaram with full state honours. More than three hundred and fifty thousand people came.",
+          "His passing changed little about his country's world, and everything about its imagination. His hometown now houses a memorial built by the DRDO, its gardens lined with the rockets and missiles he helped create; islands, roads, a Himalayan peak, and even a microbe brought back from the International Space Station carry his name. His birthday, 15 October, is celebrated in India as World Students' Day. The final lesson of the boy from the island is the one he taught by dying as he taught: study hard, keep working, stay simple — and if the world refuses you wings, build a rocket."
+        ],
+        "media": {
+          "src": "assets/images/stories/apj-abdul-kalam/kalam-speech-2010.jpg",
+          "alt": "A. P. J. Abdul Kalam speaking from a podium at a public lecture",
+          "caption": "Kalam mid-lecture, photographed during a 2010 address — the posture in which he chose to die.",
+          "credit": "Vipul5491 · CC0 1.0 (public domain)"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "A. P. J. Abdul Kalam — biography and fact base (Wikipedia)",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam"
+      },
+      {
+        "title": "Wings of Fire: An Autobiography (with Arun Tiwari)",
+        "publisher": "Universities Press, 1999",
+        "url": "https://en.wikipedia.org/wiki/Wings_of_Fire_(autobiography)"
+      },
+      {
+        "title": "Death and state funeral of A. P. J. Abdul Kalam",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_and_state_funeral_of_A._P._J._Abdul_Kalam"
+      },
+      {
+        "title": "Dr. A. P. J. Abdul Kalam Memorial, Rameswaram",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dr._A._P._J._Abdul_Kalam_Memorial"
+      },
+      {
+        "title": "Official portrait of A. P. J. Abdul Kalam, 2002 (photo credit: Government of India · GODL-1.0)",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:A._P._J._Abdul_Kalam.jpg",
+        "publishedDate": "2002"
+      },
+      {
+        "title": "Kalam with school students at Rashtrapati Bhavan, 25 January 2007 (President's Secretariat · GODL-1.0)",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:The_President,_Dr._A.P.J._Abdul_Kalam_interacting_with_the_students_of_various_schools_of_New_Delhi_at_Rashtrapati_Bhavan_on_the_eve_of_Republic_Day_on_January_25,_2007.jpg",
+        "publishedDate": "2007"
+      },
+      {
+        "title": "Agni-V flight test photo (DRDO, Government of India · GODL-1.0)",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Agni-V_flight_test_on_3_July_2018_(3).jpg",
+        "publishedDate": "2018"
+      },
+      {
+        "title": "A. P. J. Abdul Kalam in 2008 (Lijesh K · CC BY-SA 3.0)",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:A._P._J._Abdul_Kalam_in_2008.jpg",
+        "publishedDate": "2008"
+      },
+      {
+        "title": "APJ Abdul Kalam Speech (Vipul5491 · CC0 1.0, public domain)",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:APJ_Abdul_Kalam_Speech.JPG",
+        "publishedDate": "2010"
+      }
+    ],
+    "tags": [
+      "president",
+      "missile-man",
+      "aerospace",
+      "isro",
+      "drdo",
+      "world-students-day"
+    ],
+    "verified": true
   }
 ]

@@ -15,7 +15,7 @@
 - Support mobile-first responsive design. Reason: story-reading optimized for mobile.
 
 ## Must not
-- DO NOT use AI-generated images of people. Reason: truth-first principle — real photos only from public-domain sources.
+- DO NOT use AI-generated images of people. Reason: truth-first principle — real photos only from public-domain or freely-licensed sources (GODL/CC BY(-SA), always credited). Godl/CC images require the author/source + license in the credit, exactly as stored in `src/assets/data/*.json`.
 - DO NOT fabricate or fictionalize stories. Reason: the platform's credibility is the product.
 - DO NOT add dependencies without asking. Reason: dependency bloat is the #1 drift source.
 - DO NOT run deploy commands. Reason: CI-only via GitHub Actions.
