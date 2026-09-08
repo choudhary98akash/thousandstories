@@ -482,6 +482,13 @@
     gap: 24px;
   }
 
+  /* On mobile the sidebar sources move before the story (DOM order);
+     the full "Sources & references" list at the end of the body
+     already covers them, so drop the early duplicate here. */
+  .aside-block--sources {
+    display: none;
+  }
+
   .story-facts {
     gap: 28px;
   }
