@@ -8,7 +8,12 @@
     "country": "United States",
     "state": "Kentucky",
     "city": "Hodgenville",
-    "category": ["Leadership", "History", "Courage", "Social Change"],
+    "category": [
+      "Leadership",
+      "History",
+      "Courage",
+      "Social Change"
+    ],
     "birthYear": 1809,
     "deathYear": 1865,
     "storyDate": "1863",
@@ -168,7 +173,12 @@
     "country": "India",
     "state": "Tamil Nadu",
     "city": "Rameswaram",
-    "category": ["Leadership", "Science", "Courage", "Education"],
+    "category": [
+      "Leadership",
+      "Science",
+      "Courage",
+      "Education"
+    ],
     "birthYear": 1931,
     "deathYear": 2015,
     "storyDate": "2002–2007",
@@ -335,7 +345,12 @@
     "country": "United States",
     "state": "California",
     "city": "San Francisco",
-    "category": ["Entrepreneurship", "Technology", "Courage", "Achievement"],
+    "category": [
+      "Entrepreneurship",
+      "Technology",
+      "Courage",
+      "Achievement"
+    ],
     "birthYear": 1955,
     "deathYear": 2011,
     "storyDate": "1985–1997",
@@ -1007,6 +1022,186 @@
       "yazidi-genocide",
       "human-rights",
       "isis"
+    ],
+    "verified": true
+  },
+  {
+    "id": 7,
+    "title": "The Girl Who Would Not Be Silenced",
+    "slug": "malala-yousafzai",
+    "personName": "Malala Yousafzai",
+    "shortDescription": "Born in Pakistan's Swat Valley, she demanded the right to go to school as the Taliban outlawed girls' education; shot in the head at fifteen for speaking out, she survived, forgave her attackers, and won the Nobel Peace Prize at seventeen.",
+    "country": "Pakistan",
+    "state": "Khyber Pakhtunkhwa",
+    "city": "Mingora",
+    "category": [
+      "Education",
+      "Courage",
+      "Leadership",
+      "Social Change"
+    ],
+    "birthYear": 1997,
+    "storyDate": "2014",
+    "heroImage": "assets/images/stories/malala-yousafzai/malala-hero-2015.jpg",
+    "introduction": "On 12 July 1997, in the lush green valley of Swat in north-west Pakistan, a girl was born — and her father, against the custom of a culture that barely recorded daughters, wrote her name in the family record as the first female on the tree. He named her Malala, after Malalai of Maiwand, a Pashtun war heroine who had defied invaders in 1880. He wanted his daughter to refuse, all her life, to be invisible. At eleven she took on the Taliban for the right to read; at fifteen they shot her in the head for it; at seventeen she became the youngest Nobel Peace Prize laureate in history. This is the story of the girl who would not be silenced — and of the pen that proved mightier than the bullet.",
+    "chapters": [
+      {
+        "heading": "A name that meant she would not disappear",
+        "paragraphs": [
+          "When Ziauddin Yousafzai brought his baby daughter home in Mingora, the largest city in Swat, in 1997, he did an unusual thing: he entered her birth on a piece of paper and showed it to relatives. In the tribal society of north-west Pakistan, sons were celebrated and daughters were often recorded with a shrug — sometimes not recorded at all. Ziauddin, a schoolteacher and social activist who had grown up with five unlettered sisters who were denied school, was determined that his own daughter would be different. He named her Malala, after Malalai of Maiwand, the eighteen-year-old Pashtun heroine who had rallied her people against the British at the Battle of Maiwand in 1880 and died on the battlefield. 'Malalai had a voice, and I wanted my Malala to have the same,' her father would say: freedom, and a name known in public.",
+          "Malala grew up inside her father's world of schools. Ziauddin ran the Khushal Public School in Mingora — a school that taught girls and boys alike — and the child toddled into classrooms almost from the moment she could walk. She later wrote that she acted as if she were the teacher, standing at the front and 'teaching' her toys. Her mother, Tor Pekai, had never been allowed to attend school; the family her father had built was, in effect, a small argument against every custom that closed classrooms to girls. At four and a half Malala was enrolled in her father's school — an entry her father called 'recognition of her identity, of her name' — and she became, early, exactly what her name foretold: a child who expected to be heard.",
+          "The distance a single generation in one family had travelled — from unlettered mothers to a daughter being publicly named after a warrior — was extraordinary. But the world around that family was about to change violently, and the schools Ziauddin had built would become targets."
+        ]
+      },
+      {
+        "heading": "When the valley became a war zone",
+        "paragraphs": [
+          "Swat had long been called 'the Switzerland of Pakistan' — a valley of orchards, rivers, and tourist hotels, wedged between mountains. That changed in 2007. A cleric named Fazlullah, whose radio sermons electrified the north, and his movement, which would align itself with the Pakistani Taliban, seized control of much of the valley. At first they banned music, dancing, and television, and imposed their own harsh courts. Then they turned their doctrine on the schools.",
+          "By the end of 2008 the Taliban had destroyed some four hundred schools across the region — many of them girls' schools in Swat — and their assault on girls' education hardened into explicit law. Girls were told their education was forbidden; girls' schools were ordered shut or burned to the ground; teachers who resisted were threatened with death. Across the valley, families began keeping daughters at home. Ziauddin kept his school open, teaching lessons the militants could not easily object to, but the menace was real, and the schoolmaster who spoke out became a target himself. He slept in a different place most nights to avoid being found.",
+          "Malala, now ten and eleven, lived through her father's fear and her own. She saw friends disappear from classrooms, saw her town's schools smoulder, heard the sermons that named girls' education as sin. And something in her refused it. 'How dare the Taliban take away my basic right to education?' she demanded on Pakistani television. Her father, terrified for her, did not stop her — which was, she would later say, the greatest gift he ever gave her."
+        ],
+        "media": {
+          "src": "assets/images/stories/malala-yousafzai/swat-valley.jpg",
+          "alt": "The green Swat Valley in Pakistan, seen from the mountains",
+          "caption": "The Swat Valley — once the tourist playground of north-west Pakistan, and the valley the Taliban fought to control.",
+          "credit": "Hammadaslam1111 · CC BY-SA 4.0"
+        }
+      },
+      {
+        "heading": "Gul Makai",
+        "paragraphs": [
+          "In early 2009, as the Taliban tightened its grip, BBC Urdu — the BBC's Urdu-language service — was looking for a way to show its audience what life inside Taliban-controlled Swat was really like. The BBC's reporters spoke to Ziauddin, who knew the teachers of the valley. He suggested his own daughter. The arrangement was secret, and it was dangerous: the author would not sign her name, and the diary would appear under the pen name 'Gul Makai'.",
+          "Malala was eleven years old when she wrote her first entry. She described her home, her school, her nightmares — the fear of a full-blown war in her beautiful valley, the Taliban's edicts, the new rule that girls could not wear colourful clothes to school. 'I may not go to school again,' she wrote of the day the ban bit. The diaries, published in English translation, became an international window into a valley the outside world barely understood: a girl talking about algebra in a town where girls were being told education was ungodly. The entries were simple, brave, and immediately famous — though no one knew who wrote them.",
+          "The diary ended abruptly in May 2009. Pakistani forces launched a large military operation against the Taliban in Swat, and on 5 May the Yousafzais joined tens of thousands of families — displaced persons in their own country — fleeing the fighting, moving hundreds of miles away and living for weeks in makeshift shelter. When the army drove the militants out and the family returned home, the girl behind 'Gul Makai' was able to go back to school. That summer her father, proud and reckless together, finally disclosed her identity, nominating the girl behind the diary for an international peace prize. The girl who had hidden her name now stood behind it — on television, at rallies, in front of cameras — called Malala, and loudly."
+        ]
+      },
+      {
+        "heading": "The girl television could not ignore",
+        "paragraphs": [
+          "Once her name was out, Malala became, in effect, the public face of the schoolgirls of Swat. In 2009 she appeared in a New York Times documentary, Class Dismissed, filmed by the reporter Adam Ellick, that carried her story around the world. She gave speeches, talked to reporters, and argued — in the measured, startlingly grown-up language of a girl who had decided her cause was worth dying for — that a girl has the same right to education as a boy, that no religion wants its daughters unlettered, and that the Taliban were twisting faith to serve their own power. In 2011 Archbishop Desmond Tutu nominated her for the International Children's Peace Prize. That same year Pakistan's government bowed to the public outpouring, and its prime minister presented her with the country's first National Youth Peace Prize.",
+          "The celebrity brought a darker counterside. The Taliban, who had destroyed schools for teaching girls, watched a schoolgirl in the Swat they no longer controlled become a symbol against them. Death threats reached the family from every side. Malala's father later recalled the constant fear inside their home, and Malala herself has said the threats did not quiet her — they made her angrier and more determined. Their house sat in the middle of Mingora, and the family had already been displaced once; there was nowhere obvious to run to.",
+          "In the autumn of 2012 she was fifteen, studying for her final exams, quietly aware that the threats were not empty. The morning of 9 October began like an ordinary school day. It would not end as one."
+        ]
+      },
+      {
+        "heading": "The day the bullet came",
+        "paragraphs": [
+          "On 9 October 2012, on the short bus ride home from school in Mingora, the bus was stopped. A young bearded gunman climbed aboard, asked which girl was Malala, and fired three shots. One bullet passed through the left side of her head and lodged in her shoulder; two friends sitting beside her were also wounded. The man stepped off the bus and vanished. In the confusion of that day only one fact was certain across the valley and, within hours, the world: a fifteen-year-old girl who had wanted to go to school had been shot by the Taliban for it.",
+          "She was rushed to a Pakistani military hospital in Peshawar, where surgeons operated to relieve the pressure on her brain; four days later she was flown to the Queen Elizabeth Hospital in Birmingham, England, for emergency care. There she was kept in a medically induced coma. When she woke she found the left side of her face paralysed, her hearing damaged in one ear; over the following months she would undergo multiple surgeries, including repair of the facial nerve, reconstruction of her skull, and later a cochlear implant to restore hearing. She had recovered beyond what her doctors dared hope. The girl who had been shot in the head was alive, whole in mind, and thinking.",
+          "The attack produced something no one in the country had expected: an outpouring that crossed religions, parties, and borders. Millions signed petitions to give every child twelve years of education; schoolchildren in Britain, the United States, and India held vigils; the United Nations' education envoy, Gordon Brown, took her story to the world's leaders. A schoolgirl's pseudonymous diary had become a global question about the right of girls to read. The Taliban had stared at a fifteen-year-old and fired three bullets into her head — and the world answered, no.",
+          "The most famous response, though, was the girl's own. In Birmingham, when her parents and her doctors told her what had happened and how many people had prayed for her, she was silent for a moment. Then she said the only sentence that could possibly follow: she had been given a second life, and she would not waste it."
+        ]
+      },
+      {
+        "heading": "The schoolgirl who spoke to the world",
+        "paragraphs": [
+          "Recovery in Birmingham was slow and surgical. Malala learned to walk, speak, hear, and smile anew. In March 2013 she returned to a classroom — Edgbaston High School, a Birmingham girls' school that took her in — and to the ordinary miracle of doing homework. The girl shot for going to school went back to being a student, which, she said, was what she had demanded all along.",
+          "On 12 July 2013, her sixteenth birthday, the United Nations hosted a special Youth Takeover session in New York, and it made Malala its guest of honour. Standing before the assembly, she thanked the doctors, the nurses, and the millions who had written to her. She answered her attackers: 'They thought that the bullets would silence us. But they failed.' And she finished with the sentence that would enter history: 'One child, one teacher, one book and one pen can change the world. Education is the only solution. Education first.' A few months later, in October 2013, she published the book that sealed her story for good — I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban, written with the journalist Christina Lamb — and on 10 October 2013 the European Parliament awarded her the Sakharov Prize for Freedom of Thought.",
+          "The awards multiplied, but she held them at arm's length. Each time she accepted a medal she said the same thing: the prize was not for her, it was for the girls whose names were unknown, the families in Swat who could not speak, the millions who would now — because of her — be counted. She was sixteen years old, and she had become, in a way that astonished even her, the world's most famous student."
+        ],
+        "media": {
+          "src": "assets/images/stories/malala-yousafzai/sakharov-2013.jpg",
+          "alt": "Malala Yousafzai receiving the Sakharov Prize for Freedom of Thought in the European Parliament in Strasbourg",
+          "caption": "Malala at the Sakharov Prize ceremony in Strasbourg, 20 November 2013.",
+          "credit": "Claude Truong-Ngoc · CC BY-SA 3.0"
+        }
+      },
+      {
+        "heading": "The youngest Nobel laureate",
+        "paragraphs": [
+          "On 10 October 2014 the Norwegian Nobel Committee announced that the Peace Prize was to be shared between Malala Yousafzai and Kailash Satyarthi of India, for their struggle against the suppression of children and young people and for the right of all children to education. At seventeen, Malala became the youngest Nobel laureate in history. The committee's choice was itself a message: it deliberately paired an Indian and a Pakistani, and noted its wish to build a bridge between nations, religions, and generations. The teenager who had been shot by one extremist was being honoured alongside a man who had spent decades freeing bonded children.",
+          "In her Nobel lecture in Oslo in December 2014 she told the story of the choice she had been offered after the shooting: a quiet, safe life in England, or a return to the fight. 'I chose the second one,' she said, and she extended the choice to the whole world. The lecture contained a line the world repeated: 'Malala is not just a girl's name. Malala is a symbol of freedom, an example of defiance.' She did not claim the symbol for herself; she offered it to every girl who had quietly been told she was not worth teaching.",
+          "The prize money and the attention went, almost immediately, into the Malala Fund — the organisation she and her father had founded after the shooting to champion girls' education. Within months of Oslo she was travelling to Jordan to meet Syrian refugee schoolgirls, to Kenya, and to Nigeria, where she met the mothers of the Chibok girls kidnapped by Boko Haram. The teenager who had asked only to be a student was now, in effect, a stateswoman of education: sitting with presidents, addressing legislatures, and quietly, relentlessly, putting classrooms at the centre of the world's agenda."
+        ],
+        "media": {
+          "src": "assets/images/stories/malala-yousafzai/nobel-2014.jpg",
+          "alt": "Malala Yousafzai and Kailash Satyarthi at the Nobel Peace Prize ceremony in Oslo",
+          "caption": "Malala Yousafzai and Kailash Satyarthi, joint winners of the 2014 Nobel Peace Prize, at the ceremony in Oslo.",
+          "credit": "Bair175 · CC BY-SA 4.0"
+        }
+      },
+      {
+        "heading": "The pen outlives the bullet",
+        "paragraphs": [
+          "The girl who could not go to school did something the Taliban never imagined: she went to Oxford. In 2017 Malala enrolled at Lady Margaret Hall, one of the university's oldest colleges, to read Philosophy, Politics, and Economics. Her classes, her exams, her student ID card were all, in her own eyes, the real revolution: a girl who had been shot for wanting to learn, quietly learning. She completed the degree in 2020, writing and revising for her finals while the pandemic closed the campuses — a strange, fitting end to a school career that had been conducted, for a decade, under extraordinary constraints.",
+          "The private life of the one-time symbol settled into something ordinary, which was the point. In 2021 she married Asser Malik in Birmingham, in a small wedding the rest of the world only learned of days later. And in 2018 she had done the bravest ordinary thing possible: she returned to Pakistan. On her first visit since the attack, she travelled back to her homeland, met its leadership, and went on to Swat — to the valley, the school, and the streets where the bullet had found her — and stood there, alive, unhurried, a schoolgirl grown. The image of her walking through Mingora, the valley that had exiled her family and tried to erase her name, was the closing proof of the story she had insisted on all along: the pen outlives the bullet.",
+          "Her work, through the Malala Fund, now spans South Asia, the Middle East, and Africa — Pakistan, Afghanistan, India, Nigeria, Kenya, Lebanon, and beyond — funding girls' schools and scholarships, backing local organisers, and pressing governments to guarantee twelve years of free, safe, quality education for every girl, no matter where she is born. The organisation she and her father built has become a fixture of global education policy, and the girl who began as a pseudonym has become the most recognisable name in the world on the question of whether girls may go to school.",
+          "Her story is not finished, and she would say so herself. She is still young, still campaigning, still running — and the bullet has not, in the end, mattered. What has mattered is what she told the United Nations at sixteen: that one child, one teacher, one book, and one pen can change the world. In her valley they shot the child who said it. The world listened to the child anyway."
+        ],
+        "media": {
+          "src": "assets/images/stories/malala-yousafzai/malala-2023-portrait.jpg",
+          "alt": "Malala Yousafzai photographed in a portrait in 2023",
+          "caption": "Malala Yousafzai, photographed in 2023 — a decade after the shooting, still the world's best-known champion of girls' education.",
+          "credit": "flowcomm · CC BY 2.0"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Malala Yousafzai — Biographical",
+        "publisher": "The Nobel Prize (nobelprize.org)",
+        "url": "https://www.nobelprize.org/prizes/peace/2014/yousafzai/biographical",
+        "publishedDate": "2014"
+      },
+      {
+        "title": "Malala Yousafzai — Biography",
+        "publisher": "Encyclopaedia Britannica",
+        "url": "https://www.britannica.com/biography/Malala-Yousafzai",
+        "publishedDate": "2024"
+      },
+      {
+        "title": "Malala's Story — timeline from 1997 to today",
+        "publisher": "Malala Fund (official)",
+        "url": "https://malala.org/malalas-story",
+        "publishedDate": "2025"
+      },
+      {
+        "title": "Malala Yousafzai: Portrait of the girl blogger",
+        "publisher": "BBC News",
+        "url": "https://www.bbc.com/news/magazine-19899540",
+        "publishedDate": "2012"
+      },
+      {
+        "title": "I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban (with Christina Lamb)",
+        "publisher": "Little, Brown, 2013",
+        "url": "https://en.wikipedia.org/wiki/I_Am_Malala"
+      },
+      {
+        "title": "Malala Yousafzai 2015 — photograph by DFID, UK Department for International Development (CC BY 2.0)",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Malala_Yousafzai_2015.jpg",
+        "publishedDate": "2015"
+      },
+      {
+        "title": "Swat Valley in Pakistan — photograph by Hammadaslam1111 (CC BY-SA 4.0)",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Swat_Valley_in_Pakistan.jpg"
+      },
+      {
+        "title": "Sakharov Prize to Malala Yousafzai, Strasbourg, 20 November 2013 — Claude Truong-Ngoc (CC BY-SA 3.0)",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Remise_du_Prix_Sakharov_%C3%A0_Malala_Yousafzai_Strasbourg_20_novembre_2013_01.jpg",
+        "publishedDate": "2013"
+      },
+      {
+        "title": "Malala and Kailash Satyarthi at the Nobel Peace Prize ceremony — Bair175 (CC BY-SA 4.0)",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Malala_Yousafzai_and_Kaliash_Satyarthi_at_the_Nobel_Peace_Prize_ceremony.jpg",
+        "publishedDate": "2014"
+      },
+      {
+        "title": "Malala Yousafzai 2023 portrait — flowcomm (CC BY 2.0)",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Malala_Yousafzai_2023_portrait_2x3.jpg",
+        "publishedDate": "2023"
+      }
+    ],
+    "tags": [
+      "nobel-peace-prize",
+      "girls-education",
+      "swat-valley",
+      "survivor",
+      "malala-fund"
     ],
     "verified": true
   }
