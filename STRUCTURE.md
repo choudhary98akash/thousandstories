@@ -72,3 +72,9 @@ thousandstories/
 - Lazy loading: every route module loaded on demand
 
 Rule: update this file whenever the layout or module boundaries change, in the SAME PR.
+
+
+## Story image policy (locked)
+- Only Commons files proven to exist with a **Public-domain / CC0** license marker are downloaded; attribution = exact Commons title kept in scripts/helen-*.log(s) and in each story JSON `sources`.
+- **Never** wire a bitmap that was not individually imageinfo-verified (PDF page renders of books are rejected as chapter art even when the file is PD — chapter-rotation truth captured in the resolution log).
+- Deleted draft scripts (`fetch-helen-*.mjs`, `helen-category-dl.mjs`...) are cleaned from the repo; only `generate-sitemap.mjs` and `prerender-stories.mjs` remain in scripts/ and are the two used by CI.
