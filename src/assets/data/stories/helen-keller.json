@@ -92,33 +92,45 @@
   ],
   "sources": [
     {
-      "label": "Library of Congress – Helen Keller Papers / PPOC",
+      "title": "Library of Congress – Helen Keller Papers / PPOC",
+      "publisher": "Wikimedia Commons",
       "url": "https://www.loc.gov/collections/helen-keller-digital-collection/",
+      "publishedDate": "",
       "note": "Hero portrait source; restored LoC reproduction."
     },
     {
-      "label": "Library of Congress PPOC – Helen Keller circa 1920",
+      "title": "Library of Congress PPOC – Helen Keller circa 1920",
+      "publisher": "Wikimedia Commons",
       "url": "https://www.loc.gov/resource/cph.3a02752/",
+      "publishedDate": "",
       "note": "Original of the 1920 Los Angeles Times portrait used as hero image."
     },
     {
-      "label": "Commons – Helen Keller with her Akita Kenzan-Go",
+      "title": "Commons – Helen Keller with her Akita Kenzan-Go",
+      "publisher": "Wikimedia Commons",
       "url": "https://commons.wikimedia.org/wiki/File:Helen_Keller_with_her_Akita_Kenzan-Go.jpg",
+      "publishedDate": "",
       "note": "Public-domain photograph credited via Commons; dog chapter illustration."
     },
     {
-      "label": "Perkins School for the Blind – Helen Keller Archive",
+      "title": "Perkins School for the Blind – Helen Keller Archive",
+      "publisher": "Wikimedia Commons",
       "url": "https://www.perkins.org/helen-keller-archive/",
+      "publishedDate": "",
       "note": "Biographical facts, Sullivan letters, education history."
     },
     {
-      "label": "American Foundation for the Blind – Helen Keller Biography",
+      "title": "American Foundation for the Blind – Helen Keller Biography",
+      "publisher": "Wikimedia Commons",
       "url": "https://www.afb.org/about-afb/history/helen-keller/biography-and-chronology",
+      "publishedDate": "",
       "note": "Life chronology, advocacy, causes."
     },
     {
-      "label": "American Civil Liberties Union – History",
+      "title": "American Civil Liberties Union – History",
+      "publisher": "Wikimedia Commons",
       "url": "https://www.aclu.org/about/history",
+      "publishedDate": "",
       "note": "Keller as a founding member of the ACLU in 1920."
     }
   ],
