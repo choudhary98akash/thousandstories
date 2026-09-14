@@ -53,6 +53,36 @@
         >
         }
       </div>
+      @if (speech.supported()) {
+      <div class="audio-player" role="group" aria-label="Listen to this story">
+        @if (!speech.isSpeaking()) {
+        <button
+          class="audio-btn audio-btn--play"
+          (click)="speak()"
+          aria-label="Play the story aloud"
+        >
+          <span aria-hidden="true">▶</span> Listen to the story
+        </button>
+        } @else {
+        <button
+          class="audio-btn"
+          (click)="speech.isPaused() ? resume() : pause()"
+          [attr.aria-label]="speech.isPaused() ? 'Resume reading' : 'Pause reading'"
+        >
+          <span aria-hidden="true">{{ speech.isPaused() ? '▶' : '❚❚' }}</span>
+          {{ speech.isPaused() ? 'Resume' : 'Pause' }}
+        </button>
+        <button class="audio-btn audio-btn--stop" (click)="stopSpeech()" aria-label="Stop reading">
+          <span aria-hidden="true">■</span> Stop
+        </button>
+        }
+        <span class="audio-status" aria-live="polite">
+          @if (speech.isPaused()) { Paused. } @else if
+          (speech.isSpeaking()) { Reading aloud. } @else { Read by your
+          browser — free, offline, no sign-up. }
+        </span>
+      </div>
+      }
     </div>
   </header>
 
@@ -91,7 +121,11 @@
     <div class="story-body">
       <section class="chapter chapter--intro">
         <p class="chapter-label">The beginning</p>
-        <p class="chapter-text drop-cap">{{ story.introduction }}</p>
+        <p
+          class="chapter-text drop-cap"
+          [class.is-reading]="speech.currentSegmentId() === 'intro'"
+          [id]="'segment-intro'"
+        >{{ story.introduction }}</p>
       </section>
 
       @if (story.chapters?.length) {
@@ -117,8 +151,15 @@
         </figure>
         }
         @for (paragraph of chapter.paragraphs; track paragraph; let first =
-        $first) {
-        <p class="chapter-text" [class.drop-cap]="first">{{ paragraph }}</p>
+        $first; let j = $index) {
+        <p
+          class="chapter-text"
+          [class.drop-cap]="first"
+          [class.is-reading]="
+            speech.currentSegmentId() === 'para-' + i + '-' + j
+          "
+          [id]="'segment-para-' + i + '-' + j"
+        >{{ paragraph }}</p>
         }
       </section>
       }
