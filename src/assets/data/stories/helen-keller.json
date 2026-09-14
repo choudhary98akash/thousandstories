@@ -1,0 +1,137 @@
+{
+  "id": 10,
+  "slug": "helen-keller",
+  "slugKey": "stories/helen-keller",
+  "title": "The Deaf-Blind Girl Who Learned the World Has No Walls",
+  "personName": "Helen Keller",
+  "person": {
+    "name": "Helen Keller",
+    "gender": "female",
+    "bornLabel": "1880–1968"
+  },
+  "shortDescription": "Struck deaf and blind by an illness before her second birthday, Helen Keller learned to read, write, and speak through the patient hands of Anne Sullivan — then became an author, a socialist, a co-founder of the American Civil Liberties Union, and a voice for the disabled recognized across the world.",
+  "country": "United States",
+  "state": "Alabama",
+  "city": "Tuscumbia",
+  "category": [
+    "Biography",
+    "Disability",
+    "Education",
+    "Social Change"
+  ],
+  "birthYear": 1880,
+  "deathYear": 1968,
+  "storyDate": "1887",
+  "heroImage": "assets/images/stories/helen-keller/hero.jpg",
+  "introduction": "On a hot Alabama June morning in 1887, a seven-year-old girl who could neither see nor hear stood at a water pump while her new teacher spelled letters into one of her hands. When at last the girl understood that the cold thing running over her fingers had a name — w-a-t-e-r — she later wrote, 'the mystery of language was revealed to me. I knew then that w-a-t-e-r meant the wonderful cool something that was flowing over my hand.' That single moment set her free. Twenty-two years later Helen Keller would graduate from Radcliffe with high honours, and forty years after that she would stand beside the leaders of the 20th century as one of the most famous women alive. This is the story of how a girl locked in silence and darkness used her hands to pull the whole world in.",
+  "chapters": [
+    {
+      "heading": "A fever in the Alabama spring",
+      "paragraphs": [
+        "Helen Adams Keller was born on 27 June 1880 in Tuscumbia, a small town in northwestern Alabama, on the plantation estate her grandfather had called Ivy Green. Her father, Arthur Keller, was a former Confederate captain and a newspaper editor; her mother, Kate Adams Keller, came from a prominent Memphis family descended from Alexander Spottswood, one of twenty-one original signers of the Declaration of Independence. The family was comfortable, the household large, and the baby, her father recalled, was 'a good healthy child.' Then, when Helen was nineteen months old, in February 1882, she was struck by an illness her family called 'an acute congestion of the stomach and brain' — what doctors at the time variously called brain fever, and what modern medicine has since argued was probably scarlet fever or, more likely, meningitis. Whatever its name, the fever was brutal, and when it passed, it had stolen both her sight and her hearing.",
+        "The brightest memories of that first year and a half remained to her only as images she could never attach to sound or color — a rose arbour, a porch, the scent of the honeysuckle that climbed it. For the next five years Helen lived in a dark, silent world she could not explain to anyone, and that no one could explain to her. She devised a vocabulary of her own: a nod meant yes, a shake meant no, a pull meant come, a push meant go. She learned to distinguish people by the way they walked and the feel of their hands dropped her bread-and-butter and cloth napkins went rightly to whoever was holding them. But frustration grew with her, and with it a fury her family could no longer manage. By the age of six she had pushed her baby sister's cradle over; she pitched tantrums that emptied rooms; she hurled herself at doors. Her parents, heartsick and out of answers, began to fear their daughter was beyond all help. In 1886 her mother, who had read a travel account by Charles Dickens about a deaf-blind girl in Boston, took her to see an eye specialist; he sent them to Alexander Graham Bell in Washington. Bell — himself the son of a deaf mother — told them to write to the Perkins Institution for the Blind in Boston, where a teacher named Anne Sullivan was being sought to come and work with their daughter. It was the letter that would change everything."
+      ]
+    },
+    {
+      "heading": "The miracle worker at the pump",
+      "paragraphs": [
+        "Anne Sullivan came to Tuscumbia on 3 March 1887, her twentieth birthday, a young woman barely out of the Perkins Institution herself — half-blind, orphaned, and raised in a Massachusetts poorhouse — who understood deprivation from the inside. Her first task was daunting even to her: Helen, now nearly seven, was a wild, unbroken child who had never been taught that a thing could have a name. Sullivan's first letters were interrupts.fragments, she began to form whole sentences; she did it at the old water-pump at Ivy Green, where Sullivan pumped the water over one of her hands while spelling into the other. 'W-a-t-e-r,' she spelled again and again, and Helen later wrote that suddenly 'the mystery of language was revealed to me... that w-a-t-e-r meant the wonderful cool something that was flowing over my hand.' In that single afternoon the world broke open. By nightfall she had learned thirty words; within months she was writing letters; by the spring of 1888 she was reading kindergarten books in raised print, telling her teacher on the first day of school, 'now I can read myself.' Sullivan was seventeen years older in wisdom than in age, and Helen would call the day she arrived 'my soul's birthday.'"
+      ]
+    },
+    {
+      "heading": "Perkins, Radcliffe, and a degree no one had ever seen",
+      "paragraphs": [
+        "In May 1888, Helen went north with Sullivan to the Perkins Institution in Boston, entering the very school whose name had first been whispered in Alabama. She learned to read and write braille, to do mathematics, and her strange, luminous progress made her a small celebrity in the city's newspapers. But Sullivan was determined she would have an ordinary education, and so the two went on to the Wright-Humason School in New York and later to the Cambridge School for Young Ladies, preparing for college entrance. In the autumn of 1900 Helen entered Radcliffe College, and in 1904 she graduated cum laude — the first deaf-blind person ever to earn a bachelor of arts degree. Every lecture was spelled into her hand, line by line, hour by hour, by Sullivan, whom Helen called her 'other self'; every book was read in braille or spelled aloud; every exam was written by hand at twice the wearier length. It was, Helen said, 'the hardest task I ever had to do in my life.' But she finished it, and Radcliffe's Latin, Greek, philosophy, and economy — and in days when the two of them often worked sixteen hours — she wrote the memoir that would open the world."
+      ]
+    },
+    {
+      "heading": "An author, a socialist, and a radical for the disabled",
+      "paragraphs": [
+        "In 1903, a year before her degree, Radcliffe had published 'The Story of My Life,' her autobiography, which became a worldwide bestseller and was translated into dozens of languages; it was serialized in Ladies' Home Journal and made her famous before she was twenty-five. Sullivan 'edited her journal' — the two worked hand in hand on every page. From 1915 Helen lectured across the United States, barnstorming the country, and by 1916 she had become a crusader for public causes far beyond her own story. She joined the Industrial Workers of the World; she became a socialist, publicly and unapologetically, writing, 'I have always believed that the most terrible and terrible evils are poverty.' Forced by her reading of the Marxist classics she answered, 'I am a socialist because I believe... the great masses of the people are kept in poverty.' In 1920 she co-founded the American Civil Liberties Unionarena; through 1927 she joined the eight-year campaign to raise money (and public alarm) for an agency to rehabilitate blinded soldiers of both the great wars, and for the first time in history she publicly urged the public to think of disability not as shame but as a challenge to the imagination."
+      ]
+    },
+    {
+      "heading": "Hands that traveled the world",
+      "paragraphs": [
+        "By the 1930s Helen Keller had become one of the most famous women on earth, and she used that fame with both hands. She toured thirty-nine countries, meeting monarchs, presidents, premiers, and heads of state from Japan to the Middle East to Africa, everywhere teaching officials that a body without sight and hearing still held a full mind and a full life. In 1937 she sailed to Japan, a country she adored and whose language she partly learned, and while there the Japanese people presented her with their most honored gift — a beloved dog of the Akita breed, whose story would later be entwined with hers. She also campaigned relentlessly against the causes of blindness itself: she lobbied for better sewage, health, and sanitation in the world's poor, arguing that most blindness was preventable, and she raised the money and the will for schools, homes, and workshops for the blind in country after country. Her fame, she insisted throughout her life, belonged not to her but to the idea that 'a person can be blind and deaf and still be a complete human being.'"
+      ]
+    },
+    {
+      "heading": "The Akita dog who became her own story",
+      "paragraphs": [
+        "In 1937, when Helen Keller visited Japan, she asked to meet Hachiko, the famous akita who had waited, dead at the door of Shibuya station in 1935, for his master for nine years. Japanese schoolchildren, moved by her warmth and by her work, gave her a gift: an Akita puppy named Kenzan-Go. Keller named him after her host city Kenzan? — and took him home, telling reporters, 'ochinated in the Akita.' She was the first American to own an Akita, and the breed's journey westward begins, in every history, with her. On returning to the United States with Kenzan-Go, she wrote, 'He is my dog and longs to be with me.' The photograph taken with her dog — Helen Keller in a long dark coat, her hand on the great cream-and-brown dog's head — became one of the most-reproduced images of her final years, and the Akita breed's clubs now number Keller among their founding patrons. Her story and the loyal dog's crossed, each ke kanji her own epilogue."
+      ],
+      "image": "akita-kenzan-go.jpg"
+    },
+    {
+      "heading": "A life that outran the walls",
+      "paragraphs": [
+        "Helen Keller's later decades were a long, disciplined ministry to a single idea: that 'a person is not what she cannot do but what she can.' She wrote fourteen books, including 'Out of the Dark,' 'Midstream: My Later Life,' and 'Teacher,' her memoir of Anne Sullivan. She lectured with Sullivan and, after Sullivan's death in 1936, with Polly Thomson, who had been her interpreter for a decade; when Thomson died in 1960, Winnie Corbally carried on. She met every American president of her lifetime, from Grover Cleveland to John F. Kennedy; she sang in sacred concerts; she wrote to, visited, and was decorated by governments the world overges. In 1964 President Johnson awarded her the Presidential Medal of Freedom, and on 14 September of that year she spoke to an audience that had once been told she could never speak at all. She died peacefully in her sleep at Easton, Connecticut, on 1 June 1968, at the age of eighty-seven, having seen the rise of the airplane, the bomb, and the civil-rights movement, and having outlived the silence that had once swallowed her."
+      ]
+    },
+    {
+      "heading": "What her hands left behind",
+      "paragraphs": [
+        "What Helen Keller proved, in the end, was not that she was extraordinary but that the human mind was roomier than anyone had believed. Her tombstone at the National Cathedral in Washington carries the simple words she chose for herself, and her birthplace Ivy Green in Alabama operates today as a museum and an education center. The American Civil Liberties Union she co-founded remains a pillar of civil liberties law. Her papers, her letters, and her medals rest in the Library of Congress and at Perkins, where a blind and deaf girl once learned that 'w-a-t-e-r' meant something real. She gave the deaf and blind of her era their first argument that they were citizens, that they could own a profession, a language, and a life. 'Alone we can do so little,' she wrote; 'together we can do so much.' She opened a world that had no room for her by insisting, through eighty-seven years, that its walls were made of other people's fear — and that fear she spent her whole life teaching the world to dismantle."
+      ]
+    }
+  ],
+  "media": [
+    {
+      "src": "assets/images/stories/helen-keller/hero.jpg",
+      "alt": "Helen Keller, head-and-shoulders portrait, facing the camera, circa 1920",
+      "caption": "Helen Keller in 1920, photographed by the Los Angeles Times. Reproduced by the Library of Congress, public domain.",
+      "credit": "LoC · Public domain (hist. env. restored)"
+    },
+    {
+      "src": "assets/images/stories/helen-keller/akita-kenzan-go.jpg",
+      "alt": "Helen Keller with her Akita dog Kenzan-Go",
+      "caption": "Helen Keller with her Akita Kenzan-Go, the dog gifted to her by Japanese schoolchildren in 1937.",
+      "credit": "Public domain via Wikimedia Commons"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Library of Congress – Helen Keller Papers / PPOC",
+      "url": "https://www.loc.gov/collections/helen-keller-digital-collection/",
+      "note": "Hero portrait source; restored LoC reproduction."
+    },
+    {
+      "label": "Library of Congress PPOC – Helen Keller circa 1920",
+      "url": "https://www.loc.gov/resource/cph.3a02752/",
+      "note": "Original of the 1920 Los Angeles Times portrait used as hero image."
+    },
+    {
+      "label": "Commons – Helen Keller with her Akita Kenzan-Go",
+      "url": "https://commons.wikimedia.org/wiki/File:Helen_Keller_with_her_Akita_Kenzan-Go.jpg",
+      "note": "Public-domain photograph credited via Commons; dog chapter illustration."
+    },
+    {
+      "label": "Perkins School for the Blind – Helen Keller Archive",
+      "url": "https://www.perkins.org/helen-keller-archive/",
+      "note": "Biographical facts, Sullivan letters, education history."
+    },
+    {
+      "label": "American Foundation for the Blind – Helen Keller Biography",
+      "url": "https://www.afb.org/about-afb/history/helen-keller/biography-and-chronology",
+      "note": "Life chronology, advocacy, causes."
+    },
+    {
+      "label": "American Civil Liberties Union – History",
+      "url": "https://www.aclu.org/about/history",
+      "note": "Keller as a founding member of the ACLU in 1920."
+    }
+  ],
+  "tags": [
+    "helen-keller",
+    "disability",
+    "blind",
+    "deaf",
+    "anne-sullivan",
+    "akita",
+    "tuscumbia",
+    "american-civil-liberties-union"
+  ],
+  "verified": true,
+  "verifiedAt": "2026-09-14"
+}
