@@ -46,9 +46,15 @@
       }
     </div>
     <div class="featured-grid">
-      <div class="featured-media" aria-hidden="true">
-        <span class="quote-mark">“</span>
-      </div>
+      <figure class="featured-media">
+        @if (story.heroImage) {
+        <img
+          [src]="story.heroImage"
+          [alt]="'Portrait of ' + story.personName"
+        />
+        }
+        <span class="quote-mark" aria-hidden="true">“</span>
+      </figure>
       <div class="featured-body">
         <p class="featured-kicker">The story of</p>
         <h2 class="featured-name">{{ story.personName }}</h2>
