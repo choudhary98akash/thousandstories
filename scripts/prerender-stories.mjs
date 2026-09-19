@@ -1,6 +1,7 @@
-// Pre-renders a static story page for every story in stories.json so that
-// link-preview scrapers (WhatsApp, Slack, Telegram, Discord, X, FB…)
-// receive per-story OG/Twitter tags including the hero portrait.
+// Pre-renders a static story page for every story in the story index
+// (src/assets/data/stories/index.json) so that link-preview scrapers
+// (WhatsApp, Slack, Telegram, Discord, X, FB…) receive per-story OG/Twitter
+// tags including the hero portrait.
 //
 // Pure Node — no dependencies. Run AFTER `ng build --configuration production`
 // (reads the already-built index.html so base-href and hashed bundles are kept).
@@ -138,7 +139,7 @@ function buildHeadBlock(story, canonical, image, siteRoot) {
 }
 
 const stories = JSON.parse(
-  readFileSync(path.join(root, "src", "assets", "data", "stories.json"), "utf8"),
+  readFileSync(path.join(root, "src", "assets", "data", "stories", "index.json"), "utf8"),
 );
 
 const siteRoot = inferSiteRoot();
@@ -149,7 +150,7 @@ const baseBody = stripManagedTags(sourceHtml);
 const storiesDir = path.join(browserDir, "stories");
 mkdirSync(storiesDir, { recursive: true });
 
-// Remove pre-rendered slugs that are no longer in stories.json
+// Remove pre-rendered slugs that are no longer in the story index
 const existing = existsSync(storiesDir)
   ? readdirSync(storiesDir, { withFileTypes: true })
       .filter((e) => e.isDirectory())

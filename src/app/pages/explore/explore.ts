@@ -1,7 +1,7 @@
 import { Component, inject, signal } from "@angular/core";
 import { ActivatedRoute, RouterLink } from "@angular/router";
 import { StoryService } from "../../core/services/story.service";
-import { Story } from "../../core/models/story.model";
+import { StorySummary } from "../../core/models/story.model";
 
 @Component({
   imports: [RouterLink],
@@ -13,7 +13,7 @@ export class Explore {
   private readonly storyService = inject(StoryService);
   private readonly route = inject(ActivatedRoute);
 
-  readonly stories = signal<Story[]>([]);
+  readonly stories = signal<StorySummary[]>([]);
   readonly categories = signal<string[]>([]);
   readonly countries = signal<string[]>([]);
   readonly selectedCategory = signal<string>("");
@@ -55,7 +55,7 @@ export class Explore {
     this.query.set(value);
   }
 
-  filteredStories(): Story[] {
+  filteredStories(): StorySummary[] {
     const q = this.query().trim().toLowerCase();
     return this.stories().filter((story) => {
       const matchesCategory =

@@ -1,4 +1,5 @@
-// Generates public/sitemap.xml and public/robots.txt from stories.json.
+// Generates public/sitemap.xml and public/robots.txt from the story index
+// (src/assets/data/stories/index.json).
 // Pure Node — no dependencies. Run via: npm run generate:sitemap
 // Override the public site root with SITE_URL, otherwise it is inferred
 // from `git remote get-url origin` (GitHub Pages project-site layout).
@@ -37,7 +38,7 @@ function xmlEscape(value) {
 }
 
 const stories = JSON.parse(
-  readFileSync(path.join(root, "src", "assets", "data", "stories.json"), "utf8"),
+  readFileSync(path.join(root, "src", "assets", "data", "stories", "index.json"), "utf8"),
 );
 
 const siteRoot = inferSiteRoot();

@@ -1,7 +1,7 @@
 import { Component, inject, signal } from "@angular/core";
 import { RouterLink } from "@angular/router";
 import { StoryService } from "../../core/services/story.service";
-import { Story } from "../../core/models/story.model";
+import { StorySummary } from "../../core/models/story.model";
 
 @Component({
   imports: [RouterLink],
@@ -12,9 +12,9 @@ import { Story } from "../../core/models/story.model";
 export class Home {
   private readonly storyService = inject(StoryService);
 
-  readonly stories = signal<Story[]>([]);
-  readonly featured = signal<Story | undefined>(undefined);
-  readonly lesserKnown = signal<Story[]>([]);
+  readonly stories = signal<StorySummary[]>([]);
+  readonly featured = signal<StorySummary | undefined>(undefined);
+  readonly lesserKnown = signal<StorySummary[]>([]);
   readonly countries = signal<string[]>([]);
   readonly categories = signal<string[]>([]);
 
@@ -37,7 +37,7 @@ export class Home {
     });
   }
 
-  private pickFeatured(stories: Story[]): Story | undefined {
+  private pickFeatured(stories: StorySummary[]): StorySummary | undefined {
     if (stories.length === 0) {
       return undefined;
     }

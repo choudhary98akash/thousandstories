@@ -1,0 +1,378 @@
+[
+  {
+    "id": 1,
+    "slug": "abraham-lincoln",
+    "personName": "Abraham Lincoln",
+    "title": "The Rail-Splitter Who Saved the Union",
+    "shortDescription": "From a one-room Kentucky log cabin with barely a year of schooling, a self-taught boy who lost more elections than he won rose to save the Union, free four million enslaved people, and become the most admired president in American history.",
+    "country": "United States",
+    "state": "Kentucky",
+    "city": "Hodgenville",
+    "category": [
+      "Leadership",
+      "History",
+      "Courage",
+      "Social Change"
+    ],
+    "birthYear": 1809,
+    "deathYear": 1865,
+    "storyDate": "1863",
+    "heroImage": "assets/images/stories/abraham-lincoln/portrait-1863.jpg",
+    "tags": [
+      "president",
+      "civil-war",
+      "emancipation",
+      "gettysburg-address",
+      "union"
+    ],
+    "verified": true
+  },
+  {
+    "id": 2,
+    "slug": "apj-abdul-kalam",
+    "personName": "A. P. J. Abdul Kalam",
+    "title": "The Missile Man Who Aimed at the Stars",
+    "shortDescription": "Born into a poor boat-owner's family on a tiny island in southern India, a boy who delivered newspapers and was denied his dream of flying became the scientist behind India's rockets and missiles, then the nation's most beloved President — and was still teaching when, at eighty-three, he died in the middle of a lecture.",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Rameswaram",
+    "category": [
+      "Leadership",
+      "Science",
+      "Courage",
+      "Education"
+    ],
+    "birthYear": 1931,
+    "deathYear": 2015,
+    "storyDate": "2002–2007",
+    "heroImage": "assets/images/stories/apj-abdul-kalam/portrait-2002.jpg",
+    "tags": [
+      "president",
+      "missile-man",
+      "aerospace",
+      "isro",
+      "drdo",
+      "world-students-day"
+    ],
+    "verified": true
+  },
+  {
+    "id": 3,
+    "slug": "steve-jobs",
+    "personName": "Steve Jobs",
+    "title": "The Man Who Made Himself",
+    "shortDescription": "Given away at birth, adopted by a working-class couple, a college dropout who slept on floors and ate at a temple — he built computers in a garage, was fired from his own company at thirty, and came back to make Apple the most valuable business on earth.",
+    "country": "United States",
+    "state": "California",
+    "city": "San Francisco",
+    "category": [
+      "Entrepreneurship",
+      "Technology",
+      "Courage",
+      "Achievement"
+    ],
+    "birthYear": 1955,
+    "deathYear": 2011,
+    "storyDate": "1985–1997",
+    "heroImage": "assets/images/stories/steve-jobs/jobs-headshot-2010.jpg",
+    "tags": [
+      "entrepreneur",
+      "technology",
+      "self-made",
+      "innovation",
+      "pixar",
+      "iphone"
+    ],
+    "verified": true
+  },
+  {
+    "id": 4,
+    "slug": "oprah-winfrey",
+    "personName": "Oprah Winfrey",
+    "title": "The Girl with the Golden Voice",
+    "shortDescription": "Born to a teenage mother in rural Mississippi, abused and pregnant at fourteen, she rose from a third-rate local talk show to become the first Black billionaire on earth — and for a quarter of a century the most influential voice in American television.",
+    "country": "United States",
+    "state": "Mississippi",
+    "city": "Kosciusko",
+    "category": [
+      "Entrepreneurship",
+      "Media",
+      "Social Change",
+      "Courage"
+    ],
+    "birthYear": 1954,
+    "storyDate": "1986–2011",
+    "heroImage": "assets/images/stories/oprah-winfrey/oprah-hero.jpg",
+    "tags": [
+      "media",
+      "entrepreneurship",
+      "philanthropy",
+      "talk-show",
+      "first-black-billionaire"
+    ],
+    "verified": true
+  },
+  {
+    "id": 5,
+    "slug": "kailash-satyarthi",
+    "personName": "Kailash Satyarthi",
+    "title": "The Seeker of Truth",
+    "shortDescription": "An Indian electrical engineer who gave up his career at twenty-six to fight child slavery; he has helped free more than eighty thousand children, walked eighty thousand kilometres for a global law against child labour, and won the Nobel Peace Prize.",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Vidisha",
+    "category": [
+      "Social Change",
+      "Education",
+      "Courage",
+      "Leadership"
+    ],
+    "birthYear": 1954,
+    "storyDate": "2014",
+    "heroImage": "assets/images/stories/kailash-satyarthi/satyarthi-hero.jpg",
+    "tags": [
+      "nobel-peace-prize",
+      "child-labour",
+      "education",
+      "social-change",
+      "global-march"
+    ],
+    "verified": true
+  },
+  {
+    "id": 6,
+    "slug": "nadia-murad",
+    "personName": "Nadia Murad",
+    "title": "The girl who made a village's story heard",
+    "shortDescription": "A Yazidi girl from a farming village in northern Iraq who survived three months of enslavement by ISIS after her mother and six brothers were killed — she escaped, told the world her story, and won the Nobel Peace Prize for ending sexual violence in war.",
+    "country": "Iraq",
+    "state": "Nineveh Governorate",
+    "city": "Kocho",
+    "category": [
+      "Courage",
+      "Social Change",
+      "Human Rights",
+      "Survival"
+    ],
+    "birthYear": 1993,
+    "storyDate": "2018",
+    "heroImage": "assets/images/stories/nadia-murad/murad-hero.jpg",
+    "tags": [
+      "nobel-peace-prize",
+      "survivor",
+      "yazidi-genocide",
+      "human-rights",
+      "isis"
+    ],
+    "verified": true
+  },
+  {
+    "id": 7,
+    "slug": "malala-yousafzai",
+    "personName": "Malala Yousafzai",
+    "title": "The Girl Who Would Not Be Silenced",
+    "shortDescription": "Born in Pakistan's Swat Valley, she demanded the right to go to school as the Taliban outlawed girls' education; shot in the head at fifteen for speaking out, she survived, forgave her attackers, and won the Nobel Peace Prize at seventeen.",
+    "country": "Pakistan",
+    "state": "Khyber Pakhtunkhwa",
+    "city": "Mingora",
+    "category": [
+      "Education",
+      "Courage",
+      "Leadership",
+      "Social Change"
+    ],
+    "birthYear": 1997,
+    "storyDate": "2014",
+    "heroImage": "assets/images/stories/malala-yousafzai/malala-hero-2015.jpg",
+    "tags": [
+      "nobel-peace-prize",
+      "girls-education",
+      "swat-valley",
+      "survivor",
+      "malala-fund"
+    ],
+    "verified": true
+  },
+  {
+    "id": 8,
+    "slug": "muhammad-yunus",
+    "personName": "Muhammad Yunus",
+    "title": "The Man Who Lent $27",
+    "shortDescription": "An economics professor who lent $27 of his own money to forty-two villagers — and built that sum into Grameen Bank, the world's first bank for the poor, winning the Nobel Peace Prize and, in 2024, the leadership of his own nation.",
+    "country": "Bangladesh",
+    "state": "Chittagong",
+    "city": "Chittagong",
+    "category": [
+      "Economics",
+      "Entrepreneurship",
+      "Leadership",
+      "Social Change"
+    ],
+    "birthYear": 1940,
+    "storyDate": "2006–2024",
+    "heroImage": "assets/images/stories/muhammad-yunus/yunus-hero-2013.jpg",
+    "tags": [
+      "microfinance",
+      "nobel-peace-prize",
+      "poverty-alleviation",
+      "grameen-bank",
+      "banking",
+      "bangladesh"
+    ],
+    "verified": true
+  },
+  {
+    "id": 9,
+    "slug": "helen-keller",
+    "personName": "Helen Keller",
+    "title": "The Deaf-Blind Girl Who Learned the World Has No Walls",
+    "shortDescription": "Struck deaf and blind by an illness before her second birthday, Helen Keller learned to read, write, and speak through the patient hands of Anne Sullivan — then became an author, a socialist, a co-founder of the American Civil Liberties Union, and a voice for the disabled recognized across the world.",
+    "country": "United States",
+    "state": "Alabama",
+    "city": "Tuscumbia",
+    "category": [
+      "Biography",
+      "Disability",
+      "Education",
+      "Social Change"
+    ],
+    "birthYear": 1880,
+    "deathYear": 1968,
+    "storyDate": "1887",
+    "heroImage": "assets/images/stories/helen-keller/hero.jpg",
+    "tags": [
+      "helen-keller",
+      "disability",
+      "blind",
+      "deaf",
+      "anne-sullivan",
+      "akita",
+      "tuscumbia",
+      "american-civil-liberties-union"
+    ],
+    "verified": true
+  },
+  {
+    "id": 10,
+    "slug": "nelson-mandela",
+    "personName": "Nelson Mandela",
+    "title": "The Prisoner Who Became President",
+    "shortDescription": "Born into a royal Thembu family in a South African village, Nelson Mandela was stripped of privilege, became a lawyer, and gave up nearly three decades of his life in prison to end apartheid — then walked out to lead the country he had been jailed for freeing as its first Black president.",
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Mvezo",
+    "category": [
+      "Leadership",
+      "Social Change",
+      "Courage",
+      "History"
+    ],
+    "birthYear": 1918,
+    "deathYear": 2013,
+    "storyDate": "1994",
+    "heroImage": "assets/images/stories/nelson-mandela/portrait.jpg",
+    "tags": [
+      "nelson-mandela",
+      "south-africa",
+      "apartheid",
+      "robben-island",
+      "freedom",
+      "reconciliation",
+      "nobel-peace-prize",
+      "social-justice"
+    ],
+    "verified": true
+  },
+  {
+    "id": 11,
+    "slug": "temple-grandin",
+    "personName": "Temple Grandin",
+    "title": "The Woman Who Thought in Pictures",
+    "shortDescription": "Born in Boston in 1947, diagnosed with brain damage at two because she was autistic and could not speak, and almost sent to an institution by doctors who said she would never learn, Temple Grandin became the most famous autistic person in the world — designing the humane cattle-handling systems used for roughly half of the beef cattle in the United States, and redefining how the world sees a differently wired mind.",
+    "country": "United States",
+    "state": "Massachusetts",
+    "city": "Boston",
+    "category": [
+      "Science",
+      "Disability & Achievement",
+      "Education",
+      "Social Change"
+    ],
+    "birthYear": 1947,
+    "storyDate": "2010",
+    "heroImage": "assets/images/stories/temple-grandin/portrait.jpg",
+    "tags": [
+      "temple-grandin",
+      "autism",
+      "neurodiversity",
+      "animal-welfare",
+      "visual-thinking",
+      "cattle-industry",
+      "science",
+      "different-not-less"
+    ],
+    "verified": true
+  },
+  {
+    "id": 12,
+    "slug": "muhammad-ali",
+    "personName": "Muhammad Ali",
+    "title": "The Greatest: How a Kid from Louisville Shook Up the World",
+    "shortDescription": "Born Cassius Marcellus Clay Jr in Louisville, Kentucky on 17 January 1942, a talkative twelve-year-old who lost nothing but a stolen bicycle and found the sport that would remake his life, he flew to the 1960 Rome Olympics at eighteen and came home a gold medallist — then 'shook up the world' by beating the fearsome Sonny Liston in 1964, changed his name and his religion the moment it mattered most, and gave up the heavyweight crown at the height of his fame rather than fight in a war he believed was wrong. He fought his way back to become a three-time world heavyweight champion, lit the Olympic flame in Atlanta in 1996, and lived long enough to be called, almost without anyone disputing it, the most famous person who ever lived.",
+    "country": "United States",
+    "state": "Kentucky",
+    "city": "Louisville",
+    "category": [
+      "Sports",
+      "Civil Rights",
+      "Social Change",
+      "Courage"
+    ],
+    "birthYear": 1942,
+    "storyDate": "2016",
+    "heroImage": "assets/images/stories/muhammad-ali/portrait.jpg",
+    "tags": [
+      "muhammad-ali",
+      "boxing",
+      "heavyweight-champion",
+      "civil-rights",
+      "draft-refusal",
+      "rumble-in-the-jungle",
+      "olympics",
+      "louisville",
+      "the-greatest"
+    ],
+    "verified": false
+  },
+  {
+    "id": 13,
+    "slug": "vandana-shiva",
+    "personName": "Vandana Shiva",
+    "title": "The Woman Who Fought Back With a Seed",
+    "shortDescription": "Born on 5 November 1952 in Dehradun, in the Himalayan foothills of what is now Uttarakhand, the daughter of a forest officer and a farmer-philosopher mother, Vandana Shiva trained as a physicist and earned a doctorate in the philosophy of science before concluding that the most important book she could ever read was written in the earth, not in the laboratory. She founded Navdanya, the nine-seed network of farmer-run seed banks that today stretches across India, saved thousands of rice varieties from extinction, took on the patent system that claimed the basmati and the neem as corporate inventions, and became — through books, speeches and a stubborn seed jar — the most famous voice on Earth arguing that no corporation should own the code of life, and no farmer should ever have to buy it back.",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Dehradun",
+    "category": [
+      "Environment",
+      "Science",
+      "Social Change",
+      "Courage"
+    ],
+    "birthYear": 1952,
+    "storyDate": "1993",
+    "heroImage": "assets/images/stories/vandana-shiva/portrait.jpg",
+    "tags": [
+      "vandana-shiva",
+      "seed-sovereignty",
+      "navdanya",
+      "biopiracy",
+      "green-revolution",
+      "organic-farming",
+      "right-livelihood",
+      "india",
+      "environment"
+    ],
+    "verified": true
+  }
+]

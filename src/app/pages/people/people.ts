@@ -1,11 +1,11 @@
 import { Component, inject, signal } from "@angular/core";
 import { RouterLink } from "@angular/router";
 import { StoryService } from "../../core/services/story.service";
-import { Story } from "../../core/models/story.model";
+import { StorySummary } from "../../core/models/story.model";
 
 interface PersonEntry {
   letter: string;
-  people: Story[];
+  people: StorySummary[];
 }
 
 @Component({
@@ -27,7 +27,7 @@ export class People {
       const sorted = [...stories].sort((a, b) =>
         a.personName.localeCompare(b.personName),
       );
-      const grouped = new Map<string, Story[]>();
+      const grouped = new Map<string, StorySummary[]>();
       for (const story of sorted) {
         const letter = story.personName.charAt(0).toUpperCase();
         if (!grouped.has(letter)) {

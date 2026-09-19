@@ -10,7 +10,7 @@ import { RouterLink } from "@angular/router";
 import { StoryService } from "../../core/services/story.service";
 import { SpeechService, SpeechSegment } from "../../core/services/speech.service";
 import { SeoService, DEFAULT_TITLE } from "../../core/services/seo.service";
-import { Story } from "../../core/models/story.model";
+import { Story, StorySummary } from "../../core/models/story.model";
 
 @Component({
   imports: [RouterLink],
@@ -25,7 +25,7 @@ export class StoryDetail implements OnDestroy {
 
   readonly slug = input.required<string>();
   readonly story = signal<Story | undefined>(undefined);
-  readonly moreStories = signal<Story[]>([]);
+  readonly moreStories = signal<StorySummary[]>([]);
   readonly loading = signal(true);
   private speechSegments: SpeechSegment[] = [];
 

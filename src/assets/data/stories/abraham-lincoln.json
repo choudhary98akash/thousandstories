@@ -1,0 +1,170 @@
+{
+  "id": 1,
+  "slug": "abraham-lincoln",
+  "slugKey": "stories/abraham-lincoln",
+  "title": "The Rail-Splitter Who Saved the Union",
+  "personName": "Abraham Lincoln",
+  "person": {
+    "name": "Abraham Lincoln",
+    "bornLabel": "1809–1865"
+  },
+  "shortDescription": "From a one-room Kentucky log cabin with barely a year of schooling, a self-taught boy who lost more elections than he won rose to save the Union, free four million enslaved people, and become the most admired president in American history.",
+  "country": "United States",
+  "state": "Kentucky",
+  "city": "Hodgenville",
+  "category": [
+    "Leadership",
+    "History",
+    "Courage",
+    "Social Change"
+  ],
+  "birthYear": 1809,
+  "deathYear": 1865,
+  "storyDate": "1863",
+  "heroImage": "assets/images/stories/abraham-lincoln/portrait-1863.jpg",
+  "introduction": "On 12 February 1809, in a one-room log cabin near Hodgenville, Kentucky, a boy was born into a life of frontier labour, with no money and almost no schooling. He would grow up with less than a year of formal education in his whole life, lose more elections than he won, and bury two of his four sons. Yet he would command the deadliest war in American history, hold the nation together, and set four million people free. Historians now rank him the greatest president the United States has ever produced. This is the long, hard road he walked to get there.",
+  "chapters": [
+    {
+      "heading": "From a Kentucky log cabin",
+      "paragraphs": [
+        "Abraham Lincoln was born on Sinking Spring Farm, a few miles south of Hodgenville in Hardin County, Kentucky, to Thomas Lincoln and Nancy Hanks Lincoln. His parents were poor frontier people: his father worked as a farmer and carpenter, and by Lincoln's own recollection 'grew up literally without education,' signing his name only with difficulty. The family lived in a small log cabin with a dirt floor, and from the moment Abraham could carry an axe he was put to work clearing land, planting corn, and splitting rails. Schooling came in scraps between harvests, in frontier log-schools that were little more than huts. Years later Lincoln wrote that 'the aggregate of all his schooling did not amount to one year.'",
+        "When Abraham was two, the family moved a few miles east to a farm on Knob Creek, where he began to develop his first memories — a memory he would later describe of once escaping drowning in the creek. In 1816, when he was seven, the Lincolns crossed the Ohio River into the Indiana wilderness, settling at Little Pigeon Creek, where Thomas Lincoln had staked a claim. The boy helped build the family's new cabin, cleared timber, and worked beside his father, who hired him out to neighbouring farms for twenty-five cents a day. Two years later disaster struck the family: in the autumn of 1818, Nancy Lincoln died of 'milk sickness' — the poisoning that comes from cows that have grazed on white snakeroot. Abraham, aged nine, helped his father saw the boards and whittle the pegs that held his mother's coffin together.",
+        "The following year Thomas Lincoln remarried, bringing a Kentucky widow named Sarah Bush Johnston into the home together with her three children. She was the second of the two women Lincoln would later call his 'angel mother,' and she immediately saw something in the ragged boy that no one else had. She encouraged his love of learning, brought books into the cabin — among them the family Bible — and insisted that he be allowed time to study. Books were scarce on the frontier, but Lincoln devoured what he could find: the King James Bible, Aesop's Fables, John Bunyan's 'Pilgrim's Progress,' Daniel Defoe's 'Robinson Crusoe,' and Mason Locke Weems's biography of George Washington. He walked miles to borrow a single volume and read late into the night by firelight, writing out passages on a wooden shovel with charcoal when he had no paper. From such unpromising soil, the boy insisted on growing a mind."
+      ],
+      "media": {
+        "src": "assets/images/stories/abraham-lincoln/boyhood-cabin-knob-creek.jpg",
+        "alt": "A reconstructed log cabin at Knob Creek in Kentucky, where Lincoln lived as a small boy",
+        "caption": "The boyhood cabin at Knob Creek, Kentucky, where Lincoln's family lived from 1811 to 1816.",
+        "credit": "National Archives · Public domain"
+      }
+    },
+    {
+      "heading": "Self-made in Illinois",
+      "paragraphs": [
+        "In the spring of 1830, when Abraham was twenty-one, the Lincoln family pulled up stakes again, this time to Illinois, settling on the Sangamon River near Decatur. During his last years at home he had continued to hire himself out to neighbouring farms, and he had twice floated flatboats down the Mississippi River to New Orleans. Those journeys downriver exposed him to the great slave markets of the lower South — a sight that, as his law partner later recorded, troubled him deeply. It was in the tiny settlement of New Salem, Illinois, that he struck out on his own in 1831, keeping a store, working as a mill hand, and becoming postmaster and, later, a county surveyor. When the Black Hawk War broke out in 1832, the men of his militia company elected him their captain — a victory he later said 'gave me more pleasure than any I have had since.'",
+        "The New Salem store failed, leaving Lincoln with a debt he called 'the National Debt' and quietly paid off over years — an episode that sealed his reputation for honesty. The ambition behind that honesty was ferocious. His law partner William Herndon would write that Lincoln's 'ambition was a little engine that knew no rest.' With no law school within reach, he taught himself law from borrowed books — Blackstone's 'Commentaries,' Chitty, and Story — doing sums on his knee, sometimes studying to the point of physical collapse. Admitted to the bar in 1836, he moved to the new state capital of Springfield, where he rode the Eighth Judicial Circuit from county seat to county seat, trying cases in rough courthouses for years. The title 'Honest Abe' followed him across the circuit: juries and fellow lawyers came to trust him absolutely.",
+        "Lincoln had entered politics as a Whig, winning election to the Illinois legislature in 1834 and serving four consecutive terms while still building his law practice. In 1842 he married Mary Todd, a sharp, ambitious woman from a prominent Kentucky family. They had four sons — Robert, Edward, Willie, and Tad — though only Robert would live to adulthood. In 1846 Lincoln won a seat in the United States House of Representatives, serving a single term in Washington from 1847 to 1849, where he opposed the Mexican–American War as aggressive and wasteful. When his term ended he returned to Springfield, seemingly content to be a plain frontier lawyer. But the greatest moral question of his age would not leave him alone. The Kansas–Nebraska Act of 1854, opening Western territories to slavery, called him back into politics with a fury nothing else had ever managed."
+      ]
+    },
+    {
+      "heading": "A House Divided",
+      "paragraphs": [
+        "In 1854 Senator Stephen A. Douglas of Illinois pushed through Congress the Kansas–Nebraska Act, which allowed the territories of Kansas and Nebraska to choose for themselves whether to permit slavery — a policy called 'popular sovereignty' — and repealed the thirty-four-year-old Missouri Compromise that had kept slavery out of the territories north of the 36 degrees 30 minutes line. Lincoln, who had spent five years away from politics, was electrified. In a speech at Peoria, Illinois, in October 1854 he argued that the real question was whether slavery would spread unchecked across the continent, and he gave the moral frame he would never abandon: the Declaration of Independence asserted all men are created equal, and no man 'is good enough to govern another man, without that other's consent.'",
+        "In 1858 the young Republican Party nominated Lincoln to run for the United States Senate against Douglas. Accepting the nomination on 16 June 1858, he delivered the speech that defined the conflict: 'A house divided against itself cannot stand. I believe this government cannot endure, permanently half slave and half free.' He challenged Douglas to a series of debates; both men spoke before enormous crowds in seven Illinois cities that summer and autumn. Douglas was the country's best orator, but Lincoln held his own on every platform, and the 'Lincoln–Douglas debates' — on the extension of slavery, on race, on the meaning of the Declaration — became famous across the country. Lincoln lost the Senate contest when the legislature chose Douglas, 54 seats to 46. He treated it as a step toward something larger. 'The fight must go on,' he wrote; 'the cause of civil liberty must not be surrendered at the end of one, or even one hundred defeats.'",
+        "On 27 February 1860 he stood before fifteen hundred people at Cooper Union in New York City and argued, with lawyerly precision and to long applause, that the Founding Fathers had intended to place slavery on a course of ultimate extinction. That May the Republican convention in Chicago, needing a moderate who could carry the Midwest, nominated Lincoln for president on the third ballot. In November he won the presidency with about forty per cent of the popular vote, defeating a divided field of three opponents. Before he could take the oath of office, seven Southern states had seceded from the Union and formed the Confederate States of America. Warned of an assassination plot, Lincoln travelled secretly through Baltimore to Washington, arriving at the capital under cover of night, and was inaugurated on 4 March 1861."
+      ]
+    },
+    {
+      "heading": "The war he had to fight",
+      "paragraphs": [
+        "In his first inaugural address Lincoln appealed to the 'mystic chords of memory' that bound the nation together and called on 'the better angels of our nature,' insisting that the Union was perpetual and secession an impossibility. He kept his options open — he would not fight if the nation could be held together by words. But on the morning of 12 April 1861, Confederate cannons opened fire on Fort Sumter in Charleston harbour; the garrison surrendered two days later, and the civil war that Lincoln had hoped to avert began. He responded at once, calling for 75,000 volunteers to put down the insurrection. In the weeks that followed four more slave states seceded — Virginia, Arkansas, North Carolina, and Tennessee — while four border states, including Maryland and Kentucky, stayed in the Union, a fragile distinction Lincoln could not afford to see collapse.",
+        "The first year of the war was a catalogue of defeat. In July 1861 Union troops were routed at the First Battle of Bull Run, and panic briefly gripped Washington. Lincoln appointed General George B. McClellan, a gifted organizer but a hopelessly cautious commander, who built a superb army and then refused to use it. His Peninsula Campaign of 1862 ground to a halt outside Richmond, and in August 1862 a second Union army was shattered at Bull Run. Only in September, at Antietam in Maryland, did the war's single bloodiest day — some 23,000 casualties — end in enough of a draw for Lincoln to call it a victory and, crucially, to act on the emancipation he had been preparing. He removed McClellan, replaced his War Secretary, and assumed the burden of a war he called, in a private letter to a friend, 'my duty and my very painful duty.'",
+        "The public weight of it was immense. Radical Republicans demanded harsher measures and immediate emancipation; antiwar 'Copperhead' Democrats attacked him as a tyrant who had suspended the writ of habeas corpus; newspaper editors caricatured him daily, and even his own cabinet was full of men who believed they could do his job better. He answered criticism with letter after letter, with patience, and with a strange composure that those closest to him found hard to explain. And in February 1862 he lost much more than a battle: his eleven-year-old son Willie died at the White House of a fever. Lincoln was never the same man again. He grieved openly, slipped into the deep melancholy that had shadowed him all his life, and found his only release in work, in stories, and, late at night, in reading Shakespeare aloud."
+      ],
+      "media": {
+        "src": "assets/images/stories/abraham-lincoln/antietam-1862.jpg",
+        "alt": "Abraham Lincoln seated in a tent with General George B. McClellan after the Battle of Antietam",
+        "caption": "Lincoln with General George B. McClellan in McClellan's tent after the Battle of Antietam, October 1862.",
+        "credit": "Alexander Gardner · Public domain, Library of Congress"
+      }
+    },
+    {
+      "heading": "Emancipation and the pivot",
+      "paragraphs": [
+        "Lincoln had written privately years before: 'If slavery is not wrong, nothing is wrong.' Now, as commander in chief, he had the power — and the necessity — to act. After the strategic draw at Antietam, on 22 September 1862 he issued a preliminary proclamation giving the rebelling states one hundred days to return to the Union or lose their enslaved people. When they did not, on 1 January 1863 he signed the final Emancipation Proclamation, declaring that all enslaved persons in the Confederate states 'shall be then, thenceforward, and forever free.' The proclamation was a war measure, carefully limited to territory in rebellion; it did not free the border states. But it changed everything about the war: from that day the conflict was morally and officially a war against slavery, and the British government, which had considered recognising the Confederacy, backed away forever. By the end of the war nearly 180,000 Black men would serve in the United States Army and Navy.",
+        "In July 1863 the war turned. For three days at Gettysburg, Pennsylvania — 1 to 3 July — the Union Army repulsed Robert E. Lee's invasion of the North in the war's bloodiest battle, with some 51,000 casualties on both sides. The next day Vicksburg fell to Ulysses S. Grant, splitting the Confederacy along the Mississippi River. In November Lincoln travelled to Gettysburg to dedicate a cemetery for the dead. He spoke for barely two minutes after a two-hour oration by the famous Edward Everett, and delivered 272 words that became the most famous speech in American history: 'Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.' He promised that 'government of the people, by the people, for the people, shall not perish from the earth.'",
+        "Lincoln had finally found his general. In March 1864 he gave Grant command of all Union armies, telling those who doubted the unkempt officer, 'I can't spare this man; he fights.' Grant's strategy was relentless — press the Confederacy on every front at once — and through the spring and summer of 1864 the casualties were staggering, so much so that Lincoln's own re-election seemed to hang on the next victory. While Grant hammered Lee in Virginia, William Tecumseh Sherman cut a path of destruction from Tennessee through Georgia. On 2 September 1864 Atlanta fell, and overnight the politics of the war changed."
+      ],
+      "media": {
+        "src": "assets/images/stories/abraham-lincoln/emancipation-proclamation.jpg",
+        "alt": "The signed Emancipation Proclamation document issued by Lincoln on 1 January 1863",
+        "caption": "The Emancipation Proclamation, issued 1 January 1863, declaring freedom for enslaved people in the rebelling states.",
+        "credit": "World Digital Library · Public domain"
+      }
+    },
+    {
+      "heading": "Malice toward none",
+      "paragraphs": [
+        "In the summer of 1864 Lincoln had doubted he could be re-elected, writing that he expected to be beaten. McClellan, running as the peace candidate, seemed positioned to end the war by conceding Southern independence. Then Atlanta fell, Northern morale surged, and in November Lincoln won re-election in a landslide — the first president to be re-elected since Andrew Jackson. He was sworn in on 4 March 1865 for a second term, and his second inaugural address, delivered while the war was in its final weeks, is now carved into the wall of the Lincoln Memorial. He called the war the nation's terrible judgment for the sin of slavery, and then closed with the words that have never left the American language: 'With malice toward none, with charity for all, with firmness in the right, as God gives us to see the right, let us strive on to finish the work we are in — to bind up the nation's wounds.'",
+        "Through that final winter of the war, Lincoln threw the weight of his office behind the Thirteenth Amendment, which would abolish slavery everywhere in the United States outright, not merely in the rebelling states. The Senate had approved it in April 1864, but the House had stalled. Lincoln lobbied wavering representatives personally, and on 31 January 1865 the House passed the amendment, 119 votes to 56, as the galleries erupted in celebration. He signed the joint resolution that evening, calling it 'a King's cure for all the evils' of the war. The amendment was ratified by the states in December 1865 — months after his death — writing the first legal end to slavery in America into the Constitution itself. A few weeks later, Richmond finally fell to Union forces, and Lee's army began its retreat toward Appomattox."
+      ]
+    },
+    {
+      "heading": "The cost of carrying a nation",
+      "paragraphs": [
+        "The man who saved the Union paid for it with his peace of mind. Lincoln had always fought what he called 'the hypo' — the deep melancholy that grips him, as one observer put it, 'as the waves roll upon the ocean' — and the war compounded it. He buried his son Eddie in 1850 and Willie in 1862; of his four sons only Robert survived him. Mary Todd Lincoln never recovered from Willie's death, and the marriage, already strained by temperament, was further darkened by her grief. Those close to him described a president who could sit for long stretches lost in thought, whose laughter could switch suddenly into silence, and who carried the deaths of hundreds of thousands of young men on his conscience as if they were his own sons.",
+        "What those around him noticed most, however, was the unbending character underneath the melancholy. He kept his fiercest rivals in his cabinet — Seward, Chase, Bates, Blair — and pulled from them their best work. He was famously magnanimous: when a Union military commission hanged Sioux men en masse in Minnesota in 1862, Lincoln personally reviewed the sentences and spared all but 38. When his generals blundered, he gave them room to learn at their own pace — Grant, of course, but also officers he believed in, defending them against editors who wanted their heads. He answered the public letter of the abolitionist editor Horace Greeley demanding emancipation not by rebuking him but with one of the clearest statements of his purpose: 'My paramount object in this struggle is to save the Union, and is not either to save or to destroy slavery.' He could hold a goal steady for years while reshaping the means to reach it."
+      ]
+    },
+    {
+      "heading": "Now he belongs to the ages",
+      "paragraphs": [
+        "On 9 April 1865, six days after the fall of Richmond, General Robert E. Lee surrendered his Army of Northern Virginia to Grant at Appomattox Court House. The four-year nightmare was over. Lincoln, who had visited the fallen capital the week before, urged generosity in victory: no trials for the surrendered soldiers, no vengeance, no hangings — the nation must be bound up, not punished. The White House Historical Association notes that he intended 'a peace with magnanimity.' On the evening of Good Friday, 14 April 1865, five days after the surrender, Lincoln went to Ford's Theatre in Washington to see the comedy 'Our American Cousin.' During the third act, the actor and Confederate sympathiser John Wilkes Booth entered the presidential box and shot him in the back of the head. He was carried to a boarding house across the street, where he died at 7:22 the next morning at the age of fifty-six. Secretary of War Edwin Stanton, standing over the body, pronounced the verdict of an age: 'Now he belongs to the ages.'",
+        "No American had ever been mourned like this. A funeral train carried his body more than 1,600 miles from Washington to Springfield, Illinois, through crowds that remembered standing silent by the tracks in nearly every town in the North. With his death, the White House historian writes, 'the possibility of peace with magnanimity died' — the Reconstruction that followed was far harsher than the merciful peace he had planned. Yet what he had accomplished stood. The Union was saved. Slavery was abolished by constitutional amendment, and the Fourteenth and Fifteenth Amendments that followed in 1868 and 1870 were built on the foundation he had laid. His face is carved into Mount Rushmore; the Lincoln Memorial, with its great seated statue and the two masterpieces of his rhetoric carved into its walls, has drawn millions of pilgrims. In nearly every survey of historians on both sides of American politics, Abraham Lincoln ranks first among American presidents.",
+        "Lincoln's life dismantles the excuses we invent. He had less than a year of formal schooling — and became the most eloquent writer ever to occupy the American presidency. He lost races for the legislature, for Congress, for the Senate, and failed in business, and never once surrendered his convictions. He buried two of his four sons and carried a war that killed more than six hundred thousand Americans — and did not lose his humour, his mercy, or his sense of what the Republic was for. His lesson is not that genius guarantees success; it is that character does. Honesty, patience, resilience, and the stubborn habit of learning at twenty, forty, and fifty — these were the instruments by which a boy from a Kentucky log cabin, with a borrowed book and a firelight to read by, held a broken nation together and bent the course of history toward freedom."
+      ],
+      "media": {
+        "src": "assets/images/stories/abraham-lincoln/lincoln-memorial-statue.jpg",
+        "alt": "The marble statue of Abraham Lincoln seated in the Lincoln Memorial in Washington, D.C.",
+        "caption": "The 170-ton seated statue of Lincoln in the Lincoln Memorial, Washington, D.C.",
+        "credit": "Frank Schulenburg · CC BY-SA 4.0"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "title": "Abraham Lincoln — The 16th President of the United States",
+      "publisher": "White House Historical Association",
+      "url": "https://www.whitehousehistory.org/bios/abraham-lincoln",
+      "publishedDate": "2022"
+    },
+    {
+      "title": "Abraham Lincoln — Biography, Childhood, Quotes, Death & Facts",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Abraham-Lincoln",
+      "publishedDate": "2024"
+    },
+    {
+      "title": "Abraham Lincoln — Sixteenth President of the United States",
+      "publisher": "American Battlefield Trust",
+      "url": "https://www.battlefields.org/learn/biographies/abraham-lincoln"
+    },
+    {
+      "title": "Portrait of Abraham Lincoln by Alexander Gardner — 8 November 1863",
+      "publisher": "Wikimedia Commons / Library of Congress",
+      "url": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+      "publishedDate": "1863"
+    },
+    {
+      "title": "Lincoln Heritage Scenic Highway — Lincoln's boyhood cabin at Knob Creek",
+      "publisher": "National Archives (NARA)",
+      "url": "https://commons.wikimedia.org/wiki/File:Lincoln_Heritage_Scenic_Highway_-_Lincoln%27s_Boyhood_Cabin_at_Knob_Creek_-_NARA_-_7720079.jpg"
+    },
+    {
+      "title": "Abraham Lincoln and George B. McClellan in the general's tent, October 1862",
+      "publisher": "Wikimedia Commons / Library of Congress",
+      "url": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_and_George_B_McClellan_in_the_general%27s_tent,_Oct_1862.jpg",
+      "publishedDate": "1862"
+    },
+    {
+      "title": "Emancipation Proclamation — signed document, 1 January 1863",
+      "publisher": "World Digital Library / Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Emancipation_Proclamation_WDL2714.jpg",
+      "publishedDate": "1863"
+    },
+    {
+      "title": "Statue of Abraham Lincoln, Lincoln Memorial — photograph by Frank Schulenburg (CC BY-SA 4.0)",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Statue_of_Abraham_Lincoln,_Lincoln_Memorial_(2024)-L1005511.jpg",
+      "publishedDate": "2024"
+    }
+  ],
+  "tags": [
+    "president",
+    "civil-war",
+    "emancipation",
+    "gettysburg-address",
+    "union"
+  ],
+  "verified": true
+}

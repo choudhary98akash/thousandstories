@@ -3,6 +3,13 @@ export interface Source {
   publisher: string;
   url: string;
   publishedDate?: string;
+  note?: string;
+}
+
+export interface StoryPerson {
+  name: string;
+  gender?: string;
+  bornLabel?: string;
 }
 
 export interface StoryImage {
@@ -22,7 +29,9 @@ export interface Story {
   id: number;
   title: string;
   slug: string;
+  slugKey?: string;
   personName: string;
+  person?: StoryPerson;
   shortDescription: string;
   country: string;
   state?: string;
@@ -41,6 +50,25 @@ export interface Story {
   impact: string;
   lesson: string;
   sources: Source[];
+  tags: string[];
+  verified: boolean;
+  verifiedAt?: string;
+}
+
+export interface StorySummary {
+  id: number;
+  title: string;
+  slug: string;
+  personName: string;
+  shortDescription: string;
+  country: string;
+  state?: string;
+  city?: string;
+  category: string[];
+  birthYear?: number;
+  deathYear?: number;
+  storyDate?: string;
+  heroImage?: string;
   tags: string[];
   verified: boolean;
 }

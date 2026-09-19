@@ -1,11 +1,11 @@
 import { Component, inject, signal } from "@angular/core";
 import { RouterLink } from "@angular/router";
 import { StoryService } from "../../core/services/story.service";
-import { Story } from "../../core/models/story.model";
+import { StorySummary } from "../../core/models/story.model";
 
 interface Collection {
   name: string;
-  stories: Story[];
+  stories: StorySummary[];
 }
 
 @Component({
@@ -22,7 +22,7 @@ export class Collections {
 
   constructor() {
     this.storyService.getStories().subscribe((stories) => {
-      const map = new Map<string, Story[]>();
+      const map = new Map<string, StorySummary[]>();
       for (const story of stories) {
         for (const cat of story.category) {
           if (!map.has(cat)) {

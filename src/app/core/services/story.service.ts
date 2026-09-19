@@ -1,32 +1,44 @@
 import { Injectable, inject } from "@angular/core";
 import { HttpClient } from "@angular/common/http";
-import { map, Observable, shareReplay } from "rxjs";
-import { Story } from "../models/story.model";
+import { map, Observable, of, shareReplay } from "rxjs";
+import { Story, StorySummary } from "../models/story.model";
+
+const SLUG_PATTERN = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 
 @Injectable({ providedIn: "root" })
 export class StoryService {
   private readonly http = inject(HttpClient);
 
-  private readonly allStories$ = this.http
-    .get<Story[]>("assets/data/stories.json")
+  private readonly index$ = this.http
+    .get<StorySummary[]>("assets/data/stories/index.json")
     .pipe(shareReplay(1));
 
-  getStories(): Observable<Story[]> {
-    return this.allStories$;
+  private readonly storyCache = new Map<string, Observable<Story | undefined>>();
+
+  getStories(): Observable<StorySummary[]> {
+    return this.index$;
   }
 
   getStoryBySlug(slug: string): Observable<Story | undefined> {
-    return this.allStories$.pipe(
-      map((stories) => stories.find((story) => story.slug === slug)),
-    );
+    if (!SLUG_PATTERN.test(slug)) {
+      return of(undefined);
+    }
+    let cached = this.storyCache.get(slug);
+    if (!cached) {
+      cached = this.http
+        .get<Story>(`assets/data/stories/${slug}.json`)
+        .pipe(shareReplay(1));
+      this.storyCache.set(slug, cached);
+    }
+    return cached;
   }
 
-  searchStories(query: string): Observable<Story[]> {
+  searchStories(query: string): Observable<StorySummary[]> {
     const q = query.trim().toLowerCase();
     if (!q) {
-      return this.allStories$;
+      return this.index$;
     }
-    return this.allStories$.pipe(
+    return this.index$.pipe(
       map((stories) =>
         stories.filter(
           (story) =>

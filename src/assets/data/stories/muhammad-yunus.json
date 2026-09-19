@@ -1,0 +1,231 @@
+{
+  "id": 8,
+  "slug": "muhammad-yunus",
+  "slugKey": "stories/muhammad-yunus",
+  "title": "The Man Who Lent $27",
+  "personName": "Muhammad Yunus",
+  "person": {
+    "name": "Muhammad Yunus",
+    "bornLabel": "1940–"
+  },
+  "shortDescription": "An economics professor who lent $27 of his own money to forty-two villagers — and built that sum into Grameen Bank, the world's first bank for the poor, winning the Nobel Peace Prize and, in 2024, the leadership of his own nation.",
+  "country": "Bangladesh",
+  "state": "Chittagong",
+  "city": "Chittagong",
+  "category": [
+    "Economics",
+    "Entrepreneurship",
+    "Leadership",
+    "Social Change"
+  ],
+  "birthYear": 1940,
+  "storyDate": "2006–2024",
+  "heroImage": "assets/images/stories/muhammad-yunus/yunus-hero-2013.jpg",
+  "introduction": "On 28 June 1940, in the village of Bathua outside Chittagong, a goldsmith's third son was born into a household of fourteen children. His father made jewellery; the son would make something far stranger — a bank. Muhammad Yunus grew up to be an economics professor who watched his own country starve in the famine of 1974 and concluded that everything he taught was useless to a dying man. In 1976 he lent $27 from his own pocket to forty-two villagers in the hamlet of Jobra, and they paid every cent back. That experiment became Grameen Bank, the 'Village Bank', which has lifted tens of millions of the world's poorest people — most of them women — out of poverty and earned its founder the Nobel Peace Prize in 2006. At eighty-four, the same man was summoned from Paris to lead his own nation.",
+  "chapters": [
+    {
+      "heading": "The goldsmith's son who studied money",
+      "paragraphs": [
+        "Muhammad Yunus was born in Bathua, a village in the Chittagong district of then-British-ruled Bengal, into a Muslim family that was comfortable but never rich. His father, Dula Mia, was a goldsmith, a jeweller who worked in the town while the family kept a hold on the countryside. Yunus was the third of the fourteen children his mother Sofia bore, five of whom died in infancy — an early, intimate lesson in the fragility of poor families' lives. In the sliding politics of the dying Raj and the new state of Pakistan, the family survived on the discipline of the workshop and the abacus, and money — how it is made, hoarded, lent, and lost — was the family table talk.",
+        "School in Chittagong revealed an unusual boy. Yunus was quick with numbers and stubborn with words, and at seventeen he entered Dhaka University to study economics. He graduated, did his master's work in the same department, and in 1965 won a Fulbright scholarship to Vanderbilt University in Nashville, Tennessee. It was a leap the goldsmith's son could hardly have imagined in Bathua: here was an American campus with its lecture halls and its living laboratory of wealth, poverty, and credit. At Vanderbilt he earned his PhD in economics in 1969 and stayed on the faculty as an assistant professor at Middle Tennessee State University, teaching young Americans the very theories of development that would later seem so hollow to him at home.",
+        "Eastern Pakistan, meanwhile, was sliding toward catastrophe. In March 1971, when the Pakistani army launched its brutal military campaign against the region that was declaring itself Bangladesh, Yunus was in the United States. He did what exile intellectuals do — and something more. He lobbied Congress in Washington, ran the Bangladesh Information Center in the capital, and published the Bangladesh Newsletter to keep the world's conscience on the killing pun in his homeland. When Bangladesh finally won its independence that December, he could have stayed in a comfortable American professorship. Instead, in 1972, he went home."
+      ]
+    },
+    {
+      "heading": "A famine that made the textbooks a lie",
+      "paragraphs": [
+        "Yunus returned to a country in ruins and to a job: professor and head of the economics department at Chittagong University. He threw himself into the work of reconstruction, teaching development economics to a generation of young Bangladeshis. The theories were elegant — incentives, capital formation, the invisible hand — and Yunus believed in them with the whole-heartedness of a scholar who has just spent five years among American textbooks.",
+        "Then came the famine of 1974. A devastating flood, a ruined rice harvest, and a government unable to feed its own people brought starvation to the eastern delta, and the death toll climbed into the hundreds of thousands. Men walked from village to village with nothing to sell but the land of their ancestors; mothers fed children dust; the corpses were buried in ditches. And Yunus, the young professor, stood at the front of a classroom in Chittagong explaining supply curves while, three miles away, people were dying for lack of a handful of rice.",
+        "The disconnect broke him, and out of the break came the idea that would define his life. 'Nothing in the textbooks... nothing I taught was responding to real life,' he later wrote. The theories were not wrong; they were useless to the poor. Everything in economics seemed designed for people who already had money to borrow, land to mortgage, and documents to sign. The truly poor — the woman with a bamboo stool-making kit, the man who pulled a rickshaw he didn't own — were invisible to the entire financial system, because to lend them a few dollars seemed like a loss waiting to happen. Yunus decided to stop theorizing and start doing: he would walk into the villages and find out how many dollars the poor actually needed to live."
+      ]
+    },
+    {
+      "heading": "Twenty-seven dollars and forty-two people",
+      "paragraphs": [
+        "In 1976 Yunus began choosing a village each week around the campus at Chittagong and walking its lanes with his students, notebooks out. Jobra, a hamlet an hour's walk from the university, gave up its secrets quickly. The villagers' crushing poverty was not, he discovered, a lack of ability. It was a lack of small seed money at reasonable rates. A woman who made bamboo stools, Sufiya Begum, needed twenty-five taka — about a dollar — to buy raw bamboo; to raise it she was forced to borrow from a trader, who then demanded that she sell him the finished stools at a price so low that she was left with about two paise of profit a day. She worked all day, every day, to dig herself deeper into debt.",
+        "Yunus surveyed the village. The list was short and devastating: 42 men and women, practising rickshaw pullers, weavers, stool makers, vendors, tinkers — people who needed money desperately and could repay it reliably if only the rate did not devour them. The total they needed was 856 taka. About $27. For this, they were being crushed by usurious traders.",
+        "Yunus lent them the $27 out of his own pocket. His first, scandalous act of banking had no paperwork, no collateral, no lawyers, no guarantors — just his own name and the villagers' word. They paid it all back, to the last paisa, and he found himself stunned: 'If you can lend money to the poor on reasonable terms, they pay it back.' The bankers he then approached to scale it up laughed at him. So he did the only thing left — he stood as personal guarantor and signed for a loan from a government bank himself, then walked back to Jobra and started making tiny loans to villagers through a makeshift office. Grameen Bank existed in his head before it existed in law: a bank that reverses the whole logic of credit."
+      ],
+      "media": {
+        "src": "assets/images/stories/muhammad-yunus/grameen-bank-building.jpg",
+        "alt": "The office building of Grameen Bank in Dhaka, Bangladesh",
+        "caption": "The head office of Grameen Bank in Mirpur, Dhaka — a bank that was born as a professor's doorway experiment in the village of Jobra.",
+        "credit": "Aashaa · CC BY-SA 3.0"
+      }
+    },
+    {
+      "heading": "From a professor's pledge to a village bank",
+      "paragraphs": [
+        "The experiment could have stayed an eccentric charity. It became a movement because Yunus insisted it work as banking. He founded the Grameen Bank Project in 1976 as action research with Chittagong University, and in 1983 the government allowed it to become an independent bank — Grameen means 'village' in Bangla, so the name meant literally Village Bank. Its rules were heresy to conventional finance: no collateral, no paperwork, no lawyers, and lending by self-organised groups of five women who acted as one another's guarantors and disciplinarians. Loan repayment was coached through weekly centre meetings on the village doorstep, under a veranda roof, where bank and borrowers met face to face.",
+        "The results astonished the financial world. From the start, women dominated — at first almost an accident, because Grameen's first borrowers proved to be more reliable than men. Today more than ninety-seven per cent of Grameen Bank's borrowers are women, and studies repeatedly found that money placed in a woman's hands improved children's nutrition, housing, and schooling in ways that the same sum in a man's hands never did. Borrowers swore the famous Sixteen Decisions, a social contract that included keeping families free from dowry, drinking clean water, and educating daughters. Repayment rates stayed above ninety-eight per cent for decades — better than most commercial banks on earth.",
+        "The model proved contagious. Imitation is the sincerest form of flattery, and microcredit — the word the world borrowed from Jobra — spread across a hundred countries. By the time the Nobel Committee took notice, Grameen Bank had disbursed billions in collateral-free loans, was serving more than seven million borrowers in more than eighty thousand of Bangladesh's villages, and had offices in dozens of nations. None of this, Yunus insisted, was charity. It was business understood anew: a bank should be an instrument for ending poverty, not a machine for profiting from it."
+      ]
+    },
+    {
+      "heading": "A peace prize for the poorest",
+      "paragraphs": [
+        "On 13 October 2006, the Norwegian Nobel Committee shocked the world — and delighted it — by awarding the Nobel Peace Prize jointly to Muhammad Yunus and Grameen Bank, 'for their efforts to create economic and social development from below'. It was the first time the peace prize had gone to a banker, and the Committee's members were blunt: 'Lasting peace cannot be achieved unless large population groups find ways in which to break out of poverty.' Anti-poverty work was not merely aid; done right, it was peace-building, and Yunus had proved it with a twenty-dollar experiment.",
+        "Standing in Oslo on 10 December 2006, Yunus gave the speech of a man who had waited fifty years to say it: 'Poverty is not created by the poor. It is created by the system we have built.' He called for poverty to be pushed into museums beside the relics of slavery, and told a story of two people — a borrowing woman in Jobra and a lending banker in a skyscraper — separated by a chasm of assumptions that one man with $27 had proven bridgeable. The prize made him the most famous Bangladeshi on earth, and honours rained down on him: America's Presidential Medal of Freedom from President Obama in August 2009, in a ceremony alongside Stephen Hawking and Desmond Tutu; the Congressional Gold Medal in 2013; and a shelf of books — an autobiography, 'Banker to the Poor'; manifestos, 'Creating a World Without Poverty' and 'A World of Three Zeros' — that turned a banker into a prophet.",
+        "The Nobel also changed how the world saw banking itself. Microfinance became a global industry, copied from Bolivia to Indonesia; Yunus lectured at Davos, advised the United Nations, and floated his dream of 'social business' — enterprises run, like Grameen's joint ventures with Danone and Telenor, to solve problems rather than to maximise profit. He had reached the top of the world. Then the country he had saved turned on him."
+      ],
+      "media": {
+        "src": "assets/images/stories/muhammad-yunus/yunus-nobel-2006.jpg",
+        "alt": "Norwegians crowd the streets of Oslo to greet Nobel Peace Prize laureate Muhammad Yunus, December 2006",
+        "caption": "Oslo turns out to greet the winner — the Nobel Peace Prize meant the world had seen what one man and one village could do.",
+        "credit": "Don Ramey Logan · CC BY-SA 3.0"
+      }
+    },
+    {
+      "heading": "The banker they tried to break",
+      "paragraphs": [
+        "Success breeds envy, and in Bangladesh, the enmity was political. In 2007, during a period of military-backed emergency rule, Yunus publicly contemplated forming a political party to challenge the entrenched old guard. He withdrew the idea within weeks — but he had made a powerful enemy in Sheikh Hasina, the leader who returned to power in 2009 and had not forgotten. 'He is a bloodsucker,' Hasina said of the man the Nobel committee had celebrated, accusing Grameen's lending of sucking the lifeblood from the poor.",
+        "The state machine set to work. In 2011 the central bank fired Yunus as managing director of Grameen Bank for violating retirement-age rules — a law, he argued, that did not apply to a founder the borrowers themselves had re-elected. Courts backed the government; the borrowers' rallies were brushed aside. Then came the cases: more than a hundred of them, from labour-law complaints to allegations that he had accepted his Nobel prize money without government permission. In October 2023, more than 170 world figures — including Barack Obama and former UN chief Ban Ki-moon — signed an open letter urging Hasina to end the campaign of harassment. In prison, Yunus said, he could still serve his people; outside it, he could serve them better.",
+        "On 1 January 2024, a labour court in Dhaka convicted Yunus and three colleagues in a Grameen Telecom case, sentencing him to six months' simple imprisonment for failing to regularise workers and create a welfare fund — a ruling his lawyers called invented and human-rights groups called politically motivated. Yunus was granted bail immediately, but the verdict hung over the eighty-three-year-old like a threat. He told reporters that prison could not take his Nobel from him: 'We are being punished for a crime we did not commit.' Few doubted that Bangladesh's government hoped the law would do what its politics could not."
+      ],
+      "media": {
+        "src": "assets/images/stories/muhammad-yunus/yunus-congressional-gold-medal.jpg",
+        "alt": "The Congressional Gold Medal awarded to Muhammad Yunus by the United States Congress in 2013",
+        "caption": "Even as his own government prosecuted him, the world kept conferring its highest honours — this medal was struck by the U.S. Mint in 2013.",
+        "credit": "United States Mint, Wikimedia Commons · Public domain"
+      }
+    },
+    {
+      "heading": "The call from the streets at eighty-four",
+      "paragraphs": [
+        "By the summer of 2024, Yunus was a man under siege, fighting lawyers' letters between trips to hospital in Paris. His country was on the edge. In July, students marching against a government job-quota system were fired upon; the protests swelled into a nationwide uprising against Hasina's fifteen years of increasingly autocratic rule. More than three hundred people, many of them students, were killed in the streets before the army finally made its choice. On 5 August 2024, Sheikh Hasina fled Bangladesh by helicopter to India. The crowd that stormed her residence found her teacups still hot.",
+        "The country had no head of state, and the students who had made the revolution had a single name in mind: Muhammad Yunus. The Nobel laureate, still recovering in Paris, was telephoned by protest leaders and told he had been chosen to lead the interim government. On 6 August the president appointed him Chief Adviser — the equivalent of prime minister. On 7 August, a day before he flew home, a court acquitted him of the labour-law conviction. On 8 August 2024, at the presidential palace in Dhaka, with the nation watching, the eighty-four-year-old economist — the man his government had spent thirteen years trying to jail — was sworn in as leader of Bangladesh, flanked by the young student coordinators who had demanded him. The oath began with a minute's silence for the dead. He called it Bangladesh's 'second independence'.",
+        "He governed calmly through an eighteen-month transition, restoring order and preparing free elections: a national vote eventually held on 12 February 2026, which he cast his own ballot in and called 'the birthday of a new Bangladesh'. The result was a landslide for the opposition Bangladesh Nationalist Party. On 17 February 2026, Yunus handed power to the new Prime Minister at the parliament in Dhaka and walked out of the office he never asked for — an economist-turned-banker-turned-liberator who had finished the job and left."
+      ],
+      "media": {
+        "src": "assets/images/stories/muhammad-yunus/yunus-interim-2024.jpg",
+        "alt": "Muhammad Yunus, Chief Adviser of Bangladesh's interim government, at the National Martyrs' Memorial in 2024",
+        "caption": "Days after taking office in 2024, Yunus honoured the martyrs of the uprising at the National Martyrs' Memorial — a banker now the guardian of a nation's second birth.",
+        "credit": "Press Information Department, Government of Bangladesh, Wikimedia Commons · Public domain"
+      }
+    },
+    {
+      "heading": "A world of three zeros",
+      "paragraphs": [
+        "The legacy Muhammad Yunus leaves behind is measured in leagues, not words. Grameen Bank today serves more than ten million borrowers in nearly all of Bangladesh's 82,000 villages, having disbursed more than $40 billion in collateral-free loans, with recovery rates commercial banks envy. Its photocopies are scattered across continents — microcredit has been replicated in more than a hundred countries, carrying the Jobra experiment to Latin American shanty-towns, Indian villages, African slums, and among the poor enclaves of New York itself. The idea that the poor are creditworthy, which was close to absurd in 1976, is now the foundation of a global industry.",
+        "But his larger argument is the one he kept making from Oslo to Dhaka: that poverty is neither inevitable nor natural. It is a failure of design — a system built so that the gains of growth flow upward, and credit — the ladder out of the mud — is denied to precisely those who need it most. His 'social business' ventures — Grameen Danone's nutrition yoghurt for children, Grameen Phone, the solar-panel cooperative Grameen Shakti — are his proof that enterprises can be engineered to solve problems instead of to enrich owners. His book of dreams, 'A World of Three Zeros', imagines an economy with zero poverty, zero unemployment, and zero net carbon emissions, built by unleashing the enterprise of everyone, from the stool-maker's daughter to the banker's son.",
+        "In the end the $27 was never about the money, and the banker was never really a banker. Yunus was a man who saw that the poor do not need our pity — they need our institutions to stop excluding them. He spent half his life arguing with bankers until he became one, invented an industry to prove a village's point, and when his nation finally cried out for a leader it trusted, the eighty-four-year-old in the hospital bed was the first name on every student's lips. 'Poverty is not created by the poor,' he said in Oslo, nineteen years before his own people proved him right. 'It is created by the system we have built.' He spent a lifetime taking that system apart, and in the village of Jobra, they still tell the story of the day an economics professor walked into their lanes with $27 and changed the world."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Muhammad Yunus — Biographical",
+      "publisher": "The Nobel Prize (nobelprize.org)",
+      "url": "https://www.nobelprize.org/prizes/peace/2006/yunus/biographical",
+      "publishedDate": "2006"
+    },
+    {
+      "title": "The Nobel Peace Prize 2006 — press release",
+      "publisher": "The Nobel Prize (nobelprize.org)",
+      "url": "https://www.nobelprize.org/prizes/peace/2006/summary",
+      "publishedDate": "2006"
+    },
+    {
+      "title": "Muhammad Yunus — Biography",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Muhammad-Yunus",
+      "publishedDate": "2026"
+    },
+    {
+      "title": "Grameen Bank: Introduction — the history of the bank of the poor",
+      "publisher": "Grameen Bank (official)",
+      "url": "https://grameenbank.org.bd/about/introduction",
+      "publishedDate": "2024"
+    },
+    {
+      "title": "Grameen Bank Now — borrowers, villages, and disbursement figures",
+      "publisher": "Grameen Bank (official)",
+      "url": "https://grameenbank.org.bd/about/gb-now",
+      "publishedDate": "2026"
+    },
+    {
+      "title": "Banker to the Poor: Micro-Lending and the Battle Against World Poverty (autobiography)",
+      "publisher": "PublicAffairs, 1999",
+      "url": "https://en.wikipedia.org/wiki/Banker_to_the_Poor"
+    },
+    {
+      "title": "Remarks by the President at the Medal of Freedom ceremony (12 August 2009)",
+      "publisher": "The White House (obamawhitehouse.archives.gov)",
+      "url": "https://obamawhitehouse.archives.gov/the-press-office/remarks-president-medal-freedom-ceremony",
+      "publishedDate": "2009"
+    },
+    {
+      "title": "Nobel laureate Yunus convicted in Bangladesh labour law case",
+      "publisher": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/nobel-laureate-muhammad-yunus-convicted-bangladesh-labour-law-case-2024-01-01",
+      "publishedDate": "2024"
+    },
+    {
+      "title": "Bangladesh court overturns Yunus' conviction in labour law case",
+      "publisher": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/bangladesh-court-overturns-yunus-conviction-labour-law-case-lawyer-says-2024-08-07",
+      "publishedDate": "2024"
+    },
+    {
+      "title": "Yunus sworn in as interim Bangladesh leader",
+      "publisher": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyg7we8xvno",
+      "publishedDate": "2024"
+    },
+    {
+      "title": "Nobel laureate Yunus takes the helm as Bangladesh's interim leader",
+      "publisher": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/world/nobel-laureate-yunus-arrives-in-bangladesh-as-interim-leader",
+      "publishedDate": "2024"
+    },
+    {
+      "title": "Son of Bangladesh's former rulers poised for power as BNP sweeps poll",
+      "publisher": "Reuters",
+      "url": "https://www.reuters.com/world/china/bangladeshs-bnp-wins-two-thirds-majority-landmark-election-2026-02-13",
+      "publishedDate": "2026"
+    },
+    {
+      "title": "Premiership of Tarique Rahman — handover of power from the interim government",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Premiership_of_Tarique_Rahman",
+      "publishedDate": "2026"
+    },
+    {
+      "title": "Muhammad Yunus — 2013 portrait, University of Salford Press Office (CC BY 2.0)",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_-_2013_(portrait).jpg",
+      "publishedDate": "2013"
+    },
+    {
+      "title": "Norwegians greet Nobel Peace Prize winner Muhammad Yunus 2006 — Don Ramey Logan (CC BY-SA 3.0)",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Norwegians_gather_to_greet_Nobel_Peace_Prize_winner_Muhammad_Yunus_in_2006_photo_Don_Ramey_Logan.jpg",
+      "publishedDate": "2006"
+    },
+    {
+      "title": "Muhammad Yunus Congressional Gold Medal — U.S. Mint (Public domain)",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_Congressional_Gold_Medal.jpg"
+    },
+    {
+      "title": "Muhammad Yunus at the National Martyrs' Memorial, 9 August 2024 — Press Information Department (Public domain)",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_At_Jatiya_Smriti_Souodho_Savar_2024-08-09_(PID-0006967).jpg",
+      "publishedDate": "2024"
+    },
+    {
+      "title": "Grameen Bank building, Dhaka — Aashaa (CC BY-SA 3.0)",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Grameen_bank_building.jpg"
+    }
+  ],
+  "tags": [
+    "microfinance",
+    "nobel-peace-prize",
+    "poverty-alleviation",
+    "grameen-bank",
+    "banking",
+    "bangladesh"
+  ],
+  "verified": true
+}

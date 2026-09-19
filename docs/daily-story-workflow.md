@@ -4,6 +4,11 @@ One real story per day, added to the platform. Each story is a long-form,
 archive-quality narrative. The reader must feel they have sat down with the
 person's whole life.
 
+Data layout (ADR-004): every story lives in its own
+`src/assets/data/stories/<slug>.json`; `stories/index.json` holds the card
+summaries the app lists everywhere. After writing a story file, regenerate the
+index with `node scripts/build-story-index.mjs`.
+
 ## Format requirements (mandatory)
 
 - **Intro — ~100 words.** A 100-word opening that hooks the reader and sets the
@@ -63,7 +68,11 @@ EXTRA (optional): <anything specifically worth covering>
 1. Read the hook and confirm the person.
 2. Research: dates, places, family, education, hardships, works, legacy — web
    search + archives. Never invent.
-3. Write the story into `src/assets/data/stories.json` with the `Story` schema:
+3. Write the story into `src/assets/data/stories/<slug>.json` (one file per
+   story — mirror of `src/assets/images/stories/<slug>/`) with the
+   `Story` schema (ADR-004). Include the canonical fields where available:
+   `slugKey: "stories/<slug>"`, `person: { name, bornLabel }`, `verifiedAt`: 
+   - `id`: next free id (current max + 1)
    - `shortDescription`: short card teaser (1–2 lines)
    - `introduction`: ~100-word hook that also sets time, place, person, stakes
    - `chapters: [{ heading, paragraphs[], media? }]` with the story's own flow;
@@ -71,6 +80,9 @@ EXTRA (optional): <anything specifically worth covering>
    - `country/state/city`, `category` + `tags` (themes)
    - `heroImage` (portrait) + `chapter.media` images with captions and credits
    - `sources[]`: verifiable references incl. image credits
+   3.5. Regenerate the list index (keeps the app's always-loaded payload in
+   sync): `node scripts/build-story-index.mjs` — it validates slug/filename,
+   required fields and source count, then rewrites `stories/index.json`.
    3.5. Familiarity check (reader-first): scan for names/places/terms introduced
    without context; confirm coordinates (time/place/who/why) are set in the
    opening and each chapter re-anchors the reader.
@@ -79,7 +91,7 @@ EXTRA (optional): <anything specifically worth covering>
    - download to `src/assets/images/stories/<slug>/` (one folder per story)
    - record author + license per image in `sources[]`
 5. Word-count check: total 2,500–3,500 (intro ~100). Adjust until in range.
-6. Verify: `ng build --configuration production` passes (lint target not
+6. Verify: `ng build --configuration production` passes; `node scripts/build-story-index.mjs` clean; sitemap + prerender scripts still succeed (lint target not
    configured yet).
 
 ## Hard rules

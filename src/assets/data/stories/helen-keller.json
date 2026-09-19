@@ -1,5 +1,5 @@
 {
-  "id": 10,
+  "id": 9,
   "slug": "helen-keller",
   "slugKey": "stories/helen-keller",
   "title": "The Deaf-Blind Girl Who Learned the World Has No Walls",
@@ -60,8 +60,7 @@
       "heading": "The Akita dog who became her own story",
       "paragraphs": [
         "In 1937, when Helen Keller visited Japan, she asked to meet Hachiko, the famous akita who had waited, dead at the door of Shibuya station in 1935, for his master for nine years. Japanese schoolchildren, moved by her warmth and by her work, gave her a gift: an Akita puppy named Kenzan-Go. Keller named him after her host city Kenzan? — and took him home, telling reporters, 'ochinated in the Akita.' She was the first American to own an Akita, and the breed's journey westward begins, in every history, with her. On returning to the United States with Kenzan-Go, she wrote, 'He is my dog and longs to be with me.' The photograph taken with her dog — Helen Keller in a long dark coat, her hand on the great cream-and-brown dog's head — became one of the most-reproduced images of her final years, and the Akita breed's clubs now number Keller among their founding patrons. Her story and the loyal dog's crossed, each ke kanji her own epilogue."
-      ],
-      "image": "akita-kenzan-go.jpg"
+      ]
     },
     {
       "heading": "A life that outran the walls",
@@ -74,20 +73,6 @@
       "paragraphs": [
         "What Helen Keller proved, in the end, was not that she was extraordinary but that the human mind was roomier than anyone had believed. Her tombstone at the National Cathedral in Washington carries the simple words she chose for herself, and her birthplace Ivy Green in Alabama operates today as a museum and an education center. The American Civil Liberties Union she co-founded remains a pillar of civil liberties law. Her papers, her letters, and her medals rest in the Library of Congress and at Perkins, where a blind and deaf girl once learned that 'w-a-t-e-r' meant something real. She gave the deaf and blind of her era their first argument that they were citizens, that they could own a profession, a language, and a life. 'Alone we can do so little,' she wrote; 'together we can do so much.' She opened a world that had no room for her by insisting, through eighty-seven years, that its walls were made of other people's fear — and that fear she spent her whole life teaching the world to dismantle."
       ]
-    }
-  ],
-  "media": [
-    {
-      "src": "assets/images/stories/helen-keller/hero.jpg",
-      "alt": "Helen Keller, head-and-shoulders portrait, facing the camera, circa 1920",
-      "caption": "Helen Keller in 1920, photographed by the Los Angeles Times. Reproduced by the Library of Congress, public domain.",
-      "credit": "LoC · Public domain (hist. env. restored)"
-    },
-    {
-      "src": "assets/images/stories/helen-keller/akita-kenzan-go.jpg",
-      "alt": "Helen Keller with her Akita dog Kenzan-Go",
-      "caption": "Helen Keller with her Akita Kenzan-Go, the dog gifted to her by Japanese schoolchildren in 1937.",
-      "credit": "Public domain via Wikimedia Commons"
     }
   ],
   "sources": [
@@ -145,5 +130,19 @@
     "american-civil-liberties-union"
   ],
   "verified": true,
-  "verifiedAt": "2026-09-14"
+  "verifiedAt": "2026-09-14",
+  "media": [
+    {
+      "src": "assets/images/stories/helen-keller/hero.jpg",
+      "alt": "Helen Keller, head-and-shoulders portrait, facing the camera, circa 1920",
+      "caption": "Helen Keller in 1920, photographed by the Los Angeles Times. Reproduced by the Library of Congress, public domain.",
+      "credit": "LoC · Public domain (hist. env. restored)"
+    },
+    {
+      "src": "assets/images/stories/helen-keller/akita-kenzan-go.jpg",
+      "alt": "Helen Keller with her Akita dog Kenzan-Go",
+      "caption": "Helen Keller with her Akita Kenzan-Go, the dog gifted to her by Japanese schoolchildren in 1937.",
+      "credit": "Public domain via Wikimedia Commons"
+    }
+  ]
 }
