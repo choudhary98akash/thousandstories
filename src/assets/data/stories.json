@@ -1798,5 +1798,399 @@
     ],
     "verified": true,
     "verifiedAt": "2026-09-15"
+  },
+  {
+    "id": 11,
+    "slug": "temple-grandin",
+    "slugKey": "stories/temple-grandin",
+    "title": "The Woman Who Thought in Pictures",
+    "personName": "Temple Grandin",
+    "person": {
+      "name": "Temple Grandin",
+      "gender": "female",
+      "bornLabel": "1947–"
+    },
+    "shortDescription": "Born in Boston in 1947, diagnosed with brain damage at two because she was autistic and could not speak, and almost sent to an institution by doctors who said she would never learn, Temple Grandin became the most famous autistic person in the world — designing the humane cattle-handling systems used for roughly half of the beef cattle in the United States, and redefining how the world sees a differently wired mind.",
+    "country": "United States",
+    "state": "Massachusetts",
+    "city": "Boston",
+    "category": [
+      "Science",
+      "Disability & Achievement",
+      "Education",
+      "Social Change"
+    ],
+    "birthYear": 1947,
+    "storyDate": "2010",
+    "heroImage": "assets/images/stories/temple-grandin/portrait.jpg",
+    "introduction": "On 29 August 1947, in Boston, Massachusetts, a baby girl was born to Richard Grandin and Eustacia Cutler. By her second year she had stopped reaching out, stopped responding to her name, and hardly spoken a word. Doctors told her mother the child had brain damage and should be placed in an institution — but the mother refused. Today that girl, Temple Grandin, is a professor of animal science at Colorado State University, the designer of humane livestock handling systems used for about half of the beef cattle in the United States, and quite possibly the most recognisable autistic person who has ever lived. She does not see the world the way most people do. She sees it in pictures.",
+    "chapters": [
+      {
+        "heading": "A child nobody knew how to reach",
+        "paragraphs": [
+          "Temple Grandin was born in Boston on 29 August 1947, the eldest of four children. Her father, Richard Grandin, was a real-estate agent, and her mother, Eustacia Cutler, was a singer and a writer who had attended college — unusual for a woman of her generation. To all appearances she was a healthy baby, but within months her parents began to notice that something was different. She rarely wanted to be held. When her mother tried to cuddle her, she would arch her back and stiffen her whole body as if the touch hurt. She did not reach for her mother's face the way her younger brother did, and noises that other people barely noticed — a vacuum cleaner, a doorbell, a hand clap — made her scream as if in physical pain. By the time she was two, she had stopped saying even the handful of words she had learned, and she had begun to spend hours doing the same motion over and over, rocking backwards and forwards, or spinning a coin, watching the light flicker across it. She wanted, her mother later wrote, 'to be left alone, to see, to hear, to be separate.'",
+          "In 1949 a neurologist examined the two-year-old and delivered a verdict that would shape the next decades of her life. He wrote that the child had suffered brain damage diminishing her fine and gross motor skills, and he advised that she be placed in an institution, the standard advice of the time for children like her. It was the 1950s, and 'autism' was still a word so fresh that most doctors had never used it; children who behaved this way were usually written off as mentally defective or, worse, blamed on cold, unloving mothers. Temple's mother refused to accept the verdict. As a teenager during the Depression she had spent a summer working at a hospital for the disabled and had been so deeply moved that the experience stayed with her all her life; she believed her daughter could learn. She kept her at home, hired a series of governesses and speech therapists, and put the child into a nursery school where she was required, patiently, to sound out words until speech slowly came. At age four, Temple Grandin finally began to talk.",
+          "Yet the lesson of those early years never really left her. She would later describe her childhood self as a child 'in a world of screams, smells, and disconnected sounds,' someone whose panic was so constant that a handshake felt like a violent assault. A hug, which should have been comfort, was experienced as overwhelming pressure. And the adults around her — kind, baffled, sometimes cruel — could not see that the little girl who would not be touched was, in her own way, trying to tell them something: that her senses were wired too loudly, and that the world needed to move more slowly for her."
+        ],
+        "media": {
+          "src": "assets/images/stories/temple-grandin/portrait.jpg",
+          "alt": "Temple Grandin speaking at the TED conference, 2010",
+          "caption": "Temple Grandin at TED 2010, where she told the world: 'Different, not less.'",
+          "credit": "Steve Jurvetson · CC BY 2.0"
+        }
+      },
+      {
+        "heading": "The ranch, the squeeze chute, and the hug machine",
+        "paragraphs": [
+          "When Temple was fifteen, her mother sent her for the summer to the cattle ranch of an aunt in Arizona — partly so the girl could experience something new, partly so her parents could have a break from the endless negotiation of a child who could not cope with ordinary life. On the ranch, Temple watched cowhands move animals through the chutes used for vaccinations. The cattle would be driven into a narrow metal contraption called a squeeze chute, its tall sides closing to hold the animal firmly while it was treated. Most of the cattle struggled and bellowed. But some animals, she noticed, actually grew calm in the squeeze chute — their bodies went still and released, as though the firm pressure itself was soothing. The idea settled into her picture-thinking mind and stayed.",
+          "A year later, back at the small boarding school in New Hampshire where her parents had placed her, Temple Grandin built her own version of the squeeze chute. With the encouragement of a science teacher she constructed a padded wooden device, shaped like a giant letter V lying flat, that a person could climb into and hug tightly against their own body while working a lever that let them control the pressure themselves. She called it her squeeze machine, and later her hug machine. When she lay inside it with the padded boards closing gently along both sides of her trunk, she felt, for the first time, what ordinary people described as comfort: a deep, even pressure that her overloading nervous system seemed to translate into calm. The other girls at school called it a weird contraption (German: seltsame Apparatur). The doctors she showed it to were horrified, convinced it was anything but a therapeutic tool. But Temple understood something they did not: that for a nervous system wired too loudly, firm, even pressure could be as quieting as a mother's held embrace — and she had built it for herself, on her own terms, without being touched by anyone.",
+          "The squeeze machine would later become famous beyond Temple's own story)Skip because researchers found that calves placed against pressure relaxed, and because Temple, arguing that her own machine worked for the same reason, would eventually build a bond between her autism and her understanding of cattle. But in 1964 it had a simpler, more immediate purpose: it let a frightened, intensely sensory teenager regulate her own panic, and for the first time gave her a sense that she could shape her own world instead of being helpless inside it."
+        ],
+        "media": {
+          "src": "assets/images/stories/temple-grandin/hug-box.jpg",
+          "alt": "Temple Grandin's squeeze machine, also known as her hug machine",
+          "caption": "The 'hug box' — Temple Grandin's squeeze machine, built to give herself the deep, even pressure that calmed her loaded senses.",
+          "credit": "August Meriwether · CC0"
+        }
+      },
+      {
+        "heading": "Learning to think in pictures",
+        "paragraphs": [
+          "School had been a gauntlet. At programming classes her fellow students teased her relentlessly, calling her 'tape recorder' for the way she repeated things verbatim. In high school, classmates nicknamed her 'the weird girl.' Yet she found, again and again, that her unusual mind had unexpected gifts. She discovered early that she thought in pictures — not in words, but in vivid, scrolling images, like a film running behind her eyes. When someone said 'cow,' she did not think of the word; she saw, in instantaneous detail, a catalogue of cows she had actually seen. Her memory for visual detail was almost photographic scrape: she could recall the exact shape of a building she had seen once, years before, the way light fell on it, the way its rusted edges bent.",
+          "After boarding school came college, which her parents insisted she try. At Franklin Pierce College in New Hampshire she studied psychology secretclip and, in 1970, earned a bachelor's degree. She then moved to Arizona State University to study animal science, where a professor had been sceptical of her because she was a woman — the late 1960s livestock world was almost entirely male — and asked her pointedly what she hoped to do. She answered that she wanted to design humane livestock handling systems. She earned her master's degree in 1975, then went on to the University of Illinois, where in 1989 she completed a doctorate in animal science. Along the way she took the single most important step of her working life: she began to study, with scientific rigour, exactly how cattle see and react, and she realised that the picture-thinking that had made her 'different' was precisely what let her notice what other engineers could not. Where her colleagues designed chutes from blueprints — treating an animal as a passive object — she designed them by stepping inside an animal's field of view, seeing the flickering shadows, the glare of the sun, the flapping coat, the sudden dark doorway that its wide-angle, prey-animal eyes registered as danger.",
+          "It was in this period that Temple Grandin, who had never quite believed the old 'brain damage' label, read about autism and understood at last that the label had been wrong. She had not been damaged; she had simply been wired differently, a fact she now embraced with the same clear-eyed practicality she applied to everything else. Autistic, she came to say, was not a lesser way to be — it was a different operating system, and her job, as she saw it, was to use that operating system to do work the world needed done."
+        ],
+        "media": {
+          "src": "assets/images/stories/temple-grandin/ted-bw.jpg",
+          "alt": "Black-and-white portrait of a younger Temple Grandin",
+          "caption": "Temple Grandin in the years she was building her career as a designer of livestock handling systems.",
+          "credit": "Jonathunder · GFDL 1.2"
+        }
+      },
+      {
+        "heading": "Building a better way to move cattle",
+        "paragraphs": [
+          "In 1978, after earning her master's degree, Temple Grandin began designing livestock handling facilities professionally — initially for a company that dealt in farms and feedlots, then as an independent designer working across the American cattle industry's engineering firms. Almost immediately, she noticed a pattern the industry had never seen. Standard cattle chutes were straight, with solid sides, and animals routinely balked, refused to move, or tried to climb out of them. Meat plants across the country accepted this as normal — cattle were simply 'dumb' and 'stubborn.' Grandin, thinking in pictures, looked at the same chutes and saw something quite different. She saw what the animal saw. Cattle are prey animals with wide-angle vision; they spook at flickering light, at a piece of flapping plastic, at a shadow falling across the chute, at the sight of a human being blocking the only way forward at the far end. She redesigned the facilities with curved, solid-sided chutes; with fences opaque to the animals' line of sight; with floors that provided sure footing; and with entry points that faced away from the sun and the noise. The result was that cattle walked through calmly and on their own, instead of being beaten and prodded.",
+          "Her signature innovation was the centre-track restrainer, sometimes called the 'Temple line,' a specific system for holding cattle during slaughter that cradles the animal so securely — using the same calm, deep-pressure principle she had discovered with her hug machine — that large plants began asking her to install it. She published her findings in animal-science journals, taught at conferences where she was often the only woman in the room, and built her reputation one working facility at a time. By the 1990s, roughly half of all the cattle handled in the United States were being passed through systems that Grandin had designed or helped design. When she walked into a plant, she often impressed the workers by noticing in a single glance the exact detail that was spooking the animals — a swinging chain, a glare of light, a shadow — something other consultants walked past every day.",
+          "Her work was not motivated by sentimentality, and that was precisely why the cattle industry listened. She did not ask ranchers to be cruel or to be soft; she asked them to be efficient and to stop causing suffering that served no purpose. Her message was blunt, technical, and unapologetic: a calm animal is a safe animal, and a safe animal is cheaper to handle. The cruelty that had gone on for decades inside the American beef plant was not just morally indefensible — it was bad engineering."
+        ],
+        "media": {
+          "src": "assets/images/stories/temple-grandin/grandin-2013.jpg",
+          "alt": "Temple Grandin speaking at a conference in 2013",
+          "caption": "Temple Grandin has spent her career showing the livestock industry a kinder, more efficient way to work.",
+          "credit": "Symphy · CC BY-SA 4.0"
+        }
+      },
+      {
+        "heading": "Different, not less",
+        "paragraphs": [
+          "Temple Grandin did not wait for the rest of the world to catch up to her understanding of animals. In 1986 she published Emergence: Labeled Autistic, one of the first books ever written by an autistic person about being autistic — remarkable both for existing at all in 1986 and for being written by someone who had spent her early years almost unable to speak. Nine years later came Thinking in Pictures, her landmark account of her own visual style of thought)Skip and then, with the writer Catherine Johnson, Animals in Translation (2005), which argued that the ways animals feel and think are far closer to how autistic people experience the world than most sighted, verbal people ever assume. Her TED talk of 2010, 'The world needs all kinds of minds,' has been watched by millions. The same year, the film Temple Grandin, starring Claire Danes, portrayed her life for HBO, and Time magazine named her one of the hundred most influential people in the world.",
+          "Yet she tilted her enormous fame back onto the two causes that had made her: the humane treatment of animals beyond the American beef plant — she became widely known as the leading advocate for inhumane simply because she proved the industry could be better — and the cause of autistic people, for whom she became an unmistakably loud, practical, living proof that a mind that works differently is not a mind that works less. Her blunt conviction is everywhere in her speeches and books: 'What would happen if the autism gene was eliminated from the gene pool?' she asks. 'You'd get a bunch of people standing around in a cave, chatting and socialising and not getting anything done.' She argues, again and again, that many of history's greatest engineers, scientists and inventors were likely autistic or carried autistic traits.Skip",
+          "In 2017 Temple Grandin was inducted into the National Women's Hall of Fame. She has received more than thirty honorary doctorates, travelled the world teaching humane animal handling, and served as inspiration to generations of autistic children and their families — many of whom had been told, exactly as she was, that they would never speak, never learn, never work. She has spent her life proving them wrong, one carefully designed chute and one spoken sentence at a time."
+        ],
+        "media": {
+          "src": "assets/images/stories/temple-grandin/grandin-2015.jpg",
+          "alt": "Temple Grandin in 2015",
+          "caption": "Professor Temple Grandin: scientist, designer, author, and the world's most famous autism advocate.",
+          "credit": "TaurusEmerald · CC BY-SA 4.0"
+        }
+      },
+      {
+        "heading": "The world needs all kinds of minds",
+        "paragraphs": [
+          "Temple Grandin's deepest lesson is that what looks like a deficit from one point of view can be an extraordinary advantage from another. The sensory overload that made ordinary life agonising for her became, in her work, an uncommonly precise instrument: she noticed details — a chink of light, a shadow, a small movement — that tuned-out, 'normal' observers walked straight past. The social distance that left her an outsider became the very thing that let her see cattle, and autistic children, with unusual clarity. 'I think in pictures,' she has said. 'Words are like a second language to me.' And the gifts of her visual, detail-rich mind were the things that changed an entire industry.",
+          "She does not ask us to pity autistic people, but to hire them. Her advice to parents, teachers and employers is concrete and practical: expose children to many different kinds of work; build on their strengths rather than punishing their differences; give the visual thinkers real hands-on problems to solve. 'When I think about it,' she has said, 'my life has been a very interesting story. It's a story of how a person with autism who was different made a huge contribution to the world.'",
+          "Temple Grandin's story is a reminder that the world's progress has never depended on one kind of mind. The cave, in her favourite image, needed the talkers around the fire — but it also needed the one who could notice the small glint of an idea on the cave wall, hold it in a picture, and build something the world had not yet imagined. She became that person. And she spent a lifetime showing the rest of us why we should listen."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Temple Grandin — Official biography and FAQ",
+        "publisher": "templegrandin.com",
+        "url": "https://templegrandin.com",
+        "publishedDate": "",
+        "note": "Early life, diagnosis at age two, institutionalisation advice, boarding school, education, career, and 'different, not less.'"
+      },
+      {
+        "title": "Temple Grandin — Biography",
+        "publisher": "Colorado State University",
+        "url": "https://www.colostate.edu/stories/temple-grandin.jsp",
+        "publishedDate": "",
+        "note": "Professor of animal science at CSU; career in livestock handling design; honours."
+      },
+      {
+        "title": "Temple Grandin: The world needs all kinds of minds (TED 2010)",
+        "publisher": "TED",
+        "url": "https://www.ted.com/talks/temple_grandin_the_world_needs_all_kinds_of_minds",
+        "publishedDate": "2010",
+        "note": "Her own account of thinking in pictures and of the value of different minds."
+      },
+      {
+        "title": "The 2010 TIME 100 — Temple Grandin",
+        "publisher": "Time magazine",
+        "url": "https://time.com/collection-post/2976625/temple-grandin/",
+        "publishedDate": "2010",
+        "note": "Named one of the 100 most influential people of 2010 by Time."
+      },
+      {
+        "title": "National Women's Hall of Fame — Temple Grandin (2017 inductee)",
+        "publisher": "National Women's Hall of Fame",
+        "url": "https://www.womenofthehall.org/inductee/temple-grandin/",
+        "publishedDate": "2017",
+        "note": "Inducted 2017; lifetime achievement in animal welfare and autism advocacy."
+      },
+      {
+        "title": "Thinking in Pictures: My Life with Autism",
+        "publisher": "Vintage Books",
+        "url": "https://en.wikipedia.org/wiki/Thinking_in_Pictures",
+        "publishedDate": "1995",
+        "note": "Her landmark memoir of thinking visually; basis for account of her sensory experience."
+      },
+      {
+        "title": "HBO Films — Temple Grandin (2010)",
+        "publisher": "HBO",
+        "url": "https://www.hbo.com/movies/temple-grandin",
+        "publishedDate": "2010",
+        "note": "Biographical film starring Claire Danes; brought her story to a mass audience."
+      },
+      {
+        "title": "Commons — Temple Grandin at TED (portrait)",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Temple_Grandin_at_TED.jpg",
+        "publishedDate": "",
+        "note": "Hero image; CC BY 2.0 (Steve Jurvetson)."
+      },
+      {
+        "title": "Commons — Temple Grandin 2015",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Temple_Grandin_2015.jpg",
+        "publishedDate": "",
+        "note": "Chapter image; CC BY-SA 4.0 (TaurusEmerald)."
+      },
+      {
+        "title": "Commons — Temple-Grandin-2013",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Temple-Grandin-2013.jpg",
+        "publishedDate": "",
+        "note": "Chapter image; CC BY-SA 4.0 (Symphy)."
+      },
+      {
+        "title": "Commons — TempleGrandin (b/w portrait)",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:TempleGrandin.jpg",
+        "publishedDate": "",
+        "note": "Chapter image; GFDL 1.2 (Jonathunder)."
+      },
+      {
+        "title": "Commons — Hug Box (squeeze machine)",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Hug_Box.jpg",
+        "publishedDate": "",
+        "note": "Chapter image; public domain / CC0 (August Meriwether)."
+      }
+    ],
+    "tags": [
+      "temple-grandin",
+      "autism",
+      "neurodiversity",
+      "animal-welfare",
+      "visual-thinking",
+      "cattle-industry",
+      "science",
+      "different-not-less"
+    ],
+    "verified": true,
+    "verifiedAt": "2026-09-17"
+  },
+  {
+    "id": 12,
+    "slug": "muhammad-ali",
+    "slugKey": "stories/muhammad-ali",
+    "title": "The Greatest: How a Kid from Louisville Shook Up the World",
+    "personName": "Muhammad Ali",
+    "person": {
+      "name": "Muhammad Ali",
+      "gender": "male",
+      "bornLabel": "1942–2016"
+    },
+    "shortDescription": "Born Cassius Marcellus Clay Jr in Louisville, Kentucky on 17 January 1942, a talkative twelve-year-old who lost nothing but a stolen bicycle and found the sport that would remake his life, he flew to the 1960 Rome Olympics at eighteen and came home a gold medallist — then 'shook up the world' by beating the fearsome Sonny Liston in 1964, changed his name and his religion the moment it mattered most, and gave up the heavyweight crown at the height of his fame rather than fight in a war he believed was wrong. He fought his way back to become a three-time world heavyweight champion, lit the Olympic flame in Atlanta in 1996, and lived long enough to be called, almost without anyone disputing it, the most famous person who ever lived.",
+    "country": "United States",
+    "state": "Kentucky",
+    "city": "Louisville",
+    "category": [
+      "Sports",
+      "Civil Rights",
+      "Social Change",
+      "Courage"
+    ],
+    "birthYear": 1942,
+    "storyDate": "2016",
+    "heroImage": "assets/images/stories/muhammad-ali/portrait.jpg",
+    "introduction": "Cassius Marcellus Clay Jr was born in Louisville, Kentucky, on 17 January 1942, the son of a sign painter and a housekeeper in a city where the colour line still ran through everything — he would grow up to say that he and his brother were taught by their mother to love people, no matter their colour, and by their father the hard truth of what the world would do to them because of theirs. He was a boy who loved to talk. He ran through the streets of Louisville West End at night with his father waiting up for him, and he walked to school past the segregated drinking fountains. When he was twelve, someone stole his brand-new bicycle — a red-and-white Schwinn his father had bought him for a down payment on a church lot — and a furious little boy went looking for the thief, determined to give him a whipping. A police officer and boxing trainer named Joe Martin heard the twelve-year-old threaten to whoop whoever had taken his bike intelligence. 'Well,' Martin said, 'you better learn how to fight first.' The boy was in the gym before the week was out. His mouth guaranteed it, his legs would decide it, and his hands would settle the argument — and the argument would turn out to be with the whole century.",
+    "chapters": [
+      {
+        "heading": "A tiresome kid who never shut up — and the gold medal in Rome",
+        "paragraphs": [
+          "Cassius Clay discovered that he had a talent no one expected. He was quick, impossibly quick — he was given the nickname 'the Louisville Lip' in the amateur ranks, not just because he talked so much, but because he seemed to be mobile on top of a torrent of words. Trainers said that he was very fast with his hands even as a kid; he had a lightning-fast jab that was truly jolting to the pro body. He trained by running to school, running home, and running (not driving) past the bus stop; his roadwork became the thing that separated him from every other heavyweight. He fought at light-heavyweight in the 1960 Rome Olympics and won the gold medal, beating Zbigniew Pietrzykowski of Poland in the final by decision, and the world's press noticed a nineteen-year-old who could not stop talking about himself. He looked at the sky and told reporters he was the greatest, and every one of them laughed at him. He meant it, every word.",
+          "He turned professional in 1960 on the advice of his Louisville friends, a group of wealthy white businessmen who were impressed by how much attention he had drawn in Romepisodes The Louisville Sponsoring Group paid him a salary and gave him a road to the title. His style was entirely wrong for a heavyweight — he was tall and skinny, he moved on the balls of his feet like a dancer, he carried his hands far too low, and he talked so much during the fight that referees occasionally asked him to stop. But the box he had invented for himself, a dancing jab-and-run style with a snapping left, was built to exploit exactly what heavyweight history thought was impossible: that a big man could box like a featherweight and still hit like a truck. Between Rome and the title he ran through a string of opponents — turning on professional records, selling out arenas, and talking so much that sports writers who hated him (and there were many) had to admit that whatever else he was, he was never boring. He even predicted the round in which he would knock his opponents out, and to the delight of the crowd and the fury of the press, he was usually right.",
+          "By early 1964 the talk had become impossible to ignore. The world's heavyweight champion was a 240-pound former convict named Sonny Liston, a hulking, intimidating man with fists the size of dinner plates, a fearsome right hand, and a reputation so terrifying that most of the sport's best contenders had literally chosen to leave the ring rather than face him. Clay was the one challenger who was not afraid. On 25 February 1964, at the Convention Hall in Miami Beach, the twenty-two-year-old put eleven words on the record that would change his life: 'I am the best. I shook up the world.'",
+          "The boxing establishment had predicted disaster. Liston was a 7-to-1 favourite; everyone assumed the talkative kid's legs would give out, or that his jaw could not hold the punch of a monster. Instead, at 11:41 p.m. on 25 February 1964, in a fight that lasted only a few rounds — with the world listening on radio because the championship had not been put on live television — Clay broke Liston down with his impossible legs and a jab so snapping that Liston, bleeding and allergic to the stinging blows, refused to come out for round seven, saying his shoulder had been injured. Cassius Clay had done it. At eight o'clock the next morning he announced that his name was now Muhammad Ali, that he had found his religion, and that he was the king of the world. He had, in a single night, shaken every assumption about what a heavyweight — and what an American — was allowed to be."
+        ],
+        "media": {
+          "src": "assets/images/stories/muhammad-ali/rome-1960.jpg",
+          "alt": "Cassius Clay (light-heavyweight) at the 1960 Rome Olympics",
+          "caption": "Eighteen-year-old Cassius Clay at the Rome Olympics, weeks before he came home with the light-heavyweight gold.",
+          "credit": "Wikimedia Commons · Public domain"
+        }
+      },
+      {
+        "heading": "'I shook up the world' — the night he became the champion",
+        "paragraphs": [
+          "If the sport had expected Liston to crush the young pretender, the first round refuted them all. For the entire fight Clay displayed a kind of movement heavyweight fans had never witnessed. He stayed on his toes for the full distance, snapped jabs that Liston never fully solved, and — most infamously — kept shouting insults from inside the ring: 'You're too ugly, big bear! Get up and fight, you big ugly bear!' Liston, a man who had built a career on terrifying his opponents, was reduced to swinging wild, powerful, unanswerable punches that kept catching air. In the third round something strange happened: Liston's eye began to swell and burn, reportedly because the ointment from Clay's corner had worked its way into the champion's eyes. For a few rounds the monster looked merely human. By the sixth, Liston was exhausted, halfway to beaten; he sat on his stool at the end of the sixth round, told his cornermen his shoulder had gone, and never got up for the seventh. The fight was over. Cassius Clay, twenty-two years old, had 'shook up the world,' and he screamed it into the microphone so that the whole planet heard: 'I shook up the world! I shook up the world!'",
+          "The rematch was one of the strangest spectacles in boxing history, and it produced a single photograph that would outlast every other image of him. On 25 May 1965, in the tiny town hall auditorium of Lewiston, Maine — a venue so small that reporters outnumbered the crowd — Ali and Liston squared off again. In the very first round, Ali threw a short, seemingly gentle right hand that has gone down in legend as the 'phantom punch' because so few people actually saw it land. Liston went down hard onto his back and lay there, and Ali stood over the fallen giant shouting 'Get up and fight, you big ugly bear!' The photograph of Ali standing imperiously over the sprawled Liston, arms raised, is one of the most reproduced sports pictures ever taken, and it froze forever the exact instant the old era ended and the Ali era began. He had beaten the impossible man twice. There was no argument left: this was his era now."
+        ],
+        "media": {
+          "src": "assets/images/stories/muhammad-ali/liston-1964.jpg",
+          "alt": "Muhammad Ali and Sonny Liston during their first fight in Miami Beach, 1964",
+          "caption": "February 1964, Miami Beach: the young challenger snapping his jab past the fearsome champion.",
+          "credit": "AP · Wikimedia Commons · Public domain"
+        }
+      },
+      {
+        "heading": "The name, the religion, and the crown he would not give to a war",
+        "paragraphs": [
+          "Almost nobody in America knew what to make of the new champion. He was a Muslim — a Black Muslim, in the language of the day — and he had changed his name from 'Cassius Clay,' which he called his 'slave name,' to Muhammad Ali, which he said meant 'Beloved of God.' The sports establishment fumed. White America, which had loved the safe, smiling, patriotic Cassius Clay, was bewildered by the new champion who refused to be the polite negro and who said, over and over, 'I don't have to be what you want me to be.' He proved himself the most extraordinary talker in the history of the ring — 'Float like a butterfly, sting like a bee, his hands can't hit what his eyes can't see' — and then he won, and kept winning. He defended his title against former champion Floyd Patterson, against George Chuvalo, Henry Cooper, and Brian London, and against almost every contender the sport could send at him. He beat them all, and made it look easy.",
+          "But the era was closing in on him. The United States had been drafting young men to fight in Vietnam since the mid-1960s, and the war was growing more unpopular with every passing month. When Ali's name was called, in the spring of 1967, he was given a chance to do what most celebrities did — to accept a cushy assignment, to go to Vietnam as a sports ambassador, to appear in patriotic newsreels. He refused. On 28 April 1967, in Houston, Texas, he stood before the board and answered 'I will not go ten thousand miles from home to help murder and burn another poor nation simply to continue the domination of white slave masters of the darker people of the earth.' For that refusal he was stripped of his title, his boxing licence, and his passport, and indicted for draft evasion — a crime carrying five years in prison and a $10,000 fine. The heavyweight champion of the world, at twenty-five, at the absolute peak of his powers, was reduced to giving speeches on college campuses, some of which were heckled by protesters of the war he was opposing. He lost three of the best years of his career. He never once said he regretted it.",
+          "The decision cost him almost everything, and it defined him forever. While he was out of the ring, the civil rights movement and the anti-war movement made common cause in a way no one had predicted, and Ali became one of the great faces of both. White America's anger at him — the newspaper columnists who called him a traitor, the boxing commissions that banned him in every state, the government that took his livelihood — slowly curdled into something else: respect, and then awe, at a man so principled he would give up a fortune rather than be ordered around his conscience. He would later say, 'I never thought of losing, but now that it's real I realize that it's worth fighting for, even at the cost of everything I have.' He meant every word.",
+          "In June 1971, the Supreme Court of the United States ruled unanimously in Clay v. United States that Ali's conviction for refusing the draft was unlawful — the Court found the government had improperly instructed the jury that his beliefs were not sincerely held because he had said his reasons were 'religious' when he had originally stated them as both religious and political. By then the war was bleeding to a close, the country had turned against it, and Ali, at last, was free to fight again. He was no longer young. The years of exile had taken his prime, and the monster who had beaten everyone while Ali was away — a relentless slugger named Joe Frazier — stood in his way."
+        ],
+        "media": {
+          "src": "assets/images/stories/muhammad-ali/draft-1967.jpg",
+          "alt": "Muhammad Ali in 1967, the year he refused the draft",
+          "caption": "1967: the champion stripped of his title, his licence and his passport for refusing to fight in Vietnam.",
+          "credit": "Wikimedia Commons · Public domain"
+        }
+      },
+      {
+        "heading": "The Rumble in the Jungle — the comeback of the century",
+        "paragraphs": [
+          "By 1971, Ali was back in the ringcolon But the man who returned was no longer invincible. Joe Frazier, the undefeated champion who had won the title while Ali was in exile, met him at Madison Square Garden on 8 March 1971 in 'the Fight of the Century,' and in a brutal fifteen-round war Frazier knocked Ali down and beat him on points. Ali's jaw was broken by Frazier's huge left hook; the world watched the unbeaten legend finally lose, and for a moment it looked like the exile had cost him his myth. Everyone told him to retire. He refused. He fought Frazier again in 1974 and won a rematch by decision, and then he set his eyes on the biggest prize of all.",
+          "In October 1974 he went to Zaire, in central Africa, to fight George Foreman — the terrifying young champion who had knocked out Joe Frazier in two rounds and Ken Norton in the first, a man considered virtually unbeatableiak. Foreman was seven years younger, forty pounds heavier, and a 2-to-1 favourite; most observers thought Ali would be destroyed. In the city of Kinshasa, in a stadium built for the occasion, Ali did something no one had ever seen a heavyweight do. He leaned back on the ropes and let Foreman punch himself out. For round after round he absorbed Foreman's heaviest shots, taunting the exhausted giant with 'You better move, you big ugly bear!' The tactic — later called the 'rope-a-dope' — was a calculated gamble: all of Ali's genius wrapped in a disguise of weakness. In the eighth round, with Foreman spentaaa one of the heaviest hitters in history mustered the only thing he had left — one great right hand — and Ali, perfectly calm, put him down and out. 'Ali, boma ye! Ali, bomaye!' — 'Ali, kill him!' — the crowd screamed all night, and on 30 October 1974 Muhammad Ali knocked out George Foreman in the eighth round in what is still called the most famous boxing match of the twentieth century: the Rumble in the Jungle. He had lost everything, gone away for three years, come back and been beaten, and then, against the youngest, strongest, most dangerous heavyweight alive, he had taken his championship back at the age of thirty-two. The whole world was roaring.",
+          "He would do it once more. After losing his title to Leon Spinks in 1978, he regained it in a rematch the same year, becoming the first man in history to win the heavyweight championship three times — and earning, in the words of the sportswriters who had once hated him, a place not just in boxing but in the imagination of the world. He retired in 1979, came back for two final, sad, slow fights, and in 1981 finally hung up his gloves for good."
+        ],
+        "media": {
+          "src": "assets/images/stories/muhammad-ali/rumble-1974.jpg",
+          "alt": "Muhammad Ali at the Rumble in the Jungle, Zaire, 1974",
+          "caption": "October 1974, Kinshasa, Zaire: Ali, on the ropes and taunting, beats the unbeatable George Foreman in eight rounds.",
+          "credit": "UPI · Wikimedia Commons · Public domain"
+        }
+      },
+      {
+        "heading": "The shaking hands that lit the flame — legacy of a legend",
+        "paragraphs": [
+          "Muhammad Ali's last great public moment came on the evening of 19 July 1996, in Atlanta, Georgia, at the opening ceremony of the Centennial Olympic Games. Parkinson's disease — the same cruel neurological illness that had taken his speech and his steadiness in the years after his retirement — had been quietly stealing parts of him since the early 1980s, and it was no secret that the man who had once been the fastest and most graceful heavyweight in history now moved slowly, his hands trembling, his face set in the fixed expression the disease gives so many of its victims. The world had watched him decline for a decade and a half, and it ached for him. Then America, and the whole planet, watched him do the one thing no one could have scripted: the trembling, visibly shaking hands of the old champion reached up, took the sacred Olympic torch from the runner, and lit the flame that opened the 1996 Atlanta Games while a billion people held their breath and wept exactly as he had made half the world weep in the ring — but this time, alone and without gloves, standing perfectly still in the light of the whole world's respect. It may be the single most famous gesture of gratitude in modern Olympic history: the torch that Muhammad Ali's pale, shaking hand lit not for the glory of winning but as a declaration that Parkinson's had not beaten him any more than Liston, or the draft board, or George Foreman ever had.",
+          "He used the years that followed to do the work of the last legend: the Muhammad Ali Center opened in Louisville in 2005 to teach the world his values — respect, confidence, conviction, dedication, giving, spirituality — and to inspire the young, and to prove to every child who felt powerless that the power to change the world starts exactly where Ali started, with one small hand raised over a stolen bicycle insisting, 'I am the greatest.' He died on 3 June 2016, at the age of seventy-four, in Scottsdale, Arizona, of complications of his Parkinson's disease. The funeral in Louisville — his chosen home — followed a route through the streets of his childhood, past the places where a talkative boy had once learned to fight; and it was watched by hundreds of millions of people around the world, who lined the streets of his city and called out the old words: 'Ali, bomaye!' Ali has been dead since 2016, but he has not been forgotten: he remains, by any measure, the most famous person of the twentieth century — the man who shook up the world."
+        ],
+        "media": {
+          "src": "assets/images/stories/muhammad-ali/portrait.jpg",
+          "alt": "Muhammad Ali in his prime — the 1963 New York World-Telegram & Sun studio portrait",
+          "caption": "The Greatest, in the portrait that made his face as famous as any in the century.",
+          "credit": "NYWTS · Wikimedia Commons · Public domain"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Rumble in the Jungle",
+        "publisher": "BBC Sport — the story of the fight",
+        "url": "https://www.bbc.com/sport/boxing/29810847",
+        "publishedDate": "2014",
+        "note": "Ali vs Foreman, Zaire 1974; the rope-a-dope and the eighth-round knockout."
+      },
+      {
+        "title": "Muhammad Ali — Biography",
+        "publisher": "Britannica",
+        "url": "https://www.britannica.com/biography/Muhammad-Ali",
+        "publishedDate": "",
+        "note": "Early life, Liston fights, name change, draft refusal, comeback, and legacy."
+      },
+      {
+        "title": "Clay v. United States — Supreme Court ruling",
+        "publisher": "Supreme Court of the United States",
+        "url": "https://www.oyez.org/cases/1970/783",
+        "publishedDate": "1971",
+        "note": "Unanimous 1971 decision overturning Ali's draft-evasion conviction."
+      },
+      {
+        "title": "The Fight of the Century (Ali–Frazier I, 1971)",
+        "publisher": "Smithsonian Magazine",
+        "url": "https://www.smithsonianmag.com/history/behind-the-fight-of-the-century-11546995/",
+        "publishedDate": "",
+        "note": "Madison Square Garden 1971; Frazier's win and Ali's broken jaw."
+      },
+      {
+        "title": "Muhammad Ali at the 1996 Atlanta Opening Ceremony",
+        "publisher": "Olympic.org (IOC)",
+        "url": "https://olympics.com/en/olympic-games/atlanta-1996",
+        "publishedDate": "",
+        "note": "Ali lighting the flame at the Centennial Games."
+      },
+      {
+        "title": "File:Boxing light-heavyweight 1960 Olympics.jpg",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Boxing_light-heavyweight_1960_Olympics.jpg",
+        "publishedDate": "",
+        "note": "Chapter image — Rome 1960; public domain."
+      },
+      {
+        "title": "File:Muhammad Ali vs. Sonny Liston I AP.jpg",
+        "publisher": "Wikimedia Commons (AP)",
+        "url": "https://commons.wikimedia.org/wiki/File:Muhammad_Ali_vs._Sonny_Liston_I_AP.jpg",
+        "publishedDate": "",
+        "note": "Chapter image — Liston I, Miami Beach 1964; public domain."
+      },
+      {
+        "title": "File:Muhammad Ali standing over Sonny Liston.jpg",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Muhammad_Ali_standing_over_Sonny_Liston.jpg",
+        "publishedDate": "",
+        "note": "Chapter image — the 'phantom punch' rematch, Lewiston 1965; public domain."
+      },
+      {
+        "title": "File:Cassius Clay en 1967.jpg",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Cassius_Clay_en_1967.jpg",
+        "publishedDate": "",
+        "note": "Chapter image — 1967, the year of the draft refusal; public domain."
+      },
+      {
+        "title": "File:Muhammad Ali NYWTS.jpg",
+        "publisher": "Wikimedia Commons (NYWT&S)",
+        "url": "https://commons.wikimedia.org/wiki/File:Muhammad_Ali_NYWTS.jpg",
+        "publishedDate": "",
+        "note": "Hero + legacy image — the 1963 NYWTS studio portrait; public domain."
+      },
+      {
+        "title": "File:Ali right The Rumble in the Jungle UPI.jpg",
+        "publisher": "Wikimedia Commons (UPI)",
+        "url": "https://commons.wikimedia.org/wiki/File:Ali_right_The_Rumble_in_the_Jungle_UPI.jpg",
+        "publishedDate": "",
+        "note": "Chapter image — Zaire 1974; public domain."
+      }
+    ],
+    "tags": [
+      "muhammad-ali",
+      "boxing",
+      "heavyweight-champion",
+      "civil-rights",
+      "draft-refusal",
+      "rumble-in-the-jungle",
+      "olympics",
+      "louisville",
+      "the-greatest"
+    ],
+    "verified": false,
+    "verifiedAt": ""
   }
 ]
