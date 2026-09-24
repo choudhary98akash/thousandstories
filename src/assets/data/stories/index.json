@@ -374,5 +374,38 @@
       "environment"
     ],
     "verified": true
+  },
+  {
+    "id": 14,
+    "slug": "sor-juana-ines",
+    "personName": "Sor Juana Inés de la Cruz",
+    "title": "The Nun Who Would Not Stop Thinking",
+    "shortDescription": "Born in a village at the foot of the volcanoes of New Spain, Juana Inés de Asbaje y Ramírez taught herself to read before she was four, wrote a play the village performed at eight, and mastered Latin in twenty lessons. At sixteen she answered forty scholars before the viceroy's court; at seventeen she took the veil, choosing a convent for the freedom to be silent and to study. As Sor Juana Inés de la Cruz she built the largest library in New Spain, became the Tenth Muse of Europe, and answered a bishop's public rebuke with the Respuesta a Sor Filotea, the founding manifesto of Latin American feminism. For that, her superiors made her give her books away. She died in 1695 nursing her sisters through a plague. Her words are still alive.",
+    "country": "Mexico",
+    "state": "Estado de México",
+    "city": "San Miguel Nepantla",
+    "category": [
+      "Literature",
+      "Education",
+      "Social Change",
+      "Courage"
+    ],
+    "birthYear": 1648,
+    "storyDate": "1691",
+    "heroImage": "assets/images/stories/sor-juana-ines/retrato-sor-juana-cabrera.jpg",
+    "tags": [
+      "sor-juana-ines",
+      "literature",
+      "baroque",
+      "poetry",
+      "nun",
+      "respuesta-a-sor-filotea",
+      "feminism",
+      "education",
+      "new-spain",
+      "mexico",
+      "tenth-muse"
+    ],
+    "verified": false
   }
 ]
