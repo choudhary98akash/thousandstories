@@ -407,5 +407,40 @@
       "tenth-muse"
     ],
     "verified": false
+  },
+  {
+    "id": 15,
+    "slug": "tenzing-norgay",
+    "personName": "Tenzing Norgay",
+    "title": "The Man Who Carried the Mountain",
+    "shortDescription": "A Tibetan-born herder's son who left school before he finished it, walked to Darjeeling at nineteen, and spent eighteen years carrying other men's loads up the Himalaya — until, on 29 May 1953, he and a New Zealand beekeeper stood on top of the world and the mountain gave back a different name for history.",
+    "country": "Nepal",
+    "state": "Khumbu",
+    "city": "Thame",
+    "category": [
+      "Courage",
+      "Leadership",
+      "History",
+      "Unsung Heroes"
+    ],
+    "birthYear": 1914,
+    "deathYear": 1986,
+    "storyDate": "1953",
+    "heroImage": "assets/images/stories/tenzing-norgay/portrait.jpg",
+    "tags": [
+      "tenzing-norgay",
+      "mount-everest",
+      "first-ascent",
+      "sherpa",
+      "himalaya",
+      "nepal",
+      "tibet",
+      "india",
+      "porters",
+      "1953-british-everest-expedition",
+      "darjeeling",
+      "uncredited-heroes"
+    ],
+    "verified": false
   }
 ]

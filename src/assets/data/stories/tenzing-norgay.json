@@ -1,0 +1,287 @@
+{
+  "id": 15,
+  "slug": "tenzing-norgay",
+  "slugKey": "stories/tenzing-norgay",
+  "title": "The Man Who Carried the Mountain",
+  "personName": "Tenzing Norgay",
+  "person": {
+    "name": "Tenzing Norgay",
+    "gender": "male",
+    "bornLabel": "1914–1986"
+  },
+  "shortDescription": "A Tibetan-born herder's son who left school before he finished it, walked to Darjeeling at nineteen, and spent eighteen years carrying other men's loads up the Himalaya — until, on 29 May 1953, he and a New Zealand beekeeper stood on top of the world and the mountain gave back a different name for history.",
+  "country": "Nepal",
+  "state": "Khumbu",
+  "city": "Thame",
+  "category": [
+    "Courage",
+    "Leadership",
+    "History",
+    "Unsung Heroes"
+  ],
+  "birthYear": 1914,
+  "deathYear": 1986,
+  "storyDate": "1953",
+  "heroImage": "assets/images/stories/tenzing-norgay/portrait.jpg",
+  "introduction": "At 11:30 on the morning of 29 May 1953, a man who had spent eighteen years carrying other men's luggage up the Himalaya stood on top of the world's highest mountain. He was thirty-nine years old. He spoke half a dozen languages and could not write his own name. The mountain is Everest — 8,848 metres, called Sagarmatha in Nepal and Chomolungma, Holy Mother, by the Tibetan and Sherpa people who farm its valleys. The man was Tenzing Norgay, born Namgyal Wangdi, son of a Tibetan yak herder, raised on the far side of the range from the empire that sent him up it. He would spend the rest of his life being asked which of the two men on top had gone first. He never much cared for the question, and he had a photograph to prove he meant it.",
+  "chapters": [
+    {
+      "heading": "The boy from the yak pastures",
+      "paragraphs": [
+        "Start with the mountain, because the mountain is the reason there is a story at all. Everest rises on the border between Nepal and Tibet, at 8,848 metres — about 29,000 feet, roughly the height of twenty-five Eiffel Towers stacked on top of one another. Nepalese people call it Sagarmatha, the Tibetan and Sherpa people call it Chomolungma: Holy Mother, goddess of the summit. The Sherpas are a Tibetan Buddhist people who farm the valleys in the mountain's shadow in north-eastern Nepal. For a century they supplied the porters and guides on European expeditions, a trade that made them famous far beyond the Himalaya and paid them very little of the credit.",
+        "Tenzing Norgay was born in May 1914 into the world of those valleys — though exactly where is a matter of honest dispute, and he is one of the reasons it is. He told people he was born and raised at Tengboche in the Khumbu region of Nepal. His son Jamling, writing a generation later, said he was born at Tse Chu in the Kharta Valley on the Tibetan side, and that he grew up in the village of Thame. What is not in doubt is the year: he knew he was born late in the month, because he remembered the weather and the state of the crops, and the Tibetan calendar put his birth in the Year of the Rabbit, which falls in 1914. He was the eleventh of thirteen children. Several of his brothers and sisters died young. His father, Ghang La Mingma, herded yaks on the high grass; his mother was Tibetan, and she lived long enough to see him stand on the summit.",
+        "On the advice of Ngawang Tenzin Norbu, the head lama who founded Rongbuk Monastery on the northern side of the range, the boy Namgyal Wangdi was renamed Tenzing Norgay — roughly, a wealthy and fortunate follower of religion. He was Buddhist, and so were the peaks he was after. Sent as a teenager to Tengboche Monastery to be trained as a monk, he decided it was not for him and left. He ran away from home twice, first to Kathmandu and then to Darjeeling, a hill town in the Indian state of West Bengal, two thousand metres up, where almost every expedition in the eastern Himalaya was being organised and staffed. At nineteen he settled there among the Sherpa community, in a district then called the Too Song Busti, and took whatever work came his way."
+      ],
+      "media": {
+        "src": "assets/images/stories/tenzing-norgay/everest-kalapatthar.jpg",
+        "alt": "Mount Everest rising as a pyramid of snow above the dark ridge of Kala Patthar, in the Khumbu region of Nepal",
+        "caption": "Everest from Kala Patthar, in the Khumbu region where Tenzing Norgay was raised and where he began carrying loads a few days' walk from his own front door.",
+        "credit": "Pavel Novak · CC BY-SA 2.5"
+      }
+    },
+    {
+      "heading": "The porter's road to Everest",
+      "paragraphs": [
+        "To understand what he was trying to do, you have to understand the world he was trying to do it in. In the 1930s there was no helicopter, no satellite phone, no lightweight rope and no way to fly equipment onto a mountain. An expedition was an army on foot. Four hundred men would walk to the base of a mountain carrying tens of thousands of kilograms of food, fuel, tents and oxygen on their backs, then carry most of it up again, a little at a time, into camps dug into the snow. A porter was the man who did that carrying. A sirdar was the Sherpa who organised the other Sherpas and negotiated with the expedition leaders. Every early attempt on Everest depended entirely on that distinction — and on keeping the distinction intact.",
+        "Tenzing's first expedition came in 1935, when he was about twenty. Eric Shipton, a British explorer and surveyor, was assembling a reconnaissance party to Everest from the north, through Tibet — because until 1949 the mountain's southern side in Nepal was closed to foreigners. Two other men had been offered places and failed their medical examinations. Tenzing's friend Ang Tharkay, a sirdar who had served on the 1933 attempt, pushed him forward instead, and Shipton decided to take him on the strength of his smile. He climbed as a high-altitude porter on Shipton's 1935 reconnaissance, on the British attempts of 1936 and 1938, and on other peaks across the Indian subcontinent. In 1938 the Himalayan Club, a London mountaineering club, awarded him its Tiger Medal for high-altitude work. He was twenty-four, and the world of British climbing had formally saluted a Sherpa for the first time.",
+        "The 1940s brought the war, and then a private grief. He spent part of the early forties in the princely state of Chitral, on the far side of India, as batman — the officer's servant — to a Major Chapman. His first wife, Dawa Phuti, died there and was buried there in 1944; their son Nima Dorje died at the age of four. In 1947, the year India was cut in half by partition, he got himself and his two daughters across the subcontinent by train without a ticket, wearing one of Major Chapman's old uniforms, and nobody stopped him. That same year he became a sirdar for the first time, after helping to rescue a fallen colleague, Sirdar Wangdi Norbu, and he summited Kedarnath, a 22,769-foot peak in the Garhwal Himalaya, with a Swiss expedition. Then, in another 1947, he crossed into Tibet illegally with a Canadian named Earl Denman and a Sherpa named Ang Dawa, and was turned back at 22,000 feet by a storm. He had been on Everest six times. He had never been higher than a camp."
+      ]
+    },
+    {
+      "heading": "Twelve thousand feet short",
+      "paragraphs": [
+        "Then, in 1949, the rules of the mountain changed. Nepal opened its frontiers to foreign expeditions, and for the first time the summit could be attacked from the south — from the side the Sherpas farmed. American and British reconnaissance parties went in during 1950 and 1951, and the 1951 British party under Shipton found a way: up through the Khumbu Icefall, a river of shattered ice blocks that moves downhill every day; then across the Western Cwm, a wide valley ringed by ice; up the Lhotse Face, the wall of the neighbouring peak of Lhotse; and onto the South Col, the last camp on the mountain at 7,900 metres, sitting on a saddle of ice between two ridges. Tenzing was on that reconnaissance.",
+        "In 1952 the Swiss took the new route seriously and mounted two full expeditions. On 28 May, in the spring one led by Edouard Wyss-Dunant, Tenzing climbed with a Swiss guide, Raymond Lambert, to about 8,595 metres — 28,199 feet — on the south-east ridge. No human being had ever been higher. They were within about 250 metres of the top, and they came back down; for nine months their 8,595 metres was the highest point any person had reached. A second, autumn expedition led by Gabriel Chevalley was stopped by weather at 8,100 metres. Those two attempts also cut a route that other climbers would follow the following year.",
+        "What Tenzing valued most about 1952 was not the altitude. It was the wording on the permit. For the first time in his career he was counted as a full member of an expedition rather than its staff. He called it the greatest honour that had ever been paid him. A few months later, an expedition of over four hundred people arrived in Kathmandu to try the route he and Lambert had found."
+      ]
+    },
+    {
+      "heading": "Twenty-nine May 1953",
+      "paragraphs": [
+        "The 1953 British Everest expedition was the ninth attempt in history and the first confirmed success. It was organised and largely paid for by the Joint Himalayan Committee, a body funded by the Alpine Club and the Royal Geographical Society, and commanded by Colonel John Hunt. It numbered more than four hundred people, including 362 porters, 20 Sherpa guides and about 4,500 kilograms of baggage. Base camp was established in March 1953, and the whole enterprise was assembled by a man whose name on the paperwork read Sherpa Tenzing. He was the sirdar: the mountain's manager, and the person the press would later refuse to call that.",
+        "Among the climbing Sherpas were two of his own nephews, one of them only sixteen years old. On 5 March in Kathmandu he met Edmund Hillary, a New Zealand beekeeper of thirty-four who had climbed with Shipton the year before. Hillary wrote afterwards of a big, strong, patient man with an irresistible smile, and of something rarer among Sherpas of that generation — a personal ambition to reach the top, not merely to be paid to carry somebody else toward it. On the approach, Hillary fell into a crevasse, and Tenzing jammed his ice axe into the ice and stopped him dead. That was how the partnership was made: Hillary chose him as his summit partner, and Hunt chose them for the final attempt.",
+        "They did not go first. On 26 May, Tom Bourdillon and Charles Evans reached the South Summit, 300 feet below the top, and turned back when Evans' oxygen set failed. Snow and wind then held the chosen pair at the South Col for two days. On 28 May the Hillary-Tenzing pair and three others pitched a tent at 27,900 feet — 8,500 metres, the highest camp of the season — and the others descended. Inside, Hillary's boots froze solid against his bag; he spent two hours thawing them before dawn. They left carrying thirty-pound packs, passed the South Summit at nine in the morning, and came to the obstacle that decided the whole expedition: a near-vertical step of rock and ice about forty feet high, wedged into the ridge. Hillary climbed it by wedging his feet into a crack and shuffling up, and Tenzing followed. It is called the Hillary Step to this day.",
+        "At 11:30 that morning they stood on the summit, and stayed about fifteen minutes. They searched the snow for George Mallory and Andrew Irvine, who had vanished on the same ridge in 1924, and found nothing of them. Tenzing pushed an offering of sweets and biscuits into the snow for the spirits of the mountain. Hillary took the famous photograph of Tenzing standing with his ice-axe — the only image from the summit, because Tenzing had never used a camera in his life; when Tenzing offered to take Hillary's portrait instead, Hillary shook his head. On the way down, drifting snow had erased their own tracks, and the first man they met was George Lowe climbing up to meet them with hot soup. At the camp below, Hunt looked at the two of them, assumed from their appearance that they had failed, and began planning another attempt."
+      ],
+      "media": {
+        "src": "assets/images/stories/tenzing-norgay/everest-1953-handshake.jpg",
+        "alt": "Edmund Hillary and Sherpa Tenzing Norgay shaking hands beside an aircraft after the 1953 Everest expedition",
+        "caption": "Hillary and Tenzing shake hands beside an aircraft after the 1953 expedition. The expedition leader's summary of the achievement: they reached it together, as a team.",
+        "credit": "Horowhenua Historical Society, New Zealand · CC BY-SA 3.0"
+      }
+    },
+    {
+      "heading": "The message, the medal, and the question",
+      "paragraphs": [
+        "Getting the news out was an operation of its own. It had to travel by runner from the mountain to Namche Bazaar, the last trading town on the trail below the icefall, by radio from there to Kathmandu, and by telegraph from Kathmandu to London, in time for the morning papers of 2 June 1953 — the eve of Queen Elizabeth II's coronation. One reporter got there first: James Morris, the only journalist embedded with the expedition, later the writer Jan Morris. The dispatch she sent read, in full: Snow conditions bad. Advance base abandoned yesterday. Awaiting improvement. All well! Snow conditions bad meant the summit had been reached; the advance base abandoned was Hillary; awaiting improvement was Tenzing. The whole message, in perfect plain English, meant both men were alive and the mountain was beaten.",
+        "What followed was not a celebration so much as a fight over a fact. Newspapers gave him half a dozen different names — Tensing, Tenzing Bhotia, Tenzing Norgay, Tenzing Norkey, Sherpa Tenzing, and, in one Indian academic's sneer, Dan Shin. Correspondents in London, Kathmandu and Darjeeling asked the same two questions: which of the two men had gone first, and which country owned him. In Kathmandu a banner went up showing Tenzing hauling a semi-conscious Hillary to the top. Hunt's answer was that they reached it together, as a team. The answer that settled it came from Tenzing himself, in his autobiography Man of Everest, dictated in 1955 to the American writer James Ramsey Ullman — dictated, because Tenzing could speak several languages but could not read or write. He wrote that he had not been thinking of first and second, that there was no golden apple on that mountain, and that Hillary stepped on top first and he stepped up after him: Now the truth is told. And I am ready to be judged by it.",
+        "The honours that followed were not equal. Hillary and Hunt were knighted. Tenzing was not eligible for a knighthood, because a knighthood was for British subjects and he was not one; the story that India's prime minister Jawaharlal Nehru blocked it has never been supported by evidence, though it has been repeated for seventy years. On 7 June 1953 it was announced that the newly crowned Queen wished to recognise him, and on 1 July, after consulting the governments of India and Nepal, 10 Downing Street announced that he was to receive the George Medal. King Tribhuvan of Nepal made him a Member of the First Class of the Order of the Star of Nepal that same year, and he received the Coronation Medal with the rest of the expedition. His own assessment of the whole journey was blunter than any headline: It has been a long road. From a mountain coolie, a bearer of loads, to a wearer of a coat with rows of medals who is carried about in planes and worries about income tax."
+      ]
+    },
+    {
+      "heading": "The work after the summit",
+      "paragraphs": [
+        "In 1954 the Government of India set up the Himalayan Mountaineering Institute in Darjeeling, and Tenzing Norgay became its first Director of Field Training, a post he held for the rest of his life. The job was not to lead foreign expeditions any more. It was to teach Indian climbers how to do it. In 1959 India gave him the Padma Bhushan, the third-highest civilian honour it bestows, and the Indian Mountaineering Foundation gave him its gold medal. On 1 March 1963 the Soviet Union made him an honorary Merited Master of Sport, the first foreigner so titled. He took Indian citizenship, and the countries went on claiming him anyway. In recorded interviews, in English that was broken and honest, he said: Some people say I Nepali some say Indian. But now I live India with wife daughters. For me Indian Nepali same. We should all be same — Hillary, myself, Indian, Nepali, everybody.",
+        "He married three times and had seven children. His first wife, Dawa Phuti, died in 1944. His second, Ang Lahmu, was her cousin, and became the adoptive mother of the two girls; she died in 1964. His third wife, Dakku, married him while the second was still living, which Sherpa custom allowed, and outlived him, dying in 1992. The family did not stay still. His nephew Nawang Gombu was the youngest climbing Sherpa on the 1953 expedition, sixteen years old, and went on to stand on the summit in 1963 with Jim Whittaker — the first American to get there — and again in 1965 with Avtar Singh Cheema, the first Indian, becoming the first person in the world to climb Everest twice.",
+        "In January 1975, with the permission of the king of Bhutan, Tenzing was sirdar for the first party of American tourists ever allowed into that country, walking them from Paro past the Tiger's Nest, the monastery clinging to a cliff above the valley. The journey ended through Nepal and Sikkim, and he introduced the guests to the king of Sikkim, one of the last rulers of that Himalayan kingdom. In 1978 he founded his own company, Tenzing Norgay Adventures, to run trekking trips in the mountains. He had gone from carrying other men's loads to running the institution that trained the next generation of climbers for his own country, and it took him thirty years to get there."
+      ],
+      "media": {
+        "src": "assets/images/stories/tenzing-norgay/hmi-darjeeling.jpg",
+        "alt": "The Himalayan Mountaineering Institute in Darjeeling, India, a low colonial-era building in the Himalayan foothills",
+        "caption": "The Himalayan Mountaineering Institute, Darjeeling, founded in 1954. Tenzing Norgay was its first Director of Field Training and worked there for the rest of his life.",
+        "credit": "PP Yoonus · CC BY-SA 3.0"
+      }
+    },
+    {
+      "heading": "What is left of a summit",
+      "paragraphs": [
+        "He died on 9 May 1986 in Darjeeling, of a cerebral haemorrhage — a bleeding inside the skull. He was seventy-one. He was cremated at the Himalayan Mountaineering Institute, which was his favourite haunt, and the queue of people who came to pay their respects ran for more than a kilometre into the town. He had been at the top of the world for fifteen minutes and famous for fifty years, and he was still, after all of it, the man who came from the yak pastures on the other side of the range.",
+        "Since then his name has been attached to a great many things. His son Jamling Tenzing Norgay reached the summit himself in 1996, and later wrote a book that was unusually frank about who was paid to carry loads on Everest and who was buried there. In 1997 his grandson Tashi Tenzing summited, the first time three generations of one family had stood on top. In 2003, on the fiftieth anniversary of the ascent, India renamed its highest adventure award the Tenzing Norgay National Adventure Award. In 2008 the small mountain airport at Lukla, the gateway to Everest, became Tenzing-Hillary Airport. There is a Tenzing Peak in the Nepali Himalaya proposed in 2013, a minor planet named 6481 Tenzing in 1994, and a range of mountains on the far side of the solar system called Tenzing Montes, named in 2015. Time put him among the hundred most influential people of the twentieth century.",
+        "And yet the photograph taken at the summit is of one man, which is the part worth sitting with. The expedition that carried two men to the top was 362 porters and 20 Sherpa guides under a single sirdar, and thousands of Sherpas in the twentieth century carried the loads, set the camps, dug the ice and did the dying, for a fraction of the pay and almost none of the credit. It has been a long road was true of a whole people, not one individual. Tenzing Norgay knew it, which is why, when the world's newspapers spent the rest of his life asking which of the two men had stepped on the summit first, he gave them the answer and then stopped talking about it. He had been on Everest six times before that morning. He wanted the mountain, and he had it for a quarter of an hour."
+      ],
+      "media": {
+        "src": "assets/images/stories/tenzing-norgay/memorial-hmi.jpg",
+        "alt": "The resting place of Tenzing Norgay at the Himalayan Mountaineering Institute in Darjeeling",
+        "caption": "His resting place at the Himalayan Mountaineering Institute, Darjeeling, where he was cremated in May 1986.",
+        "credit": "PP Yoonus · CC BY-SA 3.0"
+      }
+    }
+  ],
+  "challenge": "A Tibetan-born herder's son, largely illiterate, taken on as a last-minute substitute porter in 1935 because two other men failed their medicals. For eighteen years he carried other men's loads up the Himalaya and was listed as staff, not as a climber — and when he did get to the top, the world's newspapers spent the next three decades asking which of two men had gone first.",
+  "journey": "Grew up in the yak pastures of the Khumbu, ran away twice, settled in the Sherpa community of Darjeeling at nineteen, and climbed as a porter on the 1935, 1936 and 1938 British attempts from the north. Through a private grief in the 1940s, an illegal crossing into Tibet in 1947, and a first sirdar's command in 1952 that carried him to 8,595 metres — a world record, and the highest any human being had been.",
+  "achievement": "As sirdar of the 1953 British Everest expedition, he climbed with Edmund Hillary from a tent at 8,500 metres and stood on the summit of Everest at 11:30 a.m. on 29 May 1953, the first confirmed ascent in history, and stayed about fifteen minutes.",
+  "impact": "He became the first Director of Field Training at the Himalayan Mountaineering Institute in Darjeeling, training Indian climbers rather than guiding foreign ones, and his working life ended up being the beginning of the institution that made Indian mountaineering possible. His name now sits on India's highest adventure award, on Lukla's airport, on a Nepali peak, on an asteroid and on a mountain range on Pluto.",
+  "lesson": "The summit photograph shows one man, but the expedition that carried him there was four hundred people, and his own people's contribution to the conquest of Everest has never been properly counted. He himself stopped claiming credit for the achievement, and asked a different question: who was carrying the loads.",
+  "sources": [
+    {
+      "title": "Tenzing Norgay | Biography & Facts",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Tenzing-Norgay",
+      "publishedDate": "",
+      "note": "Dates of birth uncertainty, Khumbu childhood, 1935 and 1947 episodes, 1952 world record, 1953 ascent, honours, Man of Everest."
+    },
+    {
+      "title": "Tenzing Norgay",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tenzing_Norgay",
+      "publishedDate": "",
+      "note": "Corroborated specifics: parents and 11th of 13 children; name change on Ngawang Tenzin Norbu's advice; 1938 Tiger Medal; Chitral and partition crossing; 1947 Denman attempt; 1952 record 8,595 m; 1953 assault timeline; George Medal and knighthood ineligibility; Padma Bhushan 1959; USSR honour 1963; death 9 May 1986; legacy names."
+    },
+    {
+      "title": "1953 British Mount Everest expedition",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1953_British_Mount_Everest_expedition",
+      "publishedDate": "",
+      "note": "Ninth attempt; Joint Himalayan Committee; John Hunt; 362 porters, 20 Sherpa guides, 10,000 lb of baggage; Bourdillon-Evans 26 May; James Morris's coded dispatch and its key; the Kathmandu banner."
+    },
+    {
+      "title": "Hillary and Tenzing reach summit of Everest",
+      "publisher": "NZ History, Manatū Taonga — Ministry for Culture and Heritage",
+      "url": "https://nzhistory.govt.nz/edmund-hillary-and-tensing-norgay-reach-summit-of-everest",
+      "publishedDate": "2024-07-26",
+      "note": "South-east ridge route; 29 May 1953; summit at 11:30 a.m.; knighthoods and the George Medal distinction; the coronation timing."
+    },
+    {
+      "title": "1953: Hillary and Tenzing conquer Everest",
+      "publisher": "BBC On This Day",
+      "url": "http://news.bbc.co.uk/onthisday/hi/dates/stories/may/29/newsid_2492000/2492683.stm",
+      "publishedDate": "",
+      "note": "Fifteen minutes on the summit; sweets and biscuits buried as an offering; search for Mallory and Irvine; George Lowe meeting them with soup; Hunt assuming failure; the 1952 record height of 28,215 ft."
+    },
+    {
+      "title": "The press battle to report Everest climb",
+      "publisher": "BBC News",
+      "url": "https://www.bbc.com/news/uk-wales-22531322",
+      "publishedDate": "2013-05-29",
+      "note": "Jan Morris's route out of the mountain and the plaintext meaning of her coded Times dispatch of 2 June 1953."
+    },
+    {
+      "title": "Tenzing Norgay, the Sherpa who climbed to the top of the world (tribute, 1986)",
+      "publisher": "John Hunt, The Guardian",
+      "url": "https://www.theguardian.com/world/2019/may/10/tribute-to-late-tenzing-norgay-everest-1986",
+      "publishedDate": "2019-05-10",
+      "note": "First-hand account by the expedition leader: choosing Tenzing for the summit attempt, the flags on the ice axes, his confidence in him, and the press pressure over his nationality in Kathmandu."
+    },
+    {
+      "title": "Tenzing Norgay: The Mountaineer Who Refused to be Categorized",
+      "publisher": "JSTOR Daily",
+      "url": "https://daily.jstor.org/tenzing-norgay-the-mountaineer-who-refused-to-be-categorized",
+      "publishedDate": "2023-07-17",
+      "note": "Peter H. Hansen's recorded interviews (his quoted remarks on being called Nepali and Indian), the contest between India, Nepal and Tibet over his nationality, and Jamling's account of his father's birthplace."
+    },
+    {
+      "title": "Hansen, Peter H., “Tenzing Norgay [Sherpa Tenzing] (1914–1986)”, Oxford Dictionary of National Biography",
+      "publisher": "Oxford University Press",
+      "url": "https://doi.org/10.1093/ref:odnb/50064",
+      "publishedDate": "2004",
+      "note": "1938 Tiger Medal; the 1953 honours decision, including that Norgay was not eligible for a knighthood as a non-British subject and that the widely repeated claim Nehru blocked one is unsupported."
+    },
+    {
+      "title": "The Family of Sherpa Tenzing Norgay GM (HJ 56/3)",
+      "publisher": "The Himalayan Journal, Himalayan Club",
+      "url": "https://www.himalayanclub.org/hj/56/3/the-family-of-sherpa-tenzing-norgay-gm",
+      "publishedDate": "",
+      "note": "Family record: his mother reported still alive in 1955, the size of the sibling generation, and the Nawang Gombu relationship."
+    },
+    {
+      "title": "Nawang Gombu obituary",
+      "publisher": "Ed Douglas, The Guardian",
+      "url": "https://www.theguardian.com/world/2011/may/24/nawang-gombu-obituary",
+      "publishedDate": "2011-05-24",
+      "note": "Norgay's nephew Nawang Gombu: 1963 summit with Jim Whittaker and 1965 with Cheema, the first man to summit Everest twice; Nehru's ambition for Indians on the summit."
+    },
+    {
+      "title": "Nawang Gombu passes away",
+      "publisher": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/other-states/Nawang-Gombu-passes-away/article14695628.ece",
+      "publishedDate": "2011-04-24",
+      "note": "Gombu's age and role as the youngest climbing Sherpa on the 1953 expedition, and his move from altitude porter to climbing member."
+    },
+    {
+      "title": "Tenzing Norgay National Adventure Award",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tenzing_Norgay_National_Adventure_Award",
+      "publishedDate": "",
+      "note": "Award instituted 1993–94; renamed in his honour in 2003 after Jamling Norgay raised the question of recognition."
+    },
+    {
+      "title": "Tenzing, Tashi 1965- | Encyclopedia.com (Contemporary Authors)",
+      "publisher": "Gale, Encyclopedia.com",
+      "url": "https://www.encyclopedia.com/arts/educational-magazines/tenzing-tashi-1965",
+      "publishedDate": "",
+      "note": "Tashi Tenzing's 1997 summit — the first time three generations of one family reached the top; Jamling's 1996 summit; seven children, three marriages."
+    },
+    {
+      "title": "Tenzing: Hero of Everest — book review",
+      "publisher": "Publishers Weekly",
+      "url": "https://www.publishersweekly.com/9780792269830",
+      "publishedDate": "",
+      "note": "Ed Douglas's 2003 biography: his 1935 selection after the medical failures, and the description of him as a role model for ordinary people."
+    },
+    {
+      "title": "Tenzing Norgay",
+      "publisher": "EBSCO Research Starters",
+      "url": "https://www.ebsco.com/research-starters/history/tenzing-norgay",
+      "publishedDate": "",
+      "note": "His arrival in Darjeeling hoping to join the 1933 expedition; speaking seven languages; the 1978 founding of his trekking company; the length of his funeral procession."
+    },
+    {
+      "title": "Man of Everest: The Autobiography of Tenzing",
+      "publisher": "Internet Archive — Tenzing Norgay with James Ramsey Ullman, George G. Harrap",
+      "url": "https://archive.org/details/manofeverest0000jame",
+      "publishedDate": "1955",
+      "note": "Primary source, dictated: Hillary stepping on top first; the mountain coolie and coat of medals passage; the offered photograph Hillary declined."
+    },
+    {
+      "title": "Commons — Sherpa Tenzing Norgay in Stockholm (hero portrait)",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Tenzing_Norgay_(cropped).jpg",
+      "publishedDate": "1967",
+      "note": "Hero portrait; SAS Scandinavian Airlines; public domain."
+    },
+    {
+      "title": "Commons — Mount Everest from Kala Patthar",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Everest_kalapatthar.jpg",
+      "publishedDate": "",
+      "note": "Chapter 1 image; Pavel Novak; CC BY-SA 2.5."
+    },
+    {
+      "title": "Commons — Edmund Hillary and Sherpa Tenzing Norgay, 1953",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Edmund_Hillary_%26_Sherpa_Tenzing.jpg",
+      "publishedDate": "1953",
+      "note": "Chapter 4 image; print of a photograph held by the Horowhenua Historical Society, New Zealand; CC BY-SA 3.0."
+    },
+    {
+      "title": "Commons — Himalayan Mountaineering Institute, Darjeeling",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Himalayan_Mountaineering_Institute,_Darjeeling_in_2011.jpg",
+      "publishedDate": "2011",
+      "note": "Chapter 6 image; PP Yoonus; CC BY-SA 3.0."
+    },
+    {
+      "title": "Commons — Tenzing Norgay memorial, Darjeeling",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Tenzing_Norgay_memorial.jpg",
+      "publishedDate": "",
+      "note": "Chapter 7 image; resting place at the Himalayan Mountaineering Institute; PP Yoonus; CC BY-SA 3.0."
+    }
+  ],
+  "tags": [
+    "tenzing-norgay",
+    "mount-everest",
+    "first-ascent",
+    "sherpa",
+    "himalaya",
+    "nepal",
+    "tibet",
+    "india",
+    "porters",
+    "1953-british-everest-expedition",
+    "darjeeling",
+    "uncredited-heroes"
+  ],
+  "verified": false,
+  "verifiedAt": ""
+}
