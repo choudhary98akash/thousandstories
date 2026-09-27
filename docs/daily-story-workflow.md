@@ -64,8 +64,53 @@ PERSON: <full name>
 EXTRA (optional): <anything specifically worth covering>
 ```
 
+## Step 0 — choosing the person (when the user asks for a name round)
+
+Pitch 6–8 names at once, never one at a time. Every pitch must clear four gates
+*before* it is offered.
+
+**1. Archetype filter — the default target is self-made ascent.** Prioritise
+people who started with nothing and reached a national or global peak on their
+own work:
+- **Rags to riches** — a materially poor start, self-made, no family capital,
+  no elite education, no patron. This is the default preference.
+- **The overlooked striver** — first, only, or among the very first from their
+  group, region, caste, community, or generation to do it.
+- **The person the record skipped** — credited only to a partner, an employer,
+  an institution, or a patron; or dropped from the official account entirely.
+
+The one question a candidate must be able to answer in a single line: *how did
+someone with nothing end up with everything?* A pitch without that is not ready.
+
+**Standing user preference (set 2026-09-26).** Default the round to
+**India** and to the rags-to-riches archetype unless the user says otherwise.
+Where the archetype and the coverage filter disagree, say so in one line and
+let the user choose — do not silently substitute a different region.
+
+**2. Coverage filter — close the zero cells.** Read the coverage gaps in
+PROJECT_STATUS.md and weight the round toward empty categories and regions (as
+of 2026-09-26: Europe 0/15, Medicine 0/15, Environment 0/15, East Asia 0/15,
+Africa 2/15, Technology 1/15). The archetype never overrides a zero cell — a
+candidate that is both self-made *and* from an uncovered region goes first.
+Aims and near-misses from the user are recorded; if a suggestion round is
+declined twice, re-pitch it later rather than dropping it.
+
+**3. Image pre-check — never pitch an unlicensable name.** For each candidate
+before offering it: list Commons files (`list=search srnamespace=6`, or
+`list=categorymembers cmtype=file` for a full sweep), then batch-verify licence
++ author in ONE call (`prop=imageinfo&iiprop=extmetadata`). Reject the name if
+it does not have ≥3 individually verified PD / CC BY / CC BY-SA files. Put the
+licence and author per file in the pitch so the check is never repeated during
+writing.
+
+**4. Truth pre-check.** Reject the name if the famous version contains a claim
+that fails verification (misattributed firsts, invented quotes, fabricated
+episodes, disputes presented as settled). Log every rejected fact in the session
+memory file so it is never resurrected.
+
 ## Pipeline (runs each day, per story)
-1. Read the hook and confirm the person.
+1. Read the hook and confirm the person. If the user asked for a name round
+   instead of giving a name, run Step 0 first and wait for the pick.
 2. Research: dates, places, family, education, hardships, works, legacy — web
    search + archives. Never invent.
 3. Write the story into `src/assets/data/stories/<slug>.json` (one file per

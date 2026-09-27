@@ -442,5 +442,42 @@
       "uncredited-heroes"
     ],
     "verified": false
+  },
+  {
+    "id": 16,
+    "slug": "savitribai-phule",
+    "personName": "Savitribai Phule",
+    "title": "The Woman Who Taught Six Girls",
+    "shortDescription": "A child bride of nine who could not read, married in 1840, she qualified as a teacher at sixteen, opened India's first girls' school on New Year's Day 1848 with six pupils — and was pelted with stones and dung on the way. Eighteen schools, a well dug in her own yard, a refuge where widows could bring a baby and leave it, and a pyre she lit herself because others said the last rites were not hers to perform.",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "category": [
+      "Education",
+      "Social Change",
+      "Human Rights",
+      "History",
+      "Unsung Heroes"
+    ],
+    "birthYear": 1831,
+    "deathYear": 1897,
+    "storyDate": "1848",
+    "heroImage": "assets/images/stories/savitribai-phule/portrait.jpg",
+    "tags": [
+      "savitribai-phule",
+      "jyotirao-phule",
+      "first-girls-school",
+      "untouchability",
+      "caste",
+      "widow-remarriage",
+      "womens-education",
+      "marathi",
+      "bombay-presidency",
+      "1848",
+      "satyashodhak-samaj",
+      "fatima-sheikh",
+      "uncredited-heroes"
+    ],
+    "verified": false
   }
 ]
