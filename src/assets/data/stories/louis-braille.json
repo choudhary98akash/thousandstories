@@ -1,0 +1,235 @@
+{
+  "id": 17,
+  "slug": "louis-braille",
+  "slugKey": "stories/louis-braille",
+  "title": "The Boy Who Cut the Alphabet in Half",
+  "personName": "Louis Braille",
+  "person": {
+    "name": "Louis Braille",
+    "gender": "male",
+    "bornLabel": "1809–1852"
+  },
+  "shortDescription": "The son of a harness-maker in a village of six hundred, blinded in his father's workshop at three, who took a twelve-dot raised-point code apart, cut it in half, and rebuilt it into an alphabet small enough for a fingertip — then spent twenty years being told by his own school that he could not read or write.",
+  "country": "France",
+  "state": "Île-de-France",
+  "city": "Coupvray",
+  "category": [
+    "Disability & Achievement",
+    "Education",
+    "Science",
+    "Resilience"
+  ],
+  "birthYear": 1809,
+  "deathYear": 1852,
+  "storyDate": "1852",
+  "heroImage": "assets/images/stories/louis-braille/portrait.jpg",
+  "introduction": "At the end of 1829, the reviewing board of the Royal Institution for Blind Youth in Paris wrote four words about one of its own students: he can neither read nor write. He was twenty. Six years earlier he had taken a twelve-dot raised-point code apart, cut it in half, and rebuilt it into an alphabet small enough for a fingertip — the alphabet now embossed on lift buttons, medicine labels and ticket machines. Louis Braille was the son of a harness-maker in Coupvray, a village of about six hundred people east of Paris. He was completely blind by five. He died at forty-three, two days after his birthday, and the newspapers printed nothing at all.",
+  "chapters": [
+    {
+      "heading": "The harness workshop",
+      "paragraphs": [
+        "Start with the workshop, because the workshop is where the story starts. Coupvray in 1809 was a farming village on the plain east of Paris with no reason at all to appear in a history book. Its leather trade ran father to son: Louis's grandfather Simon was a master harness-maker, as his grandfather before him had been in the seventeenth century. His father, Simon-René, made harness and saddles and grew grapes. Louis was the youngest of four children, both parents were literate, and this was a household that could not afford much and could not afford not to teach.",
+        "In 1812, when Louis was three, he was at his father's bench and put a sharp tool into his right eye. What the tool was exactly is not settled, and the museum in his birthplace contradicts itself — one page says a serpette, a grafting knife; another says an alêne, the stitching tool a harness-maker uses. The eye was badly injured and then infected, and about two years later the left eye went too, through sympathetic ophthalmia, an inflammation in which an injured eye can drag down the healthy one beside it. By about five he was completely blind. English accounts compress this into the sentence that he blinded himself at three. He did not. He was three when it happened and five when the light was gone.",
+        "What his father did next matters more than the accident. Simon-René went to work out how to put the alphabet into his son's hands. He made him a board studded with nails, the heads raised to form letters, so the boy could run his fingers over the shape of a word. Then lessons came from the village priest, and three years followed at the village school, where the department's own archive describes Louis as being of above-average intelligence. He could not read the blackboard, but he sat with the older children and learned by listening, and he learned faster than any of them. In 1819, at ten years old, he was sent to Paris.",
+        "The place he was sent to was the Royal Institution for Blind Youth, founded in 1784 by Valentin Haüy, a Frenchman shown a charity-school technique of mounting printed letters on thick card so a blind child could feel them. But reading at Haüy's school was a one-way street. A pupil could read. He could not write, for the ordinary reason that the letters were sewn onto the page rather than raised from it, so you could not form one yourself. A blind child could learn the letters of other people's words and had no way to make his own. That gap is the whole problem this story is about."
+      ],
+      "media": {
+        "src": "assets/images/stories/louis-braille/birthplace.jpg",
+        "alt": "The stone house on the street now called rue Louis Braille in Coupvray, France, where Louis Braille was born in 1809",
+        "caption": "The house where Louis Braille was born, on the road now named rue Louis Braille in Coupvray. The family left it in the 1880s; it became a museum in 1956, run jointly by the village and the French federation for blind and partially sighted people.",
+        "credit": "Anubis75 · CC BY-SA 4.0"
+      }
+    },
+    {
+      "heading": "Sixty-eight rue Saint-Victor",
+      "paragraphs": [
+        "Getting there took two years of petitioning. His father applied in writing again and again, with the parish priest's help and the intercession of the marquis d'Orvilliers, a peer of France, and the department of Seine-et-Marne agreed to pay. Louis was admitted on 15 February 1819. The school stood at 68 rue Saint-Victor, at the foot of Mont Sainte-Geneviève, in a former seminary beside the canal de la Bièvre — crowded, damp and unhealthy by every account that survives, which matters later. Its director was a physician named Sébastien Guillié and its method was Haüy's raised print; its purpose was less education than useful trades. At fourteen, in 1823, Braille was made foreman of the hosiery and lace workshop.",
+        "Then, in 1821, the school was shown a writing system. Guillié had refused it. His successor, Alexandre-René Pignier, accepted it and put it in front of the pupils. The system came from a French artillery officer named Charles Barbier de la Serre, who resigned his commission in 1792 and sailed to America, and who never served under Napoleon — which matters, because a great deal was later invented about him. What he actually did was publish, in 1815, a proposal for writing with raised points, and one of the uses he suggested in that same book was for blind readers. His system used twelve dot positions in two columns of six, worked with a heavy punch on thick paper. It was hard, slow and enormous, with no grammar, no punctuation, no figures and no music in it. It also rested on a principle that would matter enormously: a phonetic script, spelling words as they sound rather than as they are written.",
+        "The story that comes next is the most contested part of Braille's life, so it is worth being careful. For seventy years it was told that Barbier invented the twelve dots as a night-time military code; that Napoleon had demanded it; that Barbier had been a prisoner on the island of Elba; and that Barbier, jealous of a blind boy, quarrelled with him and refused to let him publish. Researchers have traced each of these to its source and found that none survives. The military origin appears to have been invented in 1951, by the historian Pierre Henri and then by Jean Roblin, and it simply took hold. The Elba imprisonment has no source at all. The quarrel rests on a single sentence in a memorial notice written in 1859, and the correspondence between the two men, kept in the Paris school archive, is warm: in 1833 Barbier wrote of the author of the six-dot system that he had already earned his esteem by working for the wellbeing of his companions in misfortune. The one documented fact is the awkward one. In 1821 the boy had already improved Barbier's system, and Barbier had not responded.",
+        "What the boy then did was the single most useful act of the century, and it was arithmetic. A fingertip cannot span six dots stacked vertically. So he cut the cell in half: two columns of three, six positions in all. Each position is either raised or not raised, which gives two to the power of six, or sixty-four possible symbols — more than enough for twenty-six letters, ten digits and the marks of punctuation. He kept Barbier's board and changed one thing: Barbier's had six hollowed lines across it, and his had three. By 1825, when he was sixteen, the system was complete. That year the pupils held a competition and his entry won. The director appears not to have noticed."
+      ]
+    },
+    {
+      "heading": "A book that never says I",
+      "paragraphs": [
+        "The system was made for music before it was made for anything else, and that is the detail most retellings leave out. The pupils had spent years trying to read scores printed with raised Latin letters, which was slow and clumsy, and the first thing they did with Barbier's dots was rebuild their music. Only afterwards did they ask whether the same dots could carry language. And here the sixteen-year-old did something that turned against him for the rest of his life: he rejected Barbier's principle. A phonetic script would have been easier to learn, but it would respect none of the rules of French, and a blind person reading it would be reading something the rest of the world did not write. He wanted the ordinary alphabet, and he wanted the dots to carry it.",
+        "He spent four years finishing it. In 1827 he had a complete corrected manuscript with instructions, and used it to transcribe a grammar textbook for the pupils. Then, in 1829, at twenty, he published a small book: Procédé pour écrire les paroles, la musique et le plain-chant au moyen de points. A procedure for writing words, music and plain-chant by means of dots. The title page called him L. Braille, Répéteur à l'Institution Royale des Jeunes Aveugles — repetiteur, the lowest teaching grade the school's own regulations recognised, and spelled slightly wrong on the page. The book is written entirely in the first person plural. It says we and our, never I and my. It does not say anywhere that its author is blind. And in the preface he credits the invention: the ease with which Barbier's method could be learned would have been reason enough to publish nothing at all, he writes, if he had not needed a system whose signs took up less room, numbered enough to cover every character in ordinary writing, and applicable to music too. To the honour of the man who invented it, he adds, it is to his method that we owe the first idea of our own. That sentence is the reason his name is on the alphabet and Barbier's is not.",
+        "And then the first edition failed, in the most ordinary way a thing can fail. It used raised dashes alongside the dots for punctuation, mathematics and music. The pupils found the dashes impossible to tell from pairs of dots, and gave up on them. It took Braille eight more years to get rid of them, and when he did, in a second edition in 1837, what emerged was French braille as it is still written today."
+      ],
+      "media": {
+        "src": "assets/images/stories/louis-braille/code-1829.jpg",
+        "alt": "The table of symbols from the 1829 book in which Louis Braille first published his writing system",
+        "caption": "The table from the 1829 Procédé — the first published statement of the system, from a book whose title page calls its author only a repetiteur, and whose text never once says that its author cannot see. The first edition mixed raised dashes in with the dots; the pupils could not tell the dashes from pairs of dots, and the dashes had to go.",
+        "credit": "Louis Braille · Public domain"
+      }
+    },
+    {
+      "heading": "Neither read nor write",
+      "paragraphs": [
+        "The most revealing document in Braille's life is not a book. It is a school record. At the end of 1829 — the same year his method appeared — the examining board of the Royal Institution recorded its assessment in four words: ne sait ni lire, ni écrire. He can neither read, nor write. He was twenty years old. But the sentence became, in the telling, the shape of the whole story — that the blind boy came up with the alphabet and the sighted establishment threw it out. That part is true, and it took twenty years. After 1829, Pignier asked the ministry again and again to recognise the method, and the answer was always the same non-answer. Braille wrote to the Ministry of the Interior himself. There was no reply for years. When the ministry answered at last, in 1840, it answered a request Pignier had made rather than one Braille had — and it said only that the work struck the minister as remarkable and that he thought M. Braille ought to be encouraged. It still did not make the method official.",
+        "Meanwhile Braille was building a career inside the institution and being throttled by it. In 1833, prompted by a visit from the minister Adolphe Thiers, the school granted him the title of full professor, at a salary of 300 francs. In 1835, aged twenty-six, he was diagnosed with tuberculosis. In 1836 he read passages from John Milton aloud in public from his braille transcription; his sighted listeners assumed he had simply memorised the text. Pignier had sent copies of the 1837 edition to correspondents in Philadelphia, Glasgow, Madrid, Copenhagen, Naples and Milan — the method travelled when the man could not. And one of them, Henry Hayter, wrote to complain that braille had no w. Inserting one in the middle would have meant renumbering every letter after it, in every reader's hand. So he added the w at the end of the alphabet, out of order, where it has stayed ever since.",
+        "Then, in 1840, came the blow that finished the argument. Pignier was dismissed. Dufau, the assistant director, worked with a colleague and the accountant to have him removed, on the charge that Pignier corrupts minds by his history teaching. When Pignier left, the man who had put braille into a Paris classroom lost his last defender inside the school. The new director believed a script that sighted people could not read would isolate blind people from the rest of the world, and built a device to go on teaching the old embossed letters. The result was in practice a ban: some pupils kept practising braille in secret, and the method survived on their own initiative. The institution did not accept it until around 1850 — and by the standard scholarly reckoning it was 1854, two years after Braille was dead. In 1850 Dufau asked for the Légion d'honneur, the highest decoration France could give, to be awarded to Braille. It was refused.",
+        "He never married; no wife appears anywhere in his life or in his will. He was ill for the last fifteen years of his life: the damp Paris school, the crowded rooms, and a constitution already marked fragile when he was baptised at eight days old. The tuberculosis diagnosed in 1835 worsened. In 1844 he had a severe attack and was ordered to rest. In 1850 he was pushed out of the school altogether, though Dufau kept him on to give the occasional piano lesson. In the division of the family property in 1843 he received a house at Coupvray, and he spent his last months there."
+      ]
+    },
+    {
+      "heading": "Two days after his birthday",
+      "paragraphs": [
+        "Around 4 or 5 December 1851 he had a severe pulmonary haemorrhage and had to stop working. Three weeks later, on 26 December, he dictated his will, at Coupvray before the notary Jean-Baptiste Thiac. The beneficiaries tell you what his life had been. A life annuity to his mother, who was still alive. His niece and god-daughter Louise-Céline Marniesse. His nephew Louis-Théodore Carron. A piece of land to his brother Louis-Simon. And to Coltat, his friend and colleague and chief heir, everything he owned inside the institution. Then to the infirmary boy who was his guide, the nightwatchman and his room-servant, small bequests. He was very pious: he left sixty francs to the priest of Coupvray to have Masses said. And he forgave every penny lent to him, asking that none of it be returned. Afterwards a box was found in his rooms with an instruction on the lid: to be burned without opening. Out of curiosity it was opened. It contained acknowledgements of debts. His wishes were respected and the papers burned.",
+        "He died on 6 January 1852, at 7:30 in the evening, aged forty-three, two days after his birthday. The agony had begun at about four in the afternoon. Accounts differ over exactly where; the institution's own infirmary is the better-attested. Those with him were his brother Louis-Simon, who walked from Coupvray alone because their aged mother could not make the journey; the Lazarist brothers, for whom he had played the organ for years, and who stayed at his bedside helping him prepare to die; and the institution's chaplain. The last morning was the Feast of the Epiphany, and he asked for the old symbolic meanings to be repeated to him — gold, incense and myrrh — and received communion before he died. To his family he said, in the account his colleague Coltat recorded: you know that I don't deal in that coin, there's no need to hide the truth.",
+        "Services were held at the institution on 8 January. On the 9th the body went out to Coupvray, through Neuilly, Nogent, Chelles and Lagny, and lay a few hours in the old family house. On 10 January at noon it was buried in the village cemetery beside his father and his sister Marie-Céline. The mayor's first assistant opened the coffin in front of the whole family to confirm who was in it, four men carried it, and Abbé Baudin said the prayer. And then there is the single most telling line in the whole story. Coltat looked for an obituary. There was none. No newspaper of 1852 mentioned Louis Braille, not even in the columns where deaths were listed. The man whose alphabet is now read, in some form, by millions of people every day was not news. A year later the school put a marble bust of him in its entrance hall, on its own initiative, because nobody else had."
+      ],
+      "media": {
+        "src": "assets/images/stories/louis-braille/will-1851.jpg",
+        "alt": "First page of the will Louis Braille dictated on 26 December 1851, before the notary Jean-Baptiste Thiac",
+        "caption": "The first page of the will of 26 December 1851, dictated at Coupvray eleven days before he died. He left money to his mother, his niece, his nephew and a piece of land to his brother; everything he owned at the school went to his colleague Coltat; and he forgave every debt owed to him and asked that none of it be paid back.",
+        "credit": "Archives nationales (France) · Public domain"
+      }
+    },
+    {
+      "heading": "A hundred years, too late",
+      "paragraphs": [
+        "Coupvray would not quite let him go either. In 1885 the village council voted to make the family plot inalienable and paid for the tombstone: a marble slab and an iron cross with a weeping woman's head at its base. When the French government decided, on 22 June 1952, to move his remains into the Panthéon in Paris — the burial place reserved for the great and famous of France, on the hundredth anniversary of his death — the people of Coupvray objected to losing the last of him. The compromise they settled on is the strangest fact in his afterlife: his hands were sealed in a casket and reinterred on the empty family tomb, where they remain. He is still there in two places at once, a hundred years apart, with nothing left in the box but what he made things with.",
+        "The alphabet had a long argument of its own. For most of the nineteenth century different countries used different dot systems, and the English-speaking world was still teaching New York Point when the American Printing House adopted braille in the 1880s; the standoff had a name, the War of the Dots, and it lasted into the 1930s. It was settled by consensus rather than decree. A congress in Paris in 1878 voted by a strong majority for the original system; a congress of teachers in Berlin in 1879 preferred it over all others; an international congress at Cologne in 1888 standardised braille music notation across France, England, Germany and Denmark; a congress in Paris in 1929 fixed the notation again; and the London Type Conference of 1932 gave the English-speaking world the code it uses now, and ended the war. Braille was in his grave before the 1878 vote.",
+        "One more small thing, because it shows how strange the later history is. The word braille did not exist in ordinary use. For years after his death the method was called the procédé en points saillants de L. Braille — Braille's raised-point process — and in scholarly French, anaglyptographie. The word only entered the dictionary in the 1927 edition, seventy-five years after he died. And in December 2018 the United Nations General Assembly resolved that his birthday, 4 January, would be marked as World Braille Day, observed for the first time in January 2019, a hundred and forty-three years after the 1829 book."
+      ],
+      "media": {
+        "src": "assets/images/stories/louis-braille/pantheon.jpg",
+        "alt": "The tomb of Louis Braille in the Panthéon in Paris, marked among the great and famous of France",
+        "caption": "The tomb of Louis Braille in the Panthéon, Paris, where his remains were brought on 22 June 1952, a century after his death and a hundred years after the school at last agreed to use his system. He is the only person from Seine-et-Marne to be buried there. His hands stayed behind in Coupvray.",
+        "credit": "Lucas Werkmeister · CC BY 4.0"
+      }
+    },
+    {
+      "heading": "What the hand gave back",
+      "paragraphs": [
+        "Braille died believing his work was a footnote, and the last thing he did in writing was to tell his creditors to keep their money. He had asked, all his life, for a system that would let blind people use the ordinary alphabet rather than a private one — and had been told by his own school that he could not read or write. What he actually delivered was the opposite of a footnote: a script in which sixty-four combinations of six raised dots can spell any language the user can spell, and which needs no ink, no light and no battery. That is why it is still on ticket machines and medicine labels in places as different from each other as Paris and Bangalore. The honest part of the ending is that the alphabet in use today is not exactly the one he wrote. The French code was fixed in the early 1850s; the international standard came out of congresses he never attended; and a good deal of what people call braille is really a system of abbreviations, so that the same six dots can carry whole phrases at speed.",
+        "So the thing to take from him is not the legend that a blind boy was unstoppable. It is smaller and harder. He had one idea, it was not his own to begin with, he was told for a decade that it was worthless, the one man backing it was destroyed on a charge of corrupting the young, the medal he was refused was the one his invention deserved, and he died at forty-three with his own school not yet using what he had given them. He kept the ledger straight anyway. He credited Barbier in his own preface. He forgave the debts. He was not angry in the record that survives, and he was not thanked either. The alphabet is the part of him that stayed behind to do the work."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Braille, Procédé pour écrire les paroles, la musique et le plain-chant au moyen de points (1829), first publication of the code",
+      "publisher": "Musée Louis Braille / archive.org (facsimile)",
+      "url": "https://archive.org/details/procdpourcrirele00loui",
+      "publishedDate": "1829",
+      "note": "Primary source. Title page 'L. Braille, Répéteur'; the preface's credit to Barbier ('c'est à son procédé que nous devons la première idée de nôtre'); the description of the writing board as having three concave lines where Barbier's had six; the use of dashes alongside dots; and his statement that he did not explain how the first series of signs was established."
+    },
+    {
+      "title": "Jean Roblin, Louis Braille: sa vie et son œuvre (1952), complete text",
+      "publisher": "Institut National des Jeunes Aveugles, via Duxbury Systems",
+      "url": "https://www.duxburysystems.org/downloads/library/history/readingfingersli00jean_1.pdf",
+      "publishedDate": "1952",
+      "note": "Principal narrative source: admission 15 Feb 1819; the ministry correspondence and the 1840 non-committal answer; Pignier's dismissal in 1840; the effective ban on braille afterwards; the will of 26 Dec 1851 and its beneficiaries; the death on 6 Jan 1852 at 7.30 p.m.; the funeral of 10 Jan 1852; and the absence of any obituary in the newspapers of 1852. Compiled for the centenary of his death. Note that Roblin is also one of the two authors responsible for the 1951 military-origin myth debunked above, so his narrative is used for dates and events rather than for interpretation."
+    },
+    {
+      "title": "Noëlle Roy, Louis Braille, un homme pour une œuvre (AVH)",
+      "publisher": "Association Valentin Haüy",
+      "url": "https://www.avh.asso.fr/sites/default/files/files_imported/2016_louis_braille_et_le_braille.pdf",
+      "publishedDate": "2016",
+      "note": "Foreman of the hosiery and lace workshop at fourteen in 1823; promotion to professeur in 1833 at 300 francs; the organist post at Saint-Nicolas-des-Champs from 1834; diagnosis of tuberculosis in 1835; the move in 1843; retirement in 1850 and the refusal of the Légion d'honneur; the transfer to the Panthéon in June 1952 and the hands left at Coupvray."
+    },
+    {
+      "title": "Philippa Campsie, Charles Barbier: a language innovator in the First Empire (Fondation Napoléon)",
+      "publisher": "Fondation Napoléon / The Napoleon Series",
+      "url": "https://www.napoleon.org/en/history-of-the-two-empires/articles/charles-barbier-a-language-innovator-in-the-first-empire/",
+      "publishedDate": "",
+      "note": "Barbier resigned his commission in May 1792 and sailed to America, returning in 1808; he never served under Napoleon. His 1815 Essai already proposed raised-point writing for blind readers. Traces the military-night-code origin to Pierre Henri (1951) and Jean Roblin (1951), who built a myth that prevailed for seventy years, and documents the warm 1833 correspondence between Barbier and Braille, including Barbier's praise for the author of the six-dot system."
+    },
+    {
+      "title": "Apprentissage et usage du braille — Fiche d'inventaire du patrimoine culturel immatériel",
+      "publisher": "Ministère de la Culture (France)",
+      "url": "https://www.culture.gouv.fr/Media/Thematiques/Patrimoine-culturel-immatiel/Files/Fiches-inventaire-du-PCI/l-apprentissage-et-l-usage-du-braille",
+      "publishedDate": "",
+      "note": "Barbier's twelve-dot system introduced at the institution in 1821 'à titre secondaire et accessoire'; the cell reduced to 2x3; the 1837 second edition; the Pater printed in six languages; and the generalisation of braille in France, given here as 1852."
+    },
+    {
+      "title": "Louis Braille — notice of the birth house (POP record M0373)",
+      "publisher": "Ministère de la Culture, Base Mérimée / POP",
+      "url": "https://pop.culture.gouv.fr/notice/museo/M0373",
+      "publishedDate": "",
+      "note": "The birthplace at chemin des Buttes, now rue Louis Braille, Coupvray: a winegrower-and-harness-maker's house; left by the family in the 1880s; acquired by the association Les amis de Louis Braille in 1952; opened 1953; official municipal museum 1956; listed in the inventaire supplémentaire des monuments historiques. Also the Leroux monument of 1887 in Coupvray's parc de l'Harmonie, raised by international subscription."
+    },
+    {
+      "title": "Musée Louis Braille — biography and chronological dossier",
+      "publisher": "Musée Louis Braille, Coupvray",
+      "url": "https://www.museelouisbraille.com/fr/biographie",
+      "publishedDate": "",
+      "note": "Born 4 January 1809, the youngest of four children; the 1812 accident in his father's workshop; total blindness by about five; the nail-head alphabet board; lessons from the priest; three years at the village school; February 1819 to Paris. Note that the museum's own pages disagree on the tool (serpette vs alêne) and that its biography page gives the Panthéon transfer as '21 June 1852', a dropped century digit contradicted by its own Panthéon page."
+    },
+    {
+      "title": "Life and legacy of Louis Braille — the final years (American Foundation for the Blind)",
+      "publisher": "American Foundation for the Blind",
+      "url": "https://afb.org/about-afb/history/online-museums/life-and-legacy-louis-braille/braille-recognized/final-years",
+      "publishedDate": "",
+      "note": "Retirement in 1850 and the refused Légion d'honneur; death on 6 January 1852 aged 43; the box marked 'to be burned without opening'; the hands sealed in a casket and reinterred at Coupvray; the War of the Dots; and the London Type Conference of 1932."
+    },
+    {
+      "title": "A/RES/73/161 — World Braille Day",
+      "publisher": "United Nations General Assembly",
+      "url": "https://docs.un.org/en/A/RES/73/161",
+      "publishedDate": "2018-12-17",
+      "note": "Resolution adopted 17 December 2018 designating 4 January, Louis Braille's birthday, as World Braille Day, first observed in 2019. The widely repeated 1969 origin date for Braille Day is not supported by any UN or institutional source."
+    },
+    {
+      "title": "International Congress on Braille Music Notation, Paris, 22-29 April 1929 — proceedings",
+      "publisher": "American Braille Press, via Duxbury Systems",
+      "url": "https://www.duxburysystems.org/downloads/library/history/music_1929.pdf",
+      "publishedDate": "1929",
+      "note": "The 1929 ratification of braille music notation in France (30 May), Great Britain (7 June), Italy (20 July) and Germany (12 August), and the record of the competing methods of the era — 'old style, new style, bar-by-bar, bar-over-bar' — which is the real context for the later disputes over la barre."
+    },
+    {
+      "title": "Archives nationales — testament de Louis Braille, 26 décembre 1851, notaire Jean-Baptiste Thiac",
+      "publisher": "Archives nationales (France) / Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Testament_de_Louis_Braille_26_d%C3%A9cembre_1851-_Archives_nationales_-_MC-ET-XCVII-915-_page_1.jpg",
+      "publishedDate": "1851-12-26",
+      "note": "First page of the will, cited in the story. Catalogued as MC-ET-XCVII-915, though notarial acts for Coupvray would normally be expected in the departmental archive of Seine-et-Marne, so the shelfmark is given as recorded rather than as confirmed."
+    },
+    {
+      "title": "Commons — Bust of Louis Braille by Étienne Leroux, photographed by Agence Rol",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Louis_Braille_by_%C3%89tienne_Leroux.jpg",
+      "publishedDate": "1909",
+      "note": "Hero image. A 1909 photograph of a sculpted bust by Étienne Leroux (1836-1906) — NOT a photograph of Louis Braille, who died in 1852. No photograph of him exists, and the story's caption says so."
+    },
+    {
+      "title": "Commons — Maison natale de Louis Braille, Coupvray",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Maison_natale_de_Louis_Braille_1.jpg",
+      "publishedDate": "2019-09-01",
+      "note": "Chapter 1 image; Anubis75; CC BY-SA 4.0."
+    },
+    {
+      "title": "Commons — the braille script as first published in 1829",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:1829_braille.jpg",
+      "publishedDate": "1829",
+      "note": "Chapter 3 image; the symbol table from the 1829 Procédé; public domain."
+    },
+    {
+      "title": "Commons — Tomb of Louis Braille in the Panthéon",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Tomb_of_Louis_Braille_in_Panth%C3%A9on.jpg",
+      "publishedDate": "2019-02-16",
+      "note": "Chapter 6 image; Lucas Werkmeister; CC BY 4.0."
+    }
+  ],
+  "tags": [
+    "louis-braille",
+    "braille",
+    "coupvray",
+    "institut-national-des-jeuves-aveugles",
+    "charles-barbier-de-la-serre",
+    "alexandre-rene-pignier",
+    "disability",
+    "blindness",
+    "accessibility",
+    "france",
+    "paris",
+    "1829",
+    "rejected-by-his-own-institution"
+  ],
+  "verified": false,
+  "verifiedAt": ""
+}

@@ -479,5 +479,41 @@
       "uncredited-heroes"
     ],
     "verified": false
+  },
+  {
+    "id": 17,
+    "slug": "louis-braille",
+    "personName": "Louis Braille",
+    "title": "The Boy Who Cut the Alphabet in Half",
+    "shortDescription": "The son of a harness-maker in a village of six hundred, blinded in his father's workshop at three, who took a twelve-dot raised-point code apart, cut it in half, and rebuilt it into an alphabet small enough for a fingertip — then spent twenty years being told by his own school that he could not read or write.",
+    "country": "France",
+    "state": "Île-de-France",
+    "city": "Coupvray",
+    "category": [
+      "Disability & Achievement",
+      "Education",
+      "Science",
+      "Resilience"
+    ],
+    "birthYear": 1809,
+    "deathYear": 1852,
+    "storyDate": "1852",
+    "heroImage": "assets/images/stories/louis-braille/portrait.jpg",
+    "tags": [
+      "louis-braille",
+      "braille",
+      "coupvray",
+      "institut-national-des-jeuves-aveugles",
+      "charles-barbier-de-la-serre",
+      "alexandre-rene-pignier",
+      "disability",
+      "blindness",
+      "accessibility",
+      "france",
+      "paris",
+      "1829",
+      "rejected-by-his-own-institution"
+    ],
+    "verified": false
   }
 ]
