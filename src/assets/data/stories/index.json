@@ -515,5 +515,41 @@
       "rejected-by-his-own-institution"
     ],
     "verified": false
+  },
+  {
+    "id": 18,
+    "slug": "michael-faraday",
+    "personName": "Michael Faraday",
+    "title": "The Bookbinder Who Cut a Field",
+    "shortDescription": "The son of a blacksmith in a Surrey village who was taught science out of an encyclopedia he was paid to rebind, and who in 1831 found that a magnet can be made to push a current through a wire — the discovery under every generator, transformer and electric motor since. He ended up the most famous scientist in Britain, and audited his own accounts to show he died poor.",
+    "country": "United Kingdom",
+    "state": "Surrey",
+    "city": "London",
+    "category": [
+      "Science",
+      "Biography",
+      "Education",
+      "Leadership"
+    ],
+    "birthYear": 1791,
+    "deathYear": 1867,
+    "storyDate": "1831",
+    "heroImage": "assets/images/stories/michael-faraday/portrait.jpg",
+    "tags": [
+      "michael-faraday",
+      "electromagnetic-induction",
+      "royal-institution",
+      "bookbinder",
+      "field-theory",
+      "sandemanian",
+      "london",
+      "newington-butts",
+      "science",
+      "electricity",
+      "magnetism",
+      "electrolysis",
+      "nobel-less-genius"
+    ],
+    "verified": false
   }
 ]

@@ -1,0 +1,300 @@
+{
+  "id": 18,
+  "slug": "michael-faraday",
+  "slugKey": "stories/michael-faraday",
+  "title": "The Bookbinder Who Cut a Field",
+  "personName": "Michael Faraday",
+  "person": {
+    "name": "Michael Faraday",
+    "gender": "male",
+    "bornLabel": "1791–1867"
+  },
+  "shortDescription": "The son of a blacksmith in a Surrey village who was taught science out of an encyclopedia he was paid to rebind, and who in 1831 found that a magnet can be made to push a current through a wire — the discovery under every generator, transformer and electric motor since. He ended up the most famous scientist in Britain, and audited his own accounts to show he died poor.",
+  "country": "United Kingdom",
+  "state": "Surrey",
+  "city": "London",
+  "category": [
+    "Science",
+    "Biography",
+    "Education",
+    "Leadership"
+  ],
+  "birthYear": 1791,
+  "deathYear": 1867,
+  "storyDate": "1831",
+  "heroImage": "assets/images/stories/michael-faraday/portrait.jpg",
+  "introduction": "London, the autumn of 1831. In a basement laboratory on Albemarle Street, a forty-year-old bookbinder's apprentice with no university degree winds copper around an iron ring, and watches a needle jump. That afternoon made Michael Faraday the man who showed that a magnet can drive an electric current — the discovery underneath every generator, every transformer and every electric motor built since. He was born the son of a blacksmith in a Surrey village, taught himself science out of an encyclopedia he was paid to rebind, and died seventy-five years later as one of the most famous scientists in the world and, on the evidence of his own bank book, a poor one.",
+  "chapters": [
+    {
+      "heading": "Newington Butts",
+      "paragraphs": [
+        "Michael Faraday was born on 22 September 1791 in Newington Butts, then a village south of the Thames in Surrey and now a district of Southwark in London. His father, James, was a blacksmith. His mother was Margaret Hastwell. He was the third of four children. Blacksmithing in the 1790s was heavy, hot, irregular work, and James's health failed early and badly; the family was poor, and stayed poor. The stories that follow him to this day — a genius left undiscovered in a country parsonage, a school too stupid to notice him — are later embellishment. He went to a common day school and learned to read, write and do arithmetic. He was not illiterate and he was not a prodigy. He was an ordinary boy with an unusual habit of finishing books.",
+        "The first book that made him think was Isaac Watts's On the Improvement of the Mind, a Presbyterian minister's manual of moral and intellectual self-improvement first published in 1740 and never out of print since. Faraday told a friend that Watts was the book that opened his head. Fifty years later he said so more carefully, to a room of working men: \"My store of learning respecting knowledge, abstractedly considered, has been gathered, some time since, from the writings of Lord Bacon, and from a work by Dr. Watts, 'On the Improvement of the Mind,' which I consider so good in its kind that no person ought to be without it.\"",
+        "The second book was an accident of his trade. Looking back from old age, he wrote to the Swiss physicist Auguste de la Rive: \"I entered the shop of a bookseller and bookbinder at the age of 13, in the year 1804, remained there eight years. . . . There were two that especially helped me, the 'Encyclopædia Britannica,' from which I gained my first notions of electricity, and Mrs Marcet's 'Conversations on Chemistry,' which gave me my foundation in that science.\" Those are the two, named by the man himself. The usual third candidate, Mary Somerville, is impossible: her Nature of Things came out in 1834, when Faraday was forty-two and already famous, and he is not known to have read it in his apprenticeship at all."
+      ],
+      "media": {
+        "src": "assets/images/stories/michael-faraday/engraving.jpg",
+        "alt": "A line engraving of Michael Faraday, signed J. Cook after an original drawing by H. Anelay, from the Wellcome Collection's iconographic holdings",
+        "caption": "A mid-Victorian line engraving of Faraday, cut by J. Cook after H. Anelay. It is the standard likeness of the man, and it is worth remembering that no photograph of him was taken until he was past sixty: by the time cameras could catch him, the work was already over.",
+        "credit": "Wellcome Collection — CC BY 4.0"
+      }
+    },
+    {
+      "heading": "Eight years at Riebau's",
+      "paragraphs": [
+        "At thirteen he went to work for George Riebau, a bookseller and bookbinder in Blandford Street near Manchester Square, first as an errand boy. After a year's trial he was bound apprentice, and taken without a fee — bookbinders normally charged a premium — because his conduct had been exemplary. The indenture was signed in October 1805. Seven years of folding sheets, sewing gatherings, cutting blocks and beating them flat with a mallet. A bookbinder's shop is a library that comes apart in front of you, and a binder is paid to handle the tools of the trade, not to read it.",
+        "Jane Marcet's Conversations on Chemistry was what he read at that bench. It is written as a dialogue between a teacher, a mother and two children, in plain sentences and with no diagrams to lose — a book that assumed its reader was a beginner and meant it. Faraday later argued it should have been a school text, which in 1812 was close to heresy. The other discovery, the encyclopedia, was pure trade: he was hired to rebind a volume of the fourth edition of the Encyclopædia Britannica, and the article it contained, on electricity, was the first he ever read on the subject.",
+        "His real classroom, though, had no building. On Wednesday evenings he went to a small London debating and lecture society, and he described it himself: \"This was founded in 1808 at Mr. Tatum's house, and I believe by him. He introduced me as a member of the Society in 1813. . . . It consisted of thirty or forty individuals, perhaps all in the humble or moderate rank of life. Those persons met every Wednesday evening for mutual instruction.\" On alternate Wednesdays the members talked among themselves; on the others a lecture was given, and any member who dodged his turn to deliver one paid a fine of half a guinea. They met at 53 Dorset Street, Salisbury Square.",
+        "In February 1817 he read a paper to them, On some observations on the means of obtaining knowledge, and on the facilities afforded by the constitution of the City Philosophical Society, and had it printed that year. He gave five chemical lectures to the society that year as well, on the atmosphere, on carbon, on combustion, and on the metals. None of it is brilliant on the page. What matters is the direction: in his twenties he was already standing in front of rooms explaining chemistry to people who had to work for a living. By his thirties he would do it at the Royal Institution, and eventually to children."
+      ]
+    },
+    {
+      "heading": "The eye and the laboratory",
+      "paragraphs": [
+        "Late in 1812, a French chemist at that institution, Pierre Louis Dulong, lost an eye to a compound of chlorine and nitrogen. The compound — nitrogen trichloride, called the chloride of nitrogen in the sources of the day — detonates from a touch, a flash, or a draught of air. Sir Humphry Davy, the greatest chemist in Britain and the institution's director, was studying it, and it detonated in his face. Faraday's own note, written years later, is precise about his own role: he was \"writing as an amanuensis for Sir H. Davy, at the time when the latter was wounded in the eye from an explosion of the chloride of nitrogen.\"",
+        "He was not there. He was a bookbinder who had bought tickets to Davy's last four lectures of 1812, and Davy wrote back on 24 December offering him a job. Faraday told the story himself in 1829: Davy \"requested to see me, and told me of the situation of assistant in the laboratory of the Royal Institution, then just vacant . . . Finally, through his good efforts, I went to the Royal Institution, early in March of 1813, as assistant in the laboratory.\" The wage was twenty-five shillings a week. He was twenty-one. The famous version says he walked into the Royal Institution as Davy's servant. He walked in as his copyist, and Davy had a man already hired for the valet work.",
+        "In October 1813 Davy left for a two-year tour of European laboratories, and Faraday went with him: assistant in experiments, keeper of the apparatus, minder of the papers, and in practice everything else. Davy's valet had declined to come and nobody could be found in time: \"At Paris he could not get one . . . nor at Genoa, nor at Florence, nor at Rome, nor in all Italy.\" They left London on Wednesday 13 October 1813 for France, Switzerland, Italy and the Tyrol, and Faraday came back in April 1815 to a permanent post. The grind was real. The scandal, in which Davy is made to swagger over his assistant in a dining room, is not: Tyndall, who had the story from Faraday directly, called it absurd — \"There was no banquet of the kind referred to.\"",
+        "On 12 June 1821 he married Sarah Barnard, daughter of Edward Barnard, a silversmith, at St Faith's in the City of London: a registration with no religious service. He was twenty-nine. Both were Sandemanians, members of a small austere sect founded by the theologian John Glas and Robert Sandeman. Faraday's profession of faith came a month after the wedding, in six words: \"That is between me and my God.\" In 1825 he became Director of the Royal Institution laboratory, a post he held until he died."
+      ]
+    },
+    {
+      "heading": "The ring and the disc",
+      "paragraphs": [
+        "In April 1821 William Wollaston came to the Royal Institution laboratory with Davy to argue whether a wire carrying current could be made to turn around a magnet. Faraday was not there; he came in afterwards and heard them. During July, August and September he wrote up the progress of electro-magnetism for Thomas Thomson's Annals of Philosophy, and in the first week of September he found the answer: a current will push a magnet around, and a magnet will push a current around. On Christmas Day 1821 he called his wife down to the basement to see it work, with her brother George Barnard beside her. He recalled the moment like this: \"All at once he exclaimed, 'Do you see, do you see, do you see, George?'\" It is the first electric motor.",
+        "Wollaston then accused him of taking the idea. Faraday wrote on 30 October 1821: \"If I have done anyone wrong, it was quite unintentional . . .\" The charge came back three years later, at his election to the Royal Society, and Davy — by then openly hostile to him — backed it. Faraday was elected anyway, on 8 January 1824, \"all but unanimously.\" He wrote a note afterwards headed \"In relation to Davy's opposition to my election at the Royal Society,\" and opened it with the line \"Sir H. Davy angry, May 30. 1823.\" That is what his working life was actually like: the most powerful chemist in Britain, his patron and his employer, arguing with him in public about who had thought of what.",
+        "On 29 August 1831 Faraday got the result he had chased for a decade. In the basement he wound copper coils around a ring of soft iron — one coil to a battery, the other to a galvanometer, an instrument that shows whether a current is flowing — and when he closed the circuit the needle swung. Nothing touched anything. Magnetism alone had made electricity. He read his first paper on magneto-electric induction to the Royal Society on 24 November 1831, gave the Bakerian Lecture on 12 January 1832, and won the Copley Medal, shared that year with the French mathematician Siméon Denis Poisson. Then, in late October 1831, he put a copper disc on a brass axle between the poles of a permanent magnet, turned it by hand, and drew a continuous current out of it. That is the dynamo, the ancestor of every generator in the world.",
+        "The mechanism, in his words, was cutting: to make a current you had to \"cut appropriately the lines of magnetic force.\" He meant something real pushing through space rather than a mysterious tug at a distance, and he was the first to call those curves lines of magnetic force. By 1833 he had shown that the electricity from a friction machine and the electricity from a battery are one thing wearing different clothes, and by 1834 that splitting compounds by electricity obeys fixed numerical laws.. In January 1836 he built a twelve-foot cube of wire and metal foil inside the lecture theatre and showed, on his own laboratory diary for 15 and 16 January, that nothing electrical got inside it when he charged it from outside. Seven years later he did the same shielding with a pewter ice pail connected to an electrometer, and that version is the one in every physics textbook."
+      ],
+      "media": {
+        "src": "assets/images/stories/michael-faraday/statue.jpg",
+        "alt": "A statue of Michael Faraday holding a wound iron ring and coils in one hand, inside the Royal Institution in London",
+        "caption": "The statue at the Royal Institution shows Faraday holding the induction ring and its coils in his hand. Every popular retelling says he wore it, and every photograph and portrait says otherwise: the ring is apparatus, and it stayed on the bench. The iron ring from 1831, with its separate copper windings, is still in the institution's collection.",
+        "credit": "Tom Hall — CC BY 4.0"
+      }
+    },
+    {
+      "heading": "A representative idea",
+      "paragraphs": [
+        "The line of force is the thing he got wrong on paper, and he knew it. In 1852 he published On the Physical Character of the Lines of Force, the paper every history of physics cites as the founding of field theory. Read what it actually claims: \"The study of these lines has at different times been greatly influential in leading me to various results which I think prove their utility as well as fertility.\" Not \"I have discovered the field.\" Utility, and fertility. When he tried to go further, in Thoughts on Ray-vibrations in 1846, he warned himself in print: \"I think it likely that I have made many mistakes in the preceding pages, for even to myself my ideas on this point appear only as the shadow of a speculation.\"",
+        "John Tyndall, who knew both men, was blunter still. Faraday used the lines of force, Tyndall wrote, \"merely as 'a representative idea.' He seemed for a time averse to going further in expression than the lines themselves, however much further he may have gone in idea.\" And then the sentence that ought to end most popular accounts of him: \"Indeed it may be doubted whether the physical theory of lines of force presented itself with any distinctness to his own mind.\" Tyndall was the only man alive positioned to say that about Faraday's central idea, and he did not flatter him. The experiments kept coming: in 1845 he found that magnetism rotates the polarisation of light, and in 1846 that almost all matter is weakly diamagnetic — not a small degree of magnetism but a different thing. The Royal Society gave him the Rumford Medal in 1846 for the light effect, and the Royal Medal the same year for the magnetic condition of all matter.",
+        "He gathered the work into three volumes of Experimental Researches in Electricity: the first in 1839, reprinting his Philosophical Transactions papers of 1831 to 1838; the second in 1844; the third in 1855. He wrote them in numbered paragraphs so that anyone could cite a single result without ambiguity, and he got to 3,299 of them. There is no honest figure for how many papers he published in total. The Royal Institution records around 4,900 surviving letters, and exactly one book in his life, Chemical Manipulation in 1827, an instruction manual for students. Everything else was papers or somebody else's transcript of his lectures."
+      ]
+    },
+    {
+      "heading": "What he refused",
+      "paragraphs": [
+        "Start with the money, because it is the fact most retellings leave out. Tyndall audited Faraday's accounts after his death. In 1831 his professional income peaked at £1,090 4s. In 1832 it fell to £155 9s. In 1838 it was zero. Between 1839 and 1845 it never exceeded £22 a year, except in 1845, when the government hired him and the geologist Charles Lyell to report on the Haswell Colliery explosion and he earned £112. From the end of 1845 until he died, his professional income was, in Tyndall's words, \"exactly zero.\" He had only to will it, he wrote, to raise his 1832 income to £5,000 a year. Tyndall's conclusion is the sentence to keep: \"this son of a blacksmith, and apprentice to a bookbinder, had to decide between a fortune of £150,000 on the one side, and his undowered science on the other. He chose the latter, and died a poor man.\" He never took out a patent. He was scientific adviser to Trinity House from 1836 to 1865, and treated it as a duty rather than a wage.",
+        "He fought a state pension harder than he fought anything. In 1835 Sir Robert Peel wanted to give him one and left office before he could. Lord Melbourne took it up and fumbled it — Tyndall remembers, with an explicit hedge, that the word \"humbug\" may have been used, though he will not swear to it. Faraday walked out, left a card and a short note declining the pension, and would not be reconciled until Melbourne sent a written apology. He received the apology. He also received the pension, £300 a year for life, and drew it for thirty-two years. So the man said to have refused all honours held a state annuity until his death. The Royal Institution, sourcing the Oxford Dictionary of National Biography, is explicit: he declined the presidency of the Royal Society twice, and he said publicly several times that he would not accept a knighthood — but no evidence has ever been found that he was offered one. What he wrote in 1854 is the real position: \"Knighthoods and baronetcies are sometimes conferred with such intentions, but I think them utterly unfit for that purpose. Instead of conferring distinction, they confound the man who is one of twenty, or perhaps fifty, with hundreds of others.\"",
+        "The 1848 offer of the Royal Society presidency is the one refusal with a documented scene. When Lord Wrottesley gave up the presidency, a delegation — Wrottesley, William Grove and Daniel Gassiot — called at Faraday's house. He asked for a day to think. Tyndall went up to his room the next morning and found him decided, and records that Sarah's opinion had been against it. Faraday said: \"Tyndall, I must remain plain Michael Faraday to the last; and let me now tell you, that if I accepted the honour which the Royal Society desires to confer upon me, I would not answer for the integrity of my intellect for a single year.\" Tyndall's verdict is the sad part. \"The highest scientific position in this country he had, however, never filled.\" He refused the presidency of the Royal Institution as well. Underneath all of it was the Sandemanian rule he had kept since 1821: no rank, no title, nothing between a man and the work."
+      ],
+      "media": {
+        "src": "assets/images/stories/michael-faraday/thames-1855.jpg",
+        "alt": "A Punch cartoon by John Leech titled \"Faraday Giving His Card to Father Thames; And we hope the Dirty Fellow will consult the learned Professor\"",
+        "caption": "In July 1855, at seventy, Faraday wrote to The Times about the filth of the River Thames, and Punch ran this caricature of him presenting his card to the personification of the river. The joke landed because it was true: the professor who had turned magnetism into electricity spent his last decade writing to newspapers about sewage, gasworks and the River Police.",
+        "credit": "John Leech, Punch, 21 July 1855 — Public domain"
+      }
+    },
+    {
+      "heading": "The candle and the darkening",
+      "paragraphs": [
+                "Faraday ran a second career as a public lecturer, and it is the one that made him famous outside physics. He started the Friday Evening Discourses at the Royal Institution in 1826, and gave nineteen Christmas lecture series between 1827 and 1860 — a course of science for children the same institution has run every Christmas since 1825. He intended his 1859 series, on the forces of matter, to be his last. That year the institution's secretary resigned suddenly, and at the last minute Faraday was asked to give another series. The Chemical History of a Candle, delivered over Christmas 1860 and edited by his friend William Crookes in 1861, starts with a candle and arrives at the origin of the universe, and it argues better for science than most books by people who already agree with him.",
+        "He was losing his mind and he wrote it down. In March 1857 he wrote to James Clerk Maxwell, who was at that moment turning Faraday's own lines of force into the first rigorous field theory: \"I am often long in realising my intentions & a failing memory is against me.\" In November the same year he blamed Maxwell for \"my forgetfulness of having sent the former paper on conservation.\" On 1 August 1864, from the grace-and-favour cottage Queen Victoria had given him at Hampton Court three years earlier, he wrote to a friend: \"though I am not able to remember at the end of a line what was said at the beginning of it, the imperfect marks will convey to you some sense of what I long to say.\" His last research was whether magnetic force takes time to cross space. He never finished it, and left the apparatus standing: delicate wheels and pinions, and associated mirrors.",
+        "He died on 25 August 1867, aged seventy-five, sitting in his chair in his study. Tyndall: \"There was no pain in his decline to trouble the memory of those who loved him. Slowly and peacefully he sank towards his final rest, and when it came, his death was a falling asleep.\" His niece Jane Barnard, the Jane of the letters, cared for him to the end. The funeral was on Friday 30 August, private and plain: a small party from the Royal Institution, and a plain headstone in Highgate Cemetery. Sarah outlived him by twelve years.",
+        "His name is in the units now. The farad, the SI unit of capacitance, is his; so is the Faraday constant, the charge carried by one mole of electrons, fixed at exactly 96,485,332.1233100184 coulombs per mole by the 2019 redefinition of the SI. The Faraday Society, founded in 1903 to bring physical chemistry and industry together, survives inside the Royal Society of Chemistry. And the myths are as durable as the medals. \"Nothing is too small to be ignored\" is not his line; what he actually wrote, in a lecture of 1858, is \"It teaches us to be neglectful of nothing, not to despise the small beginnings — they precede of necessity all great things.\" \"Faraday was Davy's greatest discovery\" appears nowhere in Tyndall, who would have been the man to record it. The iron ring he is shown wearing in a statue is a piece of apparatus he is holding. The ladder accident, the sandwich-board job, the great man blinded by his own pupil's discovery — none of it is in the record. He was a bookbinder who read the books on his own bench, wrote down everything he did, and then told the truth, in print, about which parts of it he did not understand."
+      ],
+      "media": {
+        "src": "assets/images/stories/michael-faraday/grave.jpg",
+        "alt": "The plain headstone of Michael Faraday in Highgate Cemetery, London, photographed in 1986",
+        "caption": "The grave of Michael Faraday in Highgate Cemetery, London. He asked for a plain stone and a small funeral, and got both: the party that walked from the Royal Institution to the north London cemetery in August 1867 was small, and the marker is still short.",
+        "credit": "Astrochemist — Public domain"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "title": "John Tyndall, Faraday as a Discoverer, 2nd edition",
+      "publisher": "Project Gutenberg (full text)",
+      "url": "https://www.gutenberg.org/files/1225/1225-h/1225-h.htm",
+      "publishedDate": "1868",
+      "note": "Principal narrative source, written by a colleague who knew Faraday personally and had his papers. Carries the 1848 presidency refusal, the 1835-36 pension episode, the audited income figures, the 1841 Interlaken journal, the 1821 Christmas Day discovery, the 1852 lines-of-force caution, the 1846 Thoughts on Ray-vibrations quotation, the last unfinished experiment, and the account of the death. Tyndall is the source of the corrections to the Davy legend, of the 'representative idea' reading of the lines of force, and of the hedged 'humbug' recollection."
+    },
+    {
+      "title": "John Tyndall, \"Faraday, Michael\", Dictionary of National Biography, vol. 18",
+      "publisher": "Wikisource (DNB 1885-1900)",
+      "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Faraday,_Michael",
+      "publishedDate": "1889",
+      "note": "Shorter and more compressed than the 1868 book, and in places it corrects it. Source for the 1831 income peak of £1,090 4s., the last four Davy lectures of 1812 with dates, the 24 December 1812 reply, the twenty-five shilling weekly wage, the 13 October 1813 departure for the continental tour, the £5,000 he could have earned, and Tyndall's correction that the Davy banquet story is 'on the face of it... absurd'."
+    },
+    {
+      "title": "George Bence Jones, The Life and Letters of Faraday, volume I",
+      "publisher": "archive.org (full text, 1870)",
+      "url": "https://archive.org/download/lifelettersoffar01joneuoft/lifelettersoffar01joneuoft_djvu.txt",
+      "publishedDate": "1870",
+      "note": "Primary and near-primary. Carries Faraday's own autobiographical notes: the City Philosophical Society account with its Wednesday meetings, the 30-40 members, the half-guinea fine and the 53 Dorset Street address; the 19 February 1817 lecture and its printed title; the letter to J. A. Paris of 23 December 1829 on entering the Royal Institution in March 1813; the valet letter of 1813-15; the marriage note of 12 June 1821; the 1821 Wollaston correspondence; and the note headed 'In relation to Davy's opposition to my election at the Royal Society' opening 'Sir H. Davy angry, May 30. 1823.'"
+    },
+    {
+      "title": "George Bence Jones, The Life and Letters of Faraday, volume II",
+      "publisher": "archive.org (full text, 1870)",
+      "url": "https://archive.org/download/lifelettersoffa02jone/lifelettersoffa02jone_djvu.txt",
+      "publishedDate": "1870",
+      "note": "Source for the laboratory journal entry of 19 March 1849 ('Nothing is too wonderful to be true...'), the Interlaken journal entry of 2 August 1841 ('I love a smith's shop and anything relating to smithery. My father was a smith.'), the account of the 1841-45 hiatus, the death on 25 August 1867 in his chair, and the plain private funeral on Friday 30 August to Highgate Cemetery."
+    },
+    {
+      "title": "Michael Faraday to Auguste de la Rive, 2 September 1858, quoted in Tyndall 1868 and Bence Jones vol. II",
+      "publisher": "via Tyndall, Faraday as a Discoverer; Bence Jones 1870",
+      "url": "https://www.gutenberg.org/files/1225/1225-h/1225-h.htm",
+      "publishedDate": "1858",
+      "note": "Faraday's own account of his apprenticeship: entering a bookseller and bookbinder's shop at thirteen in 1804 and remaining eight years, with the Encyclopaedia Britannica giving him 'my first notions of electricity' and Mrs Marcet's Conversations on Chemistry giving him 'my foundation in that science'. The letter rules out Mary Somerville as the formative influence, which is the single most repeated error in the popular version of this life."
+    },
+    {
+      "title": "Michael Faraday, letter to James Clerk Maxwell, 25 March 1857",
+      "publisher": "The Correspondence of Michael Faraday, The Royal Society of Edinburgh (epsilon.ac.uk, letter 3260)",
+      "url": "https://epsilon.ac.uk/view/faraday/letters/Faraday3260",
+      "publishedDate": "1857",
+      "note": "Faraday on his own declining memory: 'I am often long in realising my intentions & a failing memory is against me.' A companion letter of 13 November 1857 (Faraday3357) blames Maxwell for 'my forgetfulness of having sent the former paper on conservation'. Both are against James Clerk Maxwell, who was at the time building the first mathematical field theory out of Faraday's lines of force."
+    },
+    {
+      "title": "Michael Faraday, letter to Richard Phillips, 4 February 1843, published as \"On Static Electrical Inductive Action\", Philosophical Magazine vol. 22, pp. 200-204",
+      "publisher": "Kenyon College Early Apparatus collection (transcription and citation); APS Physics History, March 1844",
+      "url": "https://physics.kenyon.edu/EarlyApparatus/Static_Electricity/Faradays_Ice_Pail/Faraday_Ice_Pail.html",
+      "publishedDate": "1844",
+      "note": "The primary text for the ice-pail shielding experiment of 1843, in which Faraday used an insulated pewter pail connected to a delicate gold-leaf electrometer. Distinct from the twelve-foot wire-and-foil chamber of January 1836; the story uses the correct date for each and does not merge them into a single 1836 or 1838 'invention of the cage'."
+    },
+    {
+      "title": "Michael Faraday, Experimental Researches in Electricity, Series XI, section 1173",
+      "publisher": "Experimental Researches in Electricity vol. I (Richard and John Edward Taylor, 1839); scan via archive.org",
+      "url": "https://archive.org/details/b21497916",
+      "publishedDate": "1839",
+      "note": "Faraday's account of the twelve-foot cubical chamber of wire and metal foil built in the Royal Institution lecture theatre, showing that its interior remained uncharged when the outside was electrified. The dates 15 and 16 January 1836 come from his own laboratory diary as edited by W. H. Bragg. The volume's preface is headed 'Royal Institution, March, 1839' and it reprints the Philosophical Transactions papers of 1831-1838 as Series 1-14, which settles the 1837-versus-1839 date question in favour of 1839."
+    },
+    {
+      "title": "W. H. Bragg, Faraday's Diary (Royal Institution, 1936)",
+      "publisher": "The Royal Institution, London; scan via archive.org",
+      "url": "https://archive.org/download/faradays-diary/Faraday%27s%20diary_text.pdf",
+      "publishedDate": "1936",
+      "note": "The Royal Institution's edition of Faraday's own laboratory notebook, used for the dated entries behind the 29 August 1831 induction ring and the 15-16 January 1836 chamber. Bragg's introduction notes the 1831 ring apparatus survives in the institution's museum."
+    },
+    {
+      "title": "Royal Institution, \"Michael Faraday's ring-coil apparatus\"",
+      "publisher": "The Royal Institution, London (collection page)",
+      "url": "https://www.rigb.org/explore-science/explore/collection/michael-faraday-s-ring-coil-apparatus",
+      "publishedDate": "n.d.",
+      "note": "The institution's own statement that Faraday made the ring-coil apparatus in the basement laboratory in August 1831 and achieved success on 29 August 1831, 'thus creating the first ever electric transformer'. Used for the date and for the survival of the object."
+    },
+    {
+      "title": "Royal Institution, \"Michael Faraday (1791-1867)\" biography (sourcing the Oxford DNB)",
+      "publisher": "The Royal Institution, London",
+      "url": "https://www.rigb.org/explore-science/explore/person/michael-faraday-1791-1867",
+      "publishedDate": "n.d.",
+      "note": "Institutional record: Director of the Laboratory 1825-1867; Fullerian Professor of Chemistry from 1833; elected FRS 8 January 1824; the twice-declined Royal Society presidency; the statement that he publicly said several times he would not accept a knighthood but that no evidence has been found he was ever offered one; the Civil List pension of 1836; and the Grace and Favour House at Hampton Court provided by the Queen in 1858, where he died. The same page also states he founded the Christmas Lectures, which the institution's own Christmas Lectures history contradicts, so that claim is not used in the story."
+    },
+    {
+      "title": "Royal Society award records for Michael Faraday (Copley Medal 1832 and 1838; Royal Medal 1835 and 1846; catalogue record NA8218)",
+      "publisher": "The Royal Society, London (official award-winners data and archive catalogue)",
+      "url": "https://catalogues.royalsociety.org/CalmView/Record.aspx?id=NA8218",
+      "publishedDate": "n.d.",
+      "note": "Official citations used in the story: Copley 1832, shared with Siméon Denis Poisson, 'for his discovery of Magneto-Electricity'; Copley 1838, shared with Karl Friedrich Gauss, 'for his researches in specific electrical induction'; Royal Medal 1835 with W. R. Hamilton for the seventh series on the definite nature of electrochemical action; Royal Medal 1846 with Richard Owen for the twentieth and twenty-first series on new magnetic actions and the magnetic conditions of all matter. The 1846 Royal Medal was for diamagnetism; the magneto-optical work that year was recognised by the Rumford Medal."
+    },
+    {
+      "title": "Royal Society of Arts, Albert Medal past winners",
+      "publisher": "Royal Society of Arts, London",
+      "url": "https://thersa.org/about/albert-medal/past-winners",
+      "publishedDate": "n.d.",
+      "note": "The RSA's own list records '1866 - Michael Faraday DCL FRS' as an Albert Medallist, for 'his discoveries in electricity, magnetism, and chemistry, which in their relation to the industries of the world have so largely promoted Arts, Manufactures, and Commerce'. The RSA Albert Medal, first awarded 1864, is distinct from the Crown's gallantry medal of the same name instituted in 1866."
+    },
+    {
+      "title": "Michael Faraday, The Chemical History of a Candle, edited by William Crookes",
+      "publisher": "Project Gutenberg (full text); Royal Institution, The Chemical History of a Candle (1860-61 delivery, 1861 publication)",
+      "url": "https://www.gutenberg.org/cache/epub/14474/pg14474.html",
+      "publishedDate": "1861",
+      "note": "Delivered before a juvenile audience at the Royal Institution 'during the Christmas holidays of 1860-1', six lectures with an additional lecture on platinum, edited and published by Crookes. The preceding series, on the various forces of matter, was delivered at Christmas 1859 and published in 1860; the RI records that the sudden resignation of its secretary John Barlow in 1860 was why Faraday gave the Candle series at all, having intended the 1859 one to be his last."
+    },
+    {
+      "title": "Michael Faraday, \"Science as a Branch of Education\", Royal Institution lecture, 11 June 1858",
+      "publisher": "via Bence Jones, The Life and Letters of Faraday vol. II (lecture manuscript)",
+      "url": "https://archive.org/download/lifelettersoffa02jone/lifelettersoffa02jone_djvu.txt",
+      "publishedDate": "1858",
+      "note": "The source of the sentence the story uses in place of the misattributed 'Nothing is too small to be ignored': 'It teaches us to be neglectful of nothing, not to despise the small beginnings - they precede of necessity all great things.' The invented version appears in no Faraday source and is not in MacTutor's collected quotations."
+    },
+    {
+      "title": "Carol Russell, \"The Faith of a Physicist\", Faraday Papers No. 13",
+      "publisher": "The Faraday Institute, University of Cambridge",
+      "url": "https://www.faraday.cam.ac.uk/wp-content/uploads/resources/Faraday%20Papers/Faraday%20Paper%2013%20Russell_EN.pdf",
+      "publishedDate": "2007",
+      "note": "Scholarly study of Faraday's Sandemanian commitments. Source for the marriage at St Faith's in the City of London, registered without a religious service, and for Sarah Barnard as the daughter of Edward Barnard, an elder of that church. Also for Faraday never patenting an invention."
+    },
+    {
+      "title": "Science Museum Group collection record, Edward Barnard, silversmith",
+      "publisher": "Science Museum Group, London",
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/cp105585/edward-barnard",
+      "publishedDate": "n.d.",
+      "note": "Confirms Sarah Barnard's father as Edward Samuel Barnard (1767-1855), a partner in Emes & Barnard from 1808 and sole proprietor of Edward Barnard & Sons from 1829 - the detail that makes the marriage a match across two very different trades."
+    },
+    {
+      "title": "Bureau International des Poids et Mesures, The International System of Units (SI Brochure) and SI defining constants",
+      "publisher": "BIPM, Sèvres",
+      "url": "https://www.bipm.org/en/measurement-units/si-defining-constants",
+      "publishedDate": "9th edition (2019)",
+      "note": "For the closing claim: the farad is the derived SI unit of capacitance, C/V, and the Faraday constant F = e·N_A = 9.648 533 212 331 001 84 × 10^4 C mol^-1 is now exactly defined following the 2018 CGPM redefinition of the ampere and kilogram, in force from 20 May 2019. The farad, the Faraday constant and the deprecated unit 'faraday' (one mole of electrons) are three distinct quantities; the story names only the first two."
+    },
+    {
+      "title": "Royal Society of Chemistry, \"Our origins\" - the founding and later history of the Faraday Society",
+      "publisher": "Royal Society of Chemistry, London",
+      "url": "https://www.rsc.org/about-us/our-history/our-origins",
+      "publishedDate": "n.d.",
+      "note": "The Faraday Society was conceived in 1902 and held its first scientific meeting in June 1903, existing to bring physical chemistry into contact with industry. It published until 1971, when the RSC took over its journals, and merged in 1980; its Faraday Discussions series continues."
+    },
+    {
+      "title": "John Leech, \"Faraday Giving His Card to Father Thames\", Punch, page 27",
+      "publisher": "Punch magazine, 21 July 1855; scan via Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:FaradayFatherThames.jpg",
+      "publishedDate": "1855",
+      "note": "Image source. The caricature responds to Faraday's letter 'Observations on the Filth of the Thames', published in The Times on 7 July 1855, and is the basis for the closing detail that the professor who made magnetism generate electricity spent his last decade writing to newspapers about sewage, gasworks and river pollution. Public domain; author John Leech."
+    },
+    {
+      "title": "Wellcome Collection V0001856, \"Michael Faraday. Line engraving by J. Cook after H. Anelay\"",
+      "publisher": "Wellcome Collection, London; scan via Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Michael_Faraday._Line_engraving_by_J._Cook_after_H._Anelay._Wellcome_V0001856.jpg",
+      "publishedDate": "n.d.",
+      "note": "Image source for the chapter one portrait. Wellcome Collection, CC BY 4.0. Also documents in its catalogue that no photographic portrait of Faraday was made before his later years, which is the basis for the caption's point about cameras arriving after the work was done."
+    },
+    {
+      "title": "Tom Hall, statue of Michael Faraday, Royal Institution, London",
+      "publisher": "photograph via Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Michael_Faraday%E2%80%99s_statue.jpg",
+      "publishedDate": "2018",
+      "note": "Image source for the induction ring chapter. CC BY 4.0, author Tom Hall. The statue depicts Faraday holding the wound ring and its coils, which is the evidence used to correct the widespread claim that he wore the ring as an item of jewellery - a claim Tyndall's DNB entry contradicts by describing the statue as showing him holding it."
+    },
+    {
+      "title": "\"Faraday Michael grave\", photograph of the headstone in Highgate Cemetery",
+      "publisher": "via Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Faraday_Michael_grave.jpg",
+      "publishedDate": "1986",
+      "note": "Image source for the closing chapter. Public domain, no rights claimed, personal photograph by Astrochemist. Consistent with Bence Jones's account of the plain private funeral of Friday 30 August 1867."
+    },
+    {
+      "title": "Maguire, Thomas Herbert (1821-1895), lithographic portrait of Michael Faraday, 1851",
+      "publisher": "via Wikimedia Commons (after the National Portrait Gallery)",
+      "url": "https://commons.wikimedia.org/wiki/File:Michael_faraday_707957642_b5644r755_dl_full_size.jpg",
+      "publishedDate": "1851",
+      "note": "Image source for the hero portrait. Public domain. Dated to 1851 on the face of the print, two decades after the induction work and four years after the 1841 breakdown, and therefore itself a picture of the man at the height of his fame rather than of the apprentice who became a scientist."
+    }
+  ],
+  "tags": [
+    "michael-faraday",
+    "electromagnetic-induction",
+    "royal-institution",
+    "bookbinder",
+    "field-theory",
+    "sandemanian",
+    "london",
+    "newington-butts",
+    "science",
+    "electricity",
+    "magnetism",
+    "electrolysis",
+    "nobel-less-genius"
+  ],
+  "verified": false,
+  "verifiedAt": ""
+}
