@@ -589,5 +589,43 @@
       "memory and history"
     ],
     "verified": true
+  },
+  {
+    "id": 20,
+    "slug": "meghnad-saha",
+    "personName": "Meghnad Saha",
+    "title": "The Man Who Read the Stars",
+    "shortDescription": "A shopkeeper's son from a village in East Bengal walked seven miles to school, lost a scholarship for a student boycott and wrote an equation at twenty-seven that changed how the world reads starlight. He also built an institute of nuclear physics in Calcutta, argued with Nehru and gave India its national calendar.",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "category": [
+      "Science",
+      "Technology",
+      "History",
+      "Education",
+      "Unsung Heroes"
+    ],
+    "birthYear": 1893,
+    "deathYear": 1956,
+    "storyDate": "1919–1956",
+    "heroImage": "assets/images/stories/meghnad-saha/portrait.jpg",
+    "tags": [
+      "Meghnad Saha",
+      "Saha equation",
+      "astrophysics",
+      "thermal ionization",
+      "Indian National Science Academy",
+      "Allahabad University",
+      "Calcutta University",
+      "Saha Institute of Nuclear Physics",
+      "Indian Science Congress",
+      "Science and Culture",
+      "Calendar Reform Committee",
+      "National Planning Committee",
+      "Indian nationalism",
+      "unsung heroes"
+    ],
+    "verified": true
   }
 ]
