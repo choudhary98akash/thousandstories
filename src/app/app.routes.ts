@@ -19,6 +19,14 @@ export const routes: Routes = [
       import("./pages/story-detail/story-detail").then((m) => m.StoryDetail),
   },
   {
+    path: "ebook",
+    title: "Create eBook — A Thousand Stories",
+    loadComponent: () =>
+      import("./pages/ebook-builder/ebook-builder").then(
+        (m) => m.EbookBuilder,
+      ),
+  },
+  {
     path: "people",
     title: "People — A Thousand Stories",
     loadComponent: () => import("./pages/people/people").then((m) => m.People),

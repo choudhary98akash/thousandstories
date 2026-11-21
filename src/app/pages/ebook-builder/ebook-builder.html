@@ -1,0 +1,128 @@
+<section class="page-head">
+  <div class="container page-head-inner">
+    <div>
+      <p class="eyebrow">Create eBook</p>
+      <h1 class="page-title">Take the stories with you</h1>
+      <p class="page-sub">
+        Choose the lives you want to keep. We will bind them into a single,
+        print-ready book — with a cover, contents and every source intact.
+      </p>
+    </div>
+    <div class="head-mark" aria-hidden="true">
+      <svg viewBox="0 0 16 16">
+        <path
+          fill="currentColor"
+          d="M5.68 5.792 7.345 7.75 5.681 9.708a2.75 2.75 0 1 1 0-3.916ZM8 6.978 6.416 5.113l-.014-.015a3.75 3.75 0 1 0 0 5.304l.014-.015L8 8.522l1.584 1.865.014.015a3.75 3.75 0 1 0 0-5.304l-.014.015zm.656.772 1.663-1.958a2.75 2.75 0 1 1 0 3.916z"
+        />
+      </svg>
+    </div>
+  </div>
+</section>
+
+<div class="container ebook-body">
+  <div class="steps" aria-hidden="true">
+    <span class="step step--active">01 Choose stories</span>
+    <span class="step-line"></span>
+    <span class="step" [class.step--active]="openedTab()">02 Open book</span>
+    <span class="step-line"></span>
+    <span class="step" [class.step--active]="ready()">03 Print or save</span>
+  </div>
+
+  <div class="toolbar">
+    <div class="search-wrap">
+      <label class="visually-hidden" for="ebook-search">Search stories</label>
+      <input
+        id="ebook-search"
+        class="search-input"
+        type="search"
+        placeholder="Search by person, place or theme…"
+        [value]="query()"
+        (input)="onQuery($event)"
+      />
+    </div>
+    <div class="toolbar-actions">
+      <button class="btn btn-ghost btn-small" type="button" (click)="selectAll()">
+        Select all
+      </button>
+      <button
+        class="btn btn-ghost btn-small"
+        type="button"
+        (click)="clear()"
+        [disabled]="!selectedCount()"
+      >
+        Clear
+      </button>
+    </div>
+  </div>
+
+  @if (loading()) {
+  <p class="note">Gathering the archive…</p>
+  } @else {
+  <p class="count" aria-live="polite">
+    <strong>{{ selectedCount() }}</strong>
+    {{ selectedCount() === 1 ? "story" : "stories" }} selected
+    <span class="count-of">of {{ stories().length }} available</span>
+  </p>
+
+  <fieldset class="story-picker">
+    <legend class="visually-hidden">Choose stories for your eBook</legend>
+    <div class="picker-grid">
+      @for (story of visibleStories(); track story.slug) {
+      <label class="pick-card" [class.pick-card--on]="selected().has(story.slug)">
+        <input
+          class="pick-input"
+          type="checkbox"
+          [checked]="selected().has(story.slug)"
+          (change)="toggle(story.slug, $event)"
+        />
+        <span class="pick-check" aria-hidden="true"></span>
+        @if (story.heroImage) {
+        <img class="pick-image" [src]="story.heroImage" [alt]="'Image of ' + story.personName" loading="lazy" />
+        } @else {
+        <span class="pick-image pick-image--empty" aria-hidden="true"></span>
+        }
+        <span class="pick-body">
+          <span class="pick-num">Story {{ pad(story.id) }}</span>
+          <span class="pick-name">{{ story.personName }}</span>
+          <span class="pick-loc">{{ story.country }} · {{ story.storyDate ?? story.birthYear }}</span>
+          <span class="pick-desc">{{ story.shortDescription }}</span>
+        </span>
+      </label>
+      } @empty {
+      <p class="note">No stories match that search.</p>
+      }
+    </div>
+  </fieldset>
+
+  <div class="build-panel">
+    <div class="build-copy">
+      <p class="build-title">Ready to bind {{ selectedCount() || "your" }} {{ selectedCount() === 1 ? "story" : "stories" }}?</p>
+      <p class="build-note">
+        A new tab opens with the finished book. From there choose
+        <strong>Print / Save as PDF</strong> — or download the HTML file.
+      </p>
+    </div>
+    <button
+      class="btn btn-primary build-btn"
+      type="button"
+      [disabled]="!selectedCount() || building()"
+      (click)="build()"
+    >
+      {{ building() ? "Building…" : "Create eBook" }}
+      <span aria-hidden="true">→</span>
+    </button>
+  </div>
+
+  @if (status()) {
+  <p class="status" role="status" aria-live="polite">{{ status() }}</p>
+  } @if (error()) {
+  <p class="error" role="alert">{{ error() }}</p>
+  } @if (ready()) {
+  <div class="download-row">
+    <button class="btn btn-ghost btn-small" type="button" (click)="download()">
+      Download HTML file <span aria-hidden="true">↓</span>
+    </button>
+  </div>
+  }
+  }
+</div>

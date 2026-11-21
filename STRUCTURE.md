@@ -7,15 +7,20 @@ thousandstories/
 ├── src/
 │   ├── app/
 │   │   ├── core/
+│   │   │   ├── ebook/
+│   │   │   │   ├── ebook-covers.ts          # Fixed front/back cover markup (by alfadev + disclaimer)
+│   │   │   │   └── ebook-styles.ts          # Self-contained print/screen CSS for generated books
 │   │   │   ├── models/
 │   │   │   │   └── story.model.ts          # Story, Source, StoryChapter (media?), StoryImage
 │   │   │   └── services/
 │   │   │       ├── story.service.ts         # Loads/filters/searches stories
-│   │   │       └── seo.service.ts           # Dynamic meta tags (title/OG/Twitter/JSON-LD)
+│   │   │       ├── seo.service.ts           # Dynamic meta tags (title/OG/Twitter/JSON-LD)
+│   │   │       └── ebook.service.ts         # Selected stories -> print-ready HTML in a new tab
 │   │   ├── pages/
 │   │   │   ├── home/                        # Homepage
 │   │   │   ├── explore/                     # All stories + filters
 │   │   │   ├── story-detail/                # Individual story (chapters + inline photos)
+│   │   │   ├── ebook-builder/               # Choose stories -> generated print-ready book (/ebook)
 │   │   │   ├── people/                      # People directory
 │   │   │   ├── collections/                 # Curated collections
 │   │   │   ├── about/                       # About page (+ feedback email)
@@ -65,6 +70,12 @@ thousandstories/
 - Lazy-loaded routes for every page
 - Component-based architecture: core (models + services), shared (reusable UI), pages (routes)
 - Deployed to GitHub Pages via GitHub Actions
+
+## eBook generation (/ebook)
+- Client-side only: the builder reads `stories/index.json` for the picker, then lazy-fetches only the selected `<slug>.json` files via `StoryService.getStoryBySlug()` (batched, cached)
+- `EbookService` assembles one self-contained HTML document: fixed front/back cover constants (`core/ebook/ebook-covers.ts`) + generated contents and story articles; design tokens are read from the live `:root` at build time, so the book never hardcodes colours
+- The new tab is opened synchronously in the click handler to beat pop-up blockers, then filled with the finished HTML; the same markup can be downloaded as `.html` and printed to PDF via the browser
+- There is **no** prebuilt complete-book artifact and no build/CI step for this feature — the story JSON files remain the single source of truth
 
 ## Cross-cutting concerns
 - Shared code lives in `src/app/shared/` — imported by pages as needed
