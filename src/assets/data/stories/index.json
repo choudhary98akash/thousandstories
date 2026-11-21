@@ -551,5 +551,43 @@
       "nobel-less-genius"
     ],
     "verified": false
+  },
+  {
+    "id": 19,
+    "slug": "dwarkanath-kotnis",
+    "personName": "Dwarkanath Kotnis",
+    "title": "The Doctor China Remembered",
+    "shortDescription": "A doctor from a middle-class family in Solapur who sailed to China in 1938 with a five-man medical mission, operated for the Communist Eighth Route Army, married a Chinese nurse and died at thirty-two. China built him memorials, printed his face on stamps and still brings leaders to his family's door. In India, his own country, he is almost unknown.",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Solapur",
+    "category": [
+      "Medicine",
+      "Humanitarianism",
+      "History",
+      "Unsung Heroes",
+      "Courage"
+    ],
+    "birthYear": 1910,
+    "deathYear": 1942,
+    "storyDate": "1938–1942",
+    "heroImage": "assets/images/stories/dwarkanath-kotnis/portrait.jpg",
+    "tags": [
+      "Dwarkanath Kotnis",
+      "India-China friendship",
+      "Indian Medical Mission",
+      "Eighth Route Army",
+      "Sino-Japanese War",
+      "Norman Bethune",
+      "Yan'an",
+      "field surgery",
+      "medical missions",
+      "Solapur",
+      "Hebei",
+      "Guo Qinglan",
+      "unsung heroes",
+      "memory and history"
+    ],
+    "verified": true
   }
 ]
