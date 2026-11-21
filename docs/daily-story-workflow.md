@@ -57,6 +57,33 @@ speaker warms a room before making the point.
   flourish.
 - **Orator's test.** Read the chapter aloud. If a sentence stumbles, rewrite it.
 
+## Narrative flow — feel it, don't dump it (mandatory)
+
+Facts are the material, not the delivery. A verified fact must arrive inside a
+scene, a choice or a consequence — never as a standalone inventory item. The
+reader should feel they have followed one life, not read a file.
+
+- **No information dumping.** Never run a string of bare facts in sequence
+  ("He did X. He did Y. He did Z."). Group them around a single human beat —
+  a decision, a loss, a risk, a small detail that carries meaning — and let the
+  facts support that beat.
+- **Give the person interiority.** What did they want, fear, choose, refuse,
+  regret? When a letter, speech or memoir records a feeling, use it. When it
+  does not, show the feeling through what the person *did* — never invent a
+  thought or emotion.
+- **Scenes, then meaning.** Open a moment in a real place with concrete detail,
+  then draw the reflection from it. Do not state the theme first and illustrate
+  it afterwards.
+- **Vary the rhythm.** Short sentences for impact, longer ones for reflection.
+  Break up lists. Read aloud: if a paragraph sounds like a résumé or a report,
+  rewrite it.
+- **Keep the source ledger out of the story.** Source conflicts, hedges and
+  myth-debunking belong in the research notes and `sources[]` notes, not in the
+  reader-facing prose. State only what is established, and state it warmly.
+- **Flow test.** For each chapter, ask: does this read like a life unfolding, or
+  like facts being delivered? If it is the latter, find the human thread and
+  lead with that.
+
 ## Daily input format
 ```
 HOOK (~100 words): <the opening hook to be refined, or a seed for it>
