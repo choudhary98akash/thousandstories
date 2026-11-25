@@ -627,5 +627,28 @@
       "unsung heroes"
     ],
     "verified": true
+  },
+  {
+    "id": 21,
+    "slug": "madam-c-j-walker",
+    "personName": "Madam C. J. Walker",
+    "title": "Promoted from the Washtub",
+    "shortDescription": "Orphaned at seven, widowed at nineteen, with a washboard and a little girl to keep, Sarah Breedlove built a hair-care company that employed nearly twenty thousand women. She gave other women work, marched against lynching and built Villa Lewaro on the Hudson so her people could see what their background could not stop.",
+    "country": "United States",
+    "state": "Louisiana",
+    "city": "Delta",
+    "category": [
+      "Entrepreneurship",
+      "Women Who Changed History",
+      "Social Change",
+      "Resilience",
+      "Unsung Heroes",
+      "History"
+    ],
+    "birthYear": 1867,
+    "deathYear": 1919,
+    "storyDate": "1882–1919",
+    "heroImage": "assets/images/stories/madam-c-j-walker/portrait.jpg",
+    "verified": true
   }
 ]

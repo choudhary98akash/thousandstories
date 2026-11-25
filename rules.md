@@ -10,6 +10,7 @@
 - Run ng build --configuration production to verify build passes.
 - Keep story data in `src/assets/data/`. Reason: static hosting on GitHub Pages.
 - Every story must have sources. Reason: project identity is truth-first.
+- Write with **human touch flow**: scene-led, relatable and enjoyable, with facts arriving through a person's choices, losses and small acts of dignity. Reason: the user has repeatedly required stories that are lived through, not dumped as fact sheets.
 - Use semantic HTML and proper ARIA attributes. Reason: accessibility is a core requirement.
 - Include alt text on all images. Reason: accessibility.
 - Support mobile-first responsive design. Reason: story-reading optimized for mobile.
@@ -17,6 +18,7 @@
 ## Must not
 - DO NOT use AI-generated images of people. Reason: truth-first principle — real photos only from public-domain or freely-licensed sources (GODL/CC BY(-SA), always credited). Godl/CC images require the author/source + license in the credit, exactly as stored in `src/assets/data/*.json`.
 - DO NOT fabricate or fictionalize stories. Reason: the platform's credibility is the product.
+- DO NOT hand over a draft that merely states facts or reads like a report or résumé. Reason: a first-time reader must be able to follow, relate and enjoy; fix the flow before presenting it.
 - DO NOT add dependencies without asking. Reason: dependency bloat is the #1 drift source.
 - DO NOT run deploy commands. Reason: CI-only via GitHub Actions.
 - DO NOT edit generated output (dist/). Reason: regenerate instead.

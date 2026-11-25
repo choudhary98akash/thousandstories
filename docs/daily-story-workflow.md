@@ -84,6 +84,31 @@ reader should feel they have followed one life, not read a file.
   like facts being delivered? If it is the latter, find the human thread and
   lead with that.
 
+### Human touch flow — non-negotiable user rule (2026-11-25)
+
+This is the rule the user has had to repeat. A factually correct draft is not
+finished if it reads like a fact sheet. Before a story is handed over, every
+chapter must pass all of these:
+
+- **Relatability before information.** Open with a problem a reader can feel —
+  a closed door, a returned dime, a question about a child, a washboard, or
+  an impossible ticket — then bring in the date and number. Never lead with the
+  inventory.
+- **One human turn per chapter.** Each chapter must contain a choice, a refusal,
+  a risk, a loss or a small act of dignity. If a chapter can be summarised as
+  'she did X, then Y, then Z', rewrite it around the human turn.
+- **Sourced emotion only.** Use recorded words or actions for feeling. Do not
+  write 'she felt proud/afraid/determined' unless a source records it; show it
+  through what the person said or did.
+- **Warmth and rhythm.** Alternate short, concrete sentences with longer
+  reflective ones. Prefer verbs to abstract nouns. End a chapter on an image or
+  a consequence, not a statistic.
+- **Enjoyment test.** Read one chapter aloud to someone who has never heard the
+  name. If they want to skip, the chapter is not done.
+- **No plain-facts handover.** 'Stating the facts' is the failure mode, not the
+  goal. The facts are the material; the reader must come away having shared a
+  life.
+
 ## Daily input format
 ```
 HOOK (~100 words): <the opening hook to be refined, or a seed for it>
