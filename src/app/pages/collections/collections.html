@@ -27,14 +27,7 @@
       </div>
       <div class="collection-row">
         @for (story of collection.stories; track story.id) {
-        <a class="member" [routerLink]="['/stories', story.slug]">
-          <p class="member-num">{{ pad(story.id) }}</p>
-          <h3 class="member-name">{{ story.personName }}</h3>
-          <p class="member-meta">
-            {{ story.country }} @if (story.storyDate) { · {{ story.storyDate }}
-            }
-          </p>
-        </a>
+        <app-story-card [story]="story" />
         }
       </div>
     </div>

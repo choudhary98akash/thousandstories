@@ -16,6 +16,8 @@ thousandstories/
 │   │   │       ├── story.service.ts         # Loads/filters/searches stories
 │   │   │       ├── seo.service.ts           # Dynamic meta tags (title/OG/Twitter/JSON-LD)
 │   │   │       └── ebook.service.ts         # Selected stories -> print-ready HTML in a new tab
+│   │   ├── shared/
+│   │   │   └── story-card/                  # Reusable compact story card (thumbnail + name + blurb)
 │   │   ├── pages/
 │   │   │   ├── home/                        # Homepage
 │   │   │   ├── explore/                     # All stories + filters
@@ -78,7 +80,7 @@ thousandstories/
 - There is **no** prebuilt complete-book artifact and no build/CI step for this feature — the story JSON files remain the single source of truth
 
 ## Cross-cutting concerns
-- Shared code lives in `src/app/shared/` — imported by pages as needed
+- Shared code lives in `src/app/shared/` — imported by pages as needed. `StoryCard` is the compact story card (portrait, story number, name, country · date, clamped blurb) used by both `/people` and `/collections`; the `/ebook` picker keeps its own checkbox variant
 - Models in `src/app/core/models/` — used across all layers
 - Services in `src/app/core/services/` — singleton services for data access
 - Styles: global SCSS tokens in `src/styles.scss`, component-level SCSS

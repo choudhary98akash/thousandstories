@@ -1,7 +1,7 @@
 import { Component, inject, signal } from "@angular/core";
-import { RouterLink } from "@angular/router";
 import { StoryService } from "../../core/services/story.service";
 import { StorySummary } from "../../core/models/story.model";
+import { StoryCard } from "../../shared/story-card/story-card";
 
 interface PersonEntry {
   letter: string;
@@ -9,7 +9,7 @@ interface PersonEntry {
 }
 
 @Component({
-  imports: [RouterLink],
+  imports: [StoryCard],
   selector: "app-people",
   styleUrl: "./people.scss",
   templateUrl: "./people.html",

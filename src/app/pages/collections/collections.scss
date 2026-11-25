@@ -57,55 +57,8 @@
 
   .collection-row {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     gap: 16px;
-  }
-
-  .member {
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
-    background: var(--card);
-    border: 1px solid var(--line);
-    border-radius: var(--radius-md);
-    padding: 22px 20px;
-    color: var(--ink);
-    transition:
-      transform 0.2s ease,
-      box-shadow 0.2s ease,
-      border-color 0.2s ease;
-
-    &:hover {
-      transform: translateY(-3px);
-      box-shadow: var(--shadow-1);
-      border-color: var(--line);
-      color: var(--ink);
-
-      .member-name {
-        color: var(--accent);
-      }
-    }
-
-    .member-num {
-      font-family: var(--font-display);
-      font-size: 13px;
-      color: var(--gold);
-      letter-spacing: 0.1em;
-      margin: 0;
-    }
-
-    .member-name {
-      font-size: 20px;
-      font-weight: 800;
-      margin: 0;
-      transition: color 0.15s ease;
-    }
-
-    .member-meta {
-      font-size: 13px;
-      color: var(--muted);
-      margin: 0;
-    }
   }
 }
 

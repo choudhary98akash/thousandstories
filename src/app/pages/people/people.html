@@ -34,19 +34,11 @@
         <hr class="rule-line" />
         <span class="letter-count">{{ entry.people.length }}</span>
       </div>
-      <ul class="people-list">
+      <div class="people-grid">
         @for (person of entry.people; track person.id) {
-        <li>
-          <a class="person-name" [routerLink]="['/stories', person.slug]">
-            {{ person.personName }}
-          </a>
-          <span class="person-meta">
-            · {{ person.country }} @if (person.storyDate) { · {{
-            person.storyDate }} }
-          </span>
-        </li>
+        <app-story-card [story]="person" />
         }
-      </ul>
+      </div>
     </section>
     } }
   </div>

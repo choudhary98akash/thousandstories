@@ -2,6 +2,7 @@ import { Component, inject, signal } from "@angular/core";
 import { RouterLink } from "@angular/router";
 import { StoryService } from "../../core/services/story.service";
 import { StorySummary } from "../../core/models/story.model";
+import { StoryCard } from "../../shared/story-card/story-card";
 
 interface Collection {
   name: string;
@@ -9,7 +10,7 @@ interface Collection {
 }
 
 @Component({
-  imports: [RouterLink],
+  imports: [RouterLink, StoryCard],
   selector: "app-collections",
   styleUrl: "./collections.scss",
   templateUrl: "./collections.html",
@@ -38,9 +39,5 @@ export class Collections {
       this.collections.set(sorted);
       this.loading.set(false);
     });
-  }
-
-  pad(id: number): string {
-    return String(id).padStart(4, "0");
   }
 }
