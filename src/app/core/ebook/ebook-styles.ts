@@ -8,7 +8,7 @@ export const EBOOK_CSS = `
 
 @page {
   size: A4;
-  margin: 20mm 18mm;
+  margin: 18mm 16mm;
 }
 
 *,
@@ -139,9 +139,17 @@ img { display: block; max-width: 100%; }
   text-transform: uppercase;
   color: var(--muted);
 }
+.book-cover--front {
+  break-before: auto;
+  page-break-before: auto;
+  break-after: page;
+  page-break-after: always;
+}
 .book-cover--back {
   break-before: page;
   page-break-before: always;
+  break-after: auto;
+  page-break-after: auto;
 }
 .cover-frame--back { justify-content: flex-start; text-align: left; padding: 70px 64px; }
 .cover-frame--back::before { inset: 24px; }
@@ -196,8 +204,8 @@ img { display: block; max-width: 100%; }
   max-width: 760px;
   margin: 0 auto;
   padding: 64px 24px 40px;
-  break-before: page;
-  page-break-before: always;
+  break-before: auto;
+  page-break-before: auto;
 }
 .contents h1 {
   margin: 0;
@@ -515,36 +523,41 @@ h1, h2, h3,
 
   /* One forced break per page unit: cover -> contents -> stories -> back.
      Flex and floats paginate unpredictably, so print uses plain block flow. */
+  /* Covers size to their content and stay unbreakable. Fixed page-height
+     covers overflow whenever the browser applies different print margins or
+     scale, so they are deliberately avoided here. */
   .book-cover {
     display: block;
-    height: 248mm;
+    width: 100%;
+    height: auto;
     min-height: 0;
     margin: 0;
     border: 0;
     box-shadow: none;
+    overflow: visible;
     break-inside: avoid;
     page-break-inside: avoid;
   }
   .cover-frame {
     display: block;
-    height: 248mm;
-    padding: 48mm 16mm 0;
+    height: auto;
+    padding: 52mm 20mm 24mm;
     text-align: center;
   }
-  .cover-frame::before { inset: 12mm; }
-  .cover-mark { margin: 14mm auto 8mm; }
-  .cover-eyebrow { margin-bottom: 9mm; }
-  .cover-title { font-size: 72px; }
-  .cover-author { margin-top: 8mm; }
-  .cover-tagline { margin-top: 11mm; }
+  .cover-frame::before { display: none; }
+  .cover-mark { margin: 0 auto 8mm; }
+  .cover-eyebrow { margin-bottom: 7mm; }
+  .cover-title { font-size: 68px; }
+  .cover-author { margin-top: 7mm; }
+  .cover-tagline { margin-top: 9mm; }
   .cover-frame--back {
-    height: 208mm;
-    padding: 26mm 16mm 0;
+    height: auto;
+    padding: 30mm 20mm 24mm;
     text-align: left;
   }
-  .cover-frame--back .cover-mark { margin: 0 0 10mm; }
+  .cover-frame--back .cover-mark { margin: 0 0 8mm; }
   .back-title { font-size: 30px; }
-  .disclaimer { margin-top: 14mm; }
+  .disclaimer { margin-top: 10mm; padding-top: 5mm; }
 
   .contents, .story, .book-references { padding-left: 0; padding-right: 0; }
   .contents, .story, .book-references { padding-top: 0; }
