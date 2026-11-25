@@ -28,14 +28,21 @@ export const routes: Routes = [
   },
   {
     path: "people",
-    title: "People — A Thousand Stories",
-    loadComponent: () => import("./pages/people/people").then((m) => m.People),
+    pathMatch: "full",
+    redirectTo: ({ queryParams }) => {
+      const params = new URLSearchParams(queryParams as Record<string, string>);
+      params.set("view", "people");
+      return `/stories?${params.toString()}`;
+    },
   },
   {
     path: "collections",
-    title: "Collections — A Thousand Stories",
-    loadComponent: () =>
-      import("./pages/collections/collections").then((m) => m.Collections),
+    pathMatch: "full",
+    redirectTo: ({ queryParams }) => {
+      const params = new URLSearchParams(queryParams as Record<string, string>);
+      params.set("view", "collections");
+      return `/stories?${params.toString()}`;
+    },
   },
   {
     path: "about",

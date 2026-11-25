@@ -17,87 +17,181 @@
         <div class="stat-num">{{ countries().length }}</div>
         <div class="stat-label">Countries</div>
       </div>
+      <div class="stat">
+        <div class="stat-num">{{ categories().length }}</div>
+        <div class="stat-label">Collections</div>
+      </div>
     </div>
   </div>
 </section>
 
 <section class="explore-body">
   <div class="container">
-    <div class="filter-bar">
-      <div class="search-wrap">
-        <label class="sr-only" for="search">Search stories</label>
-        <input
-          id="search"
-          class="search-input"
-          type="search"
-          placeholder="Search a person, place or theme…"
-          [value]="query()"
-          (input)="setQuery($any($event.target).value)"
-        />
-      </div>
-
-      <div class="select-group">
-        <label class="select-label" for="cat-select">Category</label>
-        <select
-          id="cat-select"
-          [value]="selectedCategory()"
-          (change)="setCategory($any($event.target).value)"
-        >
-          <option value="">All</option>
-          @for (cat of categories(); track cat) {
-          <option [value]="cat">{{ cat }}</option>
-          }
-        </select>
-      </div>
-
-      <div class="select-group">
-        <label class="select-label" for="country-select">Country</label>
-        <select
-          id="country-select"
-          [value]="selectedCountry()"
-          (change)="setCountry($any($event.target).value)"
-        >
-          <option value="">All</option>
-          @for (country of countries(); track country) {
-          <option [value]="country">{{ country }}</option>
-          }
-        </select>
-      </div>
+    <div class="view-tabs" role="tablist" aria-label="Stories views">
+      @for (view of views; track view) {
+      <button
+        [id]="'view-tab-' + view"
+        class="view-tab"
+        type="button"
+        role="tab"
+        [attr.aria-selected]="activeView() === view"
+        [attr.aria-controls]="'view-panel-' + view"
+        [attr.tabindex]="activeView() === view ? 0 : -1"
+        [class.active]="activeView() === view"
+        (click)="setView(view)"
+        (keydown)="onTabKeydown($event)"
+      >
+        {{ viewLabel(view) }}
+        <span class="view-tab-count" aria-hidden="true">
+          @if (view === 'stories') { {{ stories().length }} } @else if (view
+          === 'people') { {{ stories().length }} } @else {
+          {{ collections().length }} }
+        </span>
+      </button>
+      }
     </div>
 
     @if (loading()) {
     <p class="state">Gathering the archive…</p>
-    } @else if (filteredStories().length === 0) {
-    <p class="state">
-      No stories match these filters. Try widening your search.
-    </p>
-    } @else {
-    <p class="result-count">
-      @let list = filteredStories();
-      <span class="count">{{ list.length }}</span>
-      story{{ list.length === 1 ? '' : 's' }} found
-    </p>
+    } @else if (activeView() === 'stories') {
+    <section
+      id="view-panel-stories"
+      role="tabpanel"
+      aria-labelledby="view-tab-stories"
+      class="view-panel"
+    >
+      <div class="filter-bar">
+        <div class="search-wrap">
+          <label class="sr-only" for="search">Search stories</label>
+          <input
+            id="search"
+            class="search-input"
+            type="search"
+            placeholder="Search a person, place or theme…"
+            [value]="query()"
+            (input)="onSearchInput($event)"
+          />
+        </div>
 
-    <div class="story-grid">
-      @for (story of list; track story.id) {
-      <a class="ed-card" [routerLink]="['/stories', story.slug]">
-        <p class="ed-num">{{ pad(story.id) }}</p>
-        <h3 class="ed-name">{{ story.personName }}</h3>
-        <p class="ed-loc">
-          {{ story.country }} @if (story.state) { · {{ story.state }} }
-        </p>
-        <p class="ed-desc">{{ story.shortDescription }}</p>
-        <div class="ed-tags">
-          @for (cat of story.category; track cat) {
-          <span class="tag">{{ cat }}</span>
+        <div class="select-group">
+          <label class="select-label" for="cat-select">Category</label>
+          <select
+            id="cat-select"
+            [value]="selectedCategory()"
+            (change)="onCategoryChange($event)"
+          >
+            <option value="">All</option>
+            @for (cat of categories(); track cat) {
+            <option [value]="cat">{{ cat }}</option>
+            }
+          </select>
+        </div>
+
+        <div class="select-group">
+          <label class="select-label" for="country-select">Country</label>
+          <select
+            id="country-select"
+            [value]="selectedCountry()"
+            (change)="onCountryChange($event)"
+          >
+            <option value="">All</option>
+            @for (country of countries(); track country) {
+            <option [value]="country">{{ country }}</option>
+            }
+          </select>
+        </div>
+      </div>
+
+      <div class="stories-actions">
+        <a class="btn btn-primary" routerLink="/ebook">Create eBook</a>
+      </div>
+
+      @if (filteredStories().length === 0) {
+      <p class="state">
+        No stories match these filters. Try widening your search.
+      </p>
+      } @else {
+      <p class="result-count">
+        @let list = filteredStories();
+        <span class="count">{{ list.length }}</span>
+        story{{ list.length === 1 ? '' : 's' }} found
+      </p>
+
+      <div class="story-grid">
+        @for (story of list; track story.id) {
+        <app-story-card [story]="story" />
+        }
+      </div>
+      }
+    </section>
+    } @else if (activeView() === 'people') {
+    <section
+      id="view-panel-people"
+      role="tabpanel"
+      aria-labelledby="view-tab-people"
+      class="view-panel"
+    >
+      <p class="view-intro">
+        Real people, arranged alphabetically. Follow any name to the account of
+        what they did and lived through.
+      </p>
+
+      <nav class="alphabet" aria-label="Jump to letter">
+        @for (entry of people(); track entry.letter) {
+        <button
+          type="button"
+          class="alphabet-link"
+          (click)="scrollToLetter(entry.letter)"
+        >
+          {{ entry.letter }}
+        </button>
+        }
+      </nav>
+
+      @for (entry of people(); track entry.letter) {
+      <section [id]="'letter-' + entry.letter" class="letter-group">
+        <div class="letter-row">
+          <h2 class="letter">{{ entry.letter }}</h2>
+          <hr class="rule-line" />
+          <span class="letter-count">{{ entry.people.length }}</span>
+        </div>
+        <div class="story-grid">
+          @for (person of entry.people; track person.id) {
+          <app-story-card [story]="person" />
           }
         </div>
-        <span class="ed-link"
-          >Read the story <span aria-hidden="true">→</span></span
-        >
-      </a>
+      </section>
       }
-    </div>
+    </section>
+    } @else {
+    <section
+      id="view-panel-collections"
+      role="tabpanel"
+      aria-labelledby="view-tab-collections"
+      class="view-panel"
+    >
+      <p class="view-intro">
+        Lives grouped by the experiences they share — courage, discovery,
+        resilience and more.
+      </p>
+
+      @for (collection of collections(); track collection.name) {
+      <div class="collection">
+        <div class="collection-head">
+          <h2 class="collection-title">{{ collection.name }}</h2>
+          <span class="collection-count">
+            {{ collection.stories.length }} story{{ collection.stories.length ===
+            1 ? '' : 's' }}
+          </span>
+        </div>
+        <div class="story-grid">
+          @for (story of collection.stories; track story.id) {
+          <app-story-card [story]="story" />
+          }
+        </div>
+      </div>
+      }
+    </section>
     }
   </div>
 </section>

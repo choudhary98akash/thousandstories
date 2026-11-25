@@ -20,12 +20,6 @@
       <a routerLink="/stories" routerLinkActive="active" (click)="closeNav()"
         >Stories</a
       >
-      <a routerLink="/people" routerLinkActive="active" (click)="closeNav()"
-        >People</a
-      >
-      <a routerLink="/collections" routerLinkActive="active" (click)="closeNav()"
-        >Collections</a
-      >
       <a routerLink="/about" routerLinkActive="active" (click)="closeNav()"
         >About</a
       >
@@ -60,8 +54,18 @@
         <h4>Explore</h4>
         <ul>
           <li><a routerLink="/stories">All Stories</a></li>
-          <li><a routerLink="/people">People</a></li>
-          <li><a routerLink="/collections">Collections</a></li>
+          <li>
+            <a routerLink="/stories" [queryParams]="{ view: 'people' }"
+              >People</a
+            >
+          </li>
+          <li>
+            <a
+              routerLink="/stories"
+              [queryParams]="{ view: 'collections' }"
+              >Collections</a
+            >
+          </li>
         </ul>
       </div>
       <div>

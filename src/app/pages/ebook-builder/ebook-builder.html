@@ -55,6 +55,18 @@
     </div>
   </div>
 
+  <div class="toolbar-create">
+    <button
+      class="btn btn-primary"
+      type="button"
+      [disabled]="!selectedCount() || building()"
+      (click)="build()"
+    >
+      {{ building() ? "Building…" : "Create eBook" }}
+      <span aria-hidden="true">→</span>
+    </button>
+  </div>
+
   @if (loading()) {
   <p class="note">Gathering the archive…</p>
   } @else {

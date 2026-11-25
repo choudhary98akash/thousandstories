@@ -17,14 +17,12 @@ thousandstories/
 │   │   │       ├── seo.service.ts           # Dynamic meta tags (title/OG/Twitter/JSON-LD)
 │   │   │       └── ebook.service.ts         # Selected stories -> print-ready HTML in a new tab
 │   │   ├── shared/
-│   │   │   └── story-card/                  # Reusable compact story card (thumbnail + name + blurb)
+│   │   │   └── story-card/                  # Reusable compact story card (thumbnail + name + blurb + tags)
 │   │   ├── pages/
 │   │   │   ├── home/                        # Homepage
-│   │   │   ├── explore/                     # All stories + filters
+│   │   │   ├── explore/                     # Stories/People/Collections tabs (?view=)
 │   │   │   ├── story-detail/                # Individual story (chapters + inline photos)
 │   │   │   ├── ebook-builder/               # Choose stories -> generated print-ready book (/ebook)
-│   │   │   ├── people/                      # People directory
-│   │   │   ├── collections/                 # Curated collections
 │   │   │   ├── about/                       # About page (+ feedback email)
 │   │   │   └── methodology/                 # Sources & methodology
 │   │   ├── app.config.ts                    # App bootstrap config
@@ -80,7 +78,7 @@ thousandstories/
 - There is **no** prebuilt complete-book artifact and no build/CI step for this feature — the story JSON files remain the single source of truth
 
 ## Cross-cutting concerns
-- Shared code lives in `src/app/shared/` — imported by pages as needed. `StoryCard` is the compact story card (portrait, story number, name, country · date, clamped blurb) used by both `/people` and `/collections`; the `/ebook` picker keeps its own checkbox variant
+- Shared code lives in `src/app/shared/` — imported by pages as needed. `StoryCard` is the compact story card (portrait, story number, name, country · date, clamped blurb, tags) used by the `/stories` tabs; the `/ebook` picker keeps its own checkbox variant
 - Models in `src/app/core/models/` — used across all layers
 - Services in `src/app/core/services/` — singleton services for data access
 - Styles: global SCSS tokens in `src/styles.scss`, component-level SCSS

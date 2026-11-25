@@ -1,5 +1,5 @@
 import { Component, inject, signal } from "@angular/core";
-import { RouterLink } from "@angular/router";
+import { Router, RouterLink } from "@angular/router";
 import { StoryService } from "../../core/services/story.service";
 import { StorySummary } from "../../core/models/story.model";
 
@@ -11,6 +11,7 @@ import { StorySummary } from "../../core/models/story.model";
 })
 export class Home {
   private readonly storyService = inject(StoryService);
+  private readonly router = inject(Router);
 
   readonly stories = signal<StorySummary[]>([]);
   readonly featured = signal<StorySummary | undefined>(undefined);
@@ -49,7 +50,7 @@ export class Home {
     const stories = this.stories();
     if (stories.length) {
       const random = stories[Math.floor(Math.random() * stories.length)];
-      window.location.href = `/stories/${random.slug}`;
+      void this.router.navigate(["/stories", random.slug]);
     }
   }
 
