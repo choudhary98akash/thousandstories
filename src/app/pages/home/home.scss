@@ -420,13 +420,88 @@
 
 /* ---------- Responsive ---------- */
 @media (max-width: 860px) {
-  .featured-grid,
+  .featured-story {
+    .featured-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .featured-media {
+      aspect-ratio: 3 / 2;
+
+      img {
+        object-position: center 20%;
+      }
+
+      .quote-mark {
+        top: -24px;
+        left: 16px;
+        font-size: 120px;
+      }
+    }
+  }
+
   .discover-grid,
   .mission-principles {
     grid-template-columns: 1fr;
   }
+}
 
-  .featured-media {
-    aspect-ratio: 16 / 10;
+@media (max-width: 560px) {
+  .featured-story {
+    padding: 52px 0 64px;
+
+    .featured-topline {
+      gap: 14px;
+    }
+
+    .featured-grid {
+      gap: 26px;
+      margin-top: 28px;
+    }
+
+    .featured-media {
+      aspect-ratio: 1 / 1;
+      box-shadow: var(--shadow-1);
+
+      img {
+        object-position: center 15%;
+      }
+
+      .quote-mark {
+        display: none;
+      }
+    }
+
+    .featured-name {
+      font-size: clamp(32px, 9vw, 42px);
+      line-height: 1.08;
+    }
+
+    .featured-loc {
+      margin-top: 10px;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+
+    .featured-desc {
+      font-size: 17px;
+      line-height: 1.62;
+      margin-top: 16px;
+    }
+
+    .featured-tags {
+      gap: 6px;
+      margin: 18px 0 24px;
+    }
+
+    .tag {
+      font-size: 11px;
+      padding: 5px 10px;
+    }
+
+    .btn-ink {
+      width: 100%;
+      justify-content: center;
+    }
   }
 }

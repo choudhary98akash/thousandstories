@@ -14,6 +14,7 @@
 - Use semantic HTML and proper ARIA attributes. Reason: accessibility is a core requirement.
 - Include alt text on all images. Reason: accessibility.
 - Support mobile-first responsive design. Reason: story-reading optimized for mobile.
+- Match selector specificity when overriding base styles in media queries (nest under the same parent, e.g. `.featured-story .featured-grid`, `.site-footer .footer-top`). Reason: a lower-specificity mobile rule is silently ignored, leaving the desktop layout on phones.
 
 ## Must not
 - DO NOT use AI-generated images of people. Reason: truth-first principle — real photos only from public-domain or freely-licensed sources (GODL/CC BY(-SA), always credited). Godl/CC images require the author/source + license in the credit, exactly as stored in `src/assets/data/*.json`.
