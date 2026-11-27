@@ -1,0 +1,244 @@
+{
+  "id": 23,
+  "slug": "pele",
+  "slugKey": "stories/pele",
+  "title": "The Boy Who Promised His Father a World Cup",
+  "personName": "Pelé",
+  "person": {
+    "name": "Pelé",
+    "gender": "male",
+    "bornLabel": "1940–2022"
+  },
+  "shortDescription": "A boy in Bauru who hated the nickname Pelé watched his father cry after Brazil lost the 1950 World Cup and promised him a trophy. He would win three — and spend a lifetime as a name the world knew better than his own.",
+  "country": "Brazil",
+  "state": "São Paulo",
+  "city": "Bauru",
+  "category": [
+    "Sports",
+    "Achievement",
+    "Courage",
+    "Resilience",
+    "Leadership",
+    "Social Change"
+  ],
+  "birthYear": 1940,
+  "deathYear": 2022,
+  "storyDate": "1940–2023",
+  "heroImage": "assets/images/stories/pele/portrait.jpg",
+  "introduction": "Edson Arantes do Nascimento hated the name Pelé. Classmates called him it until he punched one and lost two days of school. He wanted to be Edson, named after the American inventor Thomas Edison — serious, important. But the name stuck, and by the time he was seventeen the world was watching it: a thin boy from Bauru, Brazil, running at defenders in the 1958 World Cup final. He had promised his father a World Cup after seeing him cry over a defeat in 1950. Now he had two goals, a tearful lap of honour and no way to call home except the radio. The boy inside the name never quite disappeared. This is his story.",
+  "chapters": [
+    {
+      "heading": "The name he punched for",
+      "paragraphs": [
+        "The boy who would be known to billions as Pelé was born Edson Arantes do Nascimento on 23 October 1940 in Três Corações, a small town in the state of Minas Gerais, Brazil. His father, João Ramos do Nascimento, was a lower-league footballer known as Dondinho; his mother was Celeste Arantes. Dondinho never reached the top flight, and money was short in the house. They named their first son after Thomas Edison. At home the boy was Dico. At school he became something else. Brazilians love nicknames, and a goalkeeper his father played with, José Lino, was called Bilé. Edson cheered him with a mispronunciation — Pilé, then Pelé — and the sound followed him when the family moved to Bauru, a town in São Paulo state, when he was five or six.",
+        "He hated it. 'I was really proud that I was named after Thomas Edison and wanted to be called Edson,' he wrote later. 'I thought Pele sounded horrible. It was a rubbish name. Edson sounded so much more serious and important.' When children shouted 'Hey, Pele' he shouted back; once he punched a classmate and earned a two-day suspension. It did not work. He never did know for certain where the name came from. 'I can never be 100% certain about the origin,' he wrote, decades after the world had stopped calling him anything else.",
+        "Bauru was where he grew up, in a family that did not have much. He sold tea on the streets and played football with other children, kicking whatever they could find when a proper ball was beyond reach. His measure of greatness came from his father. 'To this day I'm very proud that my father is the only player I know of who scored five headers in one game,' he said. Long before there were trophies, there was a boy measuring a man's worth by five headers in the air — and a name he could not shake off."
+      ]
+    },
+    {
+      "heading": "The man at the radio",
+      "paragraphs": [
+        "In 1950 Brazil hosted the World Cup, football's global tournament, and lost the final to Uruguay at the Maracanã, the vast stadium in Rio de Janeiro. The boy was still young. His father had arranged a party for a Brazilian win and had sat listening to the match on the radio with friends. 'That was the first time that I saw my father crying because Brazil lost 2-1,' Pelé remembered. He asked why. 'Brazil has just lost against Uruguay and the celebrations will not take place,' his father said. The boy made a promise: 'Do not worry, I will win a World Cup for you.'",
+        "That promise gives the childhood its shape. The street games in Bauru were not practice for a career; they were a way of living in a town where a father's football dreams had ended early. Dondinho's friend Valdemar de Brito, who coached a junior team, saw the boy play and told Santos, a club on Brazil's southern coast, to take him. In 1956, at fifteen, Edson travelled to Santos. He was thin enough that people noticed. 'In 1956, a skinny kid from Bauru arrived,' a Santos historian remembered. 'He was dribbling past everyone. Everyone was asking who he was.'",
+        "He made his debut on 7 September 1956 and scored. A year later, at sixteen, he played for Brazil at the Maracanã against Argentina and scored again. The name on the shirt was still Pelé, the name he had fought in the schoolyard. Now it was appearing in match reports. He had promised his father a World Cup; he had not said so outside Bauru. The first step was simply to keep being picked."
+      ]
+    },
+    {
+      "heading": "Seventeen, and a bad knee",
+      "paragraphs": [
+        "Sweden, 1958. Brazil's squad flew to the World Cup and Pelé, seventeen, damaged his knee in a practice match. He watched the first two games from the touchline while a team psychologist argued against playing him. 'I am worried because Pelé is very young, just 17, and he might not cope with the pressure of playing against the Europeans,' the psychologist said. The coach answered: 'He was with the main team when he left Brazil, and has recovered well. I will put him to play.' Pelé's judgement on the episode was short: 'I think that psychology does not work very well in football!'",
+        "There was another detail that would become legend: the number on his back. Brazil had forgotten to submit squad numbers, so officials handed them out at random. Pelé, a reserve, was given ten. The shirt that would one day be sacred in Brazil began as an administrative accident. He played the quarter-final against Wales, scored the goal that qualified Brazil, and later called it 'the goal that opened the door to my career.' Against France he scored three times in a 5–2 win. In the final, against the host country, Sweden, he scored twice as Brazil won 5–2.",
+        "The Swedish crowd stood and applauded the winners. Brazil took a lap of honour carrying the Swedish flag. 'I was very touched and even cried,' Pelé said. The tears had another cause: there was no telephone call home, only the radio, and he did not know whether his father in Bauru knew the result. 'The anxiety and the final laps around the field brought me to tears,' he said. When he finally spoke to his father over an international radio link, the message was pure protocol and pure boy: 'Did you see me with the Swedish king? Over.' 'I shook the king's hand. Over.' Somewhere in Brazil, the man at the radio had been given his answer."
+      ],
+      "media": {
+        "src": "assets/images/stories/pele/brazil.jpg",
+        "alt": "Pelé weeping beside Djalma Santos and Gilmar after Brazil won the 1958 World Cup final",
+        "caption": "Pelé, flanked by Djalma Santos and Gilmar, weeps after the 1958 final. He later said the lap of honour and the worry about his father brought him to tears.",
+        "credit": "Pressens Bild / Wikimedia Commons — Public domain"
+      }
+    },
+    {
+      "heading": "The worst year",
+      "paragraphs": [
+        "Four years later, in Chile, Brazil defended the title. Pelé injured his leg in a group match against Czechoslovakia and did not play the final, which Brazil won again. 'On one hand it was good that Brazil won the World Cup, but on the other hand it was not good for me because I was left on the sidelines,' he said. A champion watching from the bench is a different kind of champion. He had promised his father one World Cup and delivered two, but the second had been won without him.",
+        "England, 1966, was harder. Brazil arrived as holders and left in the first round. Against Bulgaria at Goodison Park, Pelé was repeatedly fouled and finished with a hematoma behind his knee. The Bulgarian defender Jetchev was asked afterwards why he kept tackling. 'As soon as Pelé received the ball, I anticipated: sliding tackle. The problem was I never knew which feint he would do,' he said. 'In fact, I was always late.' Against Portugal, João Morais fouled him twice, before half-time and again after the break, and was not sent off. 'In the dressing room at half-time, I cried with rage and despair. I thought I was going to go mad,' Pelé said.",
+        "'It was the worst year of my life, because the Brazilian team did not win and I had a knee injury,' he said. 'I actually thought I was not going to recover.' He had been kicked, he wrote, 'from pillar to post', and there were moments when he considered leaving the game. He did not. 'It was a good lesson for Brazil. It made us prepare better for the 1970 World Cup,' he said. 'In that aspect, what happened was very important.' In November 1969 he scored his thousandth goal, a penalty at the Maracanã against Vasco da Gama, in his 909th first-class match. The boy who had wept over a radio message to his father in Sweden was still scoring."
+      ]
+    },
+    {
+      "heading": "The pass everyone remembers",
+      "paragraphs": [
+        "By 1970 Brazil had a new coach, Mário Zagallo, and a dispute that nearly kept its best player at home. Pelé had initially refused a recall. João Saldanha, the previous coach, had dropped him after a friendly against Chile and was sacked hours later. Zagallo took over. Pelé, now thirty, helped persuade the new coach and the team doctor to select Tostão, a gifted forward recovering from an eye injury. Six goals in six qualifiers followed. 'We used to say, \"Let us not lose this one, because it is definite\",' Pelé said of the tournament in Mexico. Brazil won its third World Cup and kept the Jules Rimet trophy permanently.",
+        "Two moments from those finals define him more than the numbers. In the group stage, Gordon Banks, the England goalkeeper, saved a header that Pelé was certain had gone in. 'I have scored more than a thousand goals in my life and the thing people always talk to me about is the one I didn't score,' he said. In the final against Italy, he laid the ball off without looking for Carlos Alberto to score the fourth goal. For years people called it instinct. 'It is not that I passed the ball without looking,' Pelé said. 'We had prepared that play and had done it in previous games... it was a move we had rehearsed.'",
+        "After the quarter-final win over England, he found Bobby Moore, the England captain, and asked to swap shirts. 'Bobby Moore played like a lord and marked straight; I always had enormous respect for him,' Pelé wrote. 'We exchanged shirts as souvenirs.' Years later he said he still got emotional at the photograph. The man whose name was above all others could still stop after a match to honour the defender who had marked him. 'The only way to win is as a team,' he said. 'Football is not about one or two or three star players.'"
+      ],
+      "media": {
+        "src": "assets/images/stories/pele/world-cup-1970.jpg",
+        "alt": "Pelé celebrating after Brazil won the 1970 World Cup final in Mexico",
+        "caption": "Brazil's 1970 victory in Mexico gave the country a third World Cup and the Jules Rimet trophy to keep.",
+        "credit": "Associated Press (photographer unknown), via El Gráfico / Wikimedia Commons — Public domain"
+      }
+    },
+    {
+      "heading": "A national treasure",
+      "paragraphs": [
+        "Santos wanted to keep him; so did Brazil. In 1961, after interest from Italian clubs, the Brazilian government declared Pelé an 'official national treasure', a designation intended to stop him leaving. Inter Milan, Juventus, Manchester United and Real Madrid all tried to sign him. An official national treasure cannot simply take a contract abroad; the title was a compliment and a cage. He stayed at Santos until 1974. 'After a career of twenty years I stopped playing here in Brazil,' he said. Offers arrived from Europe, Mexico and the United States. Europe paid more. He went to New York instead.",
+        "The reason was practical and paternal. 'That was why I decided to go to the United States, where I would have the chance to study Sports Marketing and for my children to speak English,' he said. The North American Soccer League season lasted only five months, so the family could live without the pressure of a European winter. He joined the New York Cosmos in 1975; on 15 June he scored in his debut against the Dallas Tornado. On 1 October 1977, in a farewell match against Santos, he struck a free kick from thirty yards that was the last goal of his career.",
+        "He had been a national treasure, a brand, a name on shirts and advertisements. In New York he was also a father making a school decision. The choice is small against the scale of the legend, but it is the one he gave when asked why he went. He had spent his twenties and early thirties unable to leave a country that wanted to keep him; he chose New York as a place where his children could learn a new language."
+      ],
+      "media": {
+        "src": "assets/images/stories/pele/santos.jpg",
+        "alt": "Pelé in the Santos kit in 1963, photographed for the Argentine magazine El Gráfico",
+        "caption": "Pelé in Santos colours in 1963, during the club's years of domination in Brazil and abroad.",
+        "credit": "El Gráfico / Wikimedia Commons — Public domain"
+      }
+    },
+    {
+      "heading": "Edson and Pelé",
+      "paragraphs": [
+        "There are two people in the stories about Pelé. 'People used to shout Pelé! Pelé! Pelé! all over the world, but no one remembers Edson,' he said in 2003. 'Edson is the person who has the feelings, who has the family, who works hard, and Pelé is the idol. Pelé doesn't die. Pelé will never die. Pelé is going to go on for ever. But Edson is a normal person who is going to die one day, and the people forget that.' He said this after noticing a disabled teenager, Anisa, taking his photograph. He asked for her camera and asked someone to take a picture of the two of them together.",
+        "Between 1995 and 1998 he served as Brazil's Minister of Sport. 'I wanted to make a law to punish the presidents of clubs who don't use the money properly and then I became the big enemy,' he said. Critics said he knew nothing about football. He did not mind. 'The majority of the people know who I am,' he said. 'If they start to say good things about me, then I would worry.' The work he cared about most was schools. 'After I scored my 1,000th goal in the Maracaná I started a movement for schools in Brazil,' he said. 'That was my goal, but I've not seen this goal. I've not seen this prosperity. And this makes me feel very sad.'",
+        "Santos had taken him to Africa in the years when countries were becoming independent. 'The trips changed not only my view of the world, but also the way the world perceived me,' he wrote. Those journeys made him a symbol far beyond football. Salif Keïta, the Malian footballer, told the BBC: 'When I arrived in Europe, us Africans only had Pelé, Mohamed Ali and Eusébio as visible stars.' A boy from the Brazilian interior had become the most recognisable footballer on earth — and the man behind the name was still counting what he had not finished."
+      ],
+      "media": {
+        "src": "assets/images/stories/pele/later-life.jpg",
+        "alt": "Pelé photographed in 2004, smiling in later life",
+        "caption": "A 2004 portrait. The world knew Pelé; the man inside the name was Edson.",
+        "credit": "Ricardo Stuckert / Agência Brasil / Wikimedia Commons — CC BY 3.0 BR (https://creativecommons.org/licenses/by/3.0/br/deed.en)"
+      }
+    },
+    {
+      "heading": "Fifteen centuries",
+      "paragraphs": [
+        "Pelé died in São Paulo on 29 December 2022, aged 82, after a long illness. Brazil declared national mourning. Flags flew at half-mast at FIFA; landmarks were lit in his colours. On 2 January, his coffin was taken to Vila Belmiro, the stadium in Santos where he had made his name, and a crowd of more than 230,000 gathered. His final social media post had been about Morocco's run at the World Cup in Qatar: 'It's great to see Africa shine.'",
+        "The name outlived him in ways a person cannot control. A museum of his life had opened in Santos in 2014. In March 2023, a stadium in Kigali, Rwanda, was renamed for him. On 26 April, Brazil's Michaelis dictionary added pelé as a word meaning exceptional, incomparable, unique, after a campaign with 125,000 signatures. Andy Warhol had once said he would have '15 centuries' of fame rather than his famous fifteen minutes. FIFA called him the first global football superstar, a player whose name was known even by people who did not follow the game.",
+        "But the man himself kept returning the praise to other people. Asked who was the greatest, he named Di Stéfano. 'The only way to win is as a team,' he said. 'Football is not about one or two or three star players.' And the goal everyone remembered was the one he failed to score. Somewhere in Bauru, in a room with a radio, a father had once wept over a 2–1 defeat and been told by his son not to worry. The boy kept the promise. The man kept pointing back at the team."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Pelé – a life in his own words",
+      "publisher": "FIFA Museum",
+      "url": "https://fifamuseum.com/en/blog-stories/blog/pele-a-life-in-his-own-words",
+      "publishedDate": "2022-12-29",
+      "note": "First-person memoir excerpts. Supports birth on 23 October 1940 in Três Corações and growing up in Bauru; the childhood move at five or six and street football; the 1950 promise after seeing his father cry; Valdemar de Brito's role in taking him to Santos; the 1958 knee injury and the psychologist's objection; the Wales goal and the tears after the Swedish final; 1962 injury and watching the final from the sidelines; 'the worst year of my life' in 1966; the Bobby Moore shirt exchange; the rehearsed Carlos Alberto pass; the 1970 trophy; the Cosmos move for his children's English and sports marketing study; and 'Football is not about one or two or three star players.' Its career totals count specific competition sets and are not used as a single lifetime figure."
+    },
+    {
+      "title": "Happy 80th birthday to 'The King'",
+      "publisher": "FIFA",
+      "url": "https://inside.fifa.com/tournaments/mens/worldcup/1970mexico/news/happy-80th-birthday-to-the-king",
+      "publishedDate": "2020-10-23",
+      "note": "Supports the Edison/Dico/Bilé naming chain; the 1950 radio scene and promise; the random allocation of squad numbers that gave him No. 10 in 1958; the national-treasure designation and interest from Inter, Juventus, Manchester United and Real Madrid; six goals in six 1970 qualifiers; Saldanha's sacking and Tostão's selection with doctor Lidio Toledo; and the 1958–1962–1970 World Cup record. Its ceasefire and 'coined the beautiful game' claims are not used."
+    },
+    {
+      "title": "FIFA Annual Report 2022 — In memoriam",
+      "publisher": "FIFA",
+      "url": "https://publications.fifa.com/en/annual-report-2022/in-memoriam-2022/",
+      "publishedDate": "2022",
+      "note": "Official obituary. Supports his death on 29 December 2022 after a lengthy illness; the three World Cups; Andy Warhol's '15 centuries' quotation; and Infantino's line that he 'epitomised the beautiful game'. Headline-style 'king/god' language is not treated as his own quotation."
+    },
+    {
+      "title": "From Edson to Pelé: my changing identity (archived)",
+      "publisher": "The Guardian",
+      "url": "https://web.archive.org/web/20221114203817/https://www.theguardian.com/football/2006/may/13/sport.comment9",
+      "publishedDate": "2006-05-13",
+      "note": "First-person nickname essay. Supports 'Dico' as the family name, pride in being named Edson, 'I thought Pele sounded horrible. It was a rubbish name', the punch and two-day suspension, the Bilé mispronunciation, and 'I can never be 100% certain about the origin.' The late 'miracle in Hebrew' claim in this writer's other interview conflicts with this account and is not used."
+    },
+    {
+      "title": "How a teenager took the world by wizardry (autobiography extract, archived)",
+      "publisher": "The Guardian",
+      "url": "https://web.archive.org/web/20140922080813/http://www.theguardian.com/football/2006/may/13/sport.bookextracts",
+      "publishedDate": "2006-05-13",
+      "note": "Autobiography extract. Supports the knee injury before Sweden, the psychologist's 'infantile' judgement and Feola's 'If Pele's knee is ready, he plays'; the radio messages to his father after the final ('Did you see me with the Swedish king? Over'); 'Bobby Moore played like a lord and marked straight'; and the shirt exchange. Feola's name is used because this source identifies the coach directly, where the FIFA Museum extract garbles it."
+    },
+    {
+      "title": "And God created Pelé (archived)",
+      "publisher": "The Guardian",
+      "url": "https://web.archive.org/web/20221108082045/https://www.theguardian.com/football/2003/jun/30/sport.comment",
+      "publishedDate": "2003-06-30",
+      "note": "Long interview. Supports the Anisa camera scene; the Edson/Pelé distinction ('Edson is the person who has the feelings... Pelé doesn't die'); the 1995–98 Sport Ministry and the law against club presidents who misuse money; the schools movement after the thousandth goal and 'I've not seen this goal'; and 'kicked from pillar to post'. The headline is not a Pelé quotation. The UNICEF allegation in this interview was denied and unproven and is not used."
+    },
+    {
+      "title": "Pele in Africa: the man, the myth, the legend",
+      "publisher": "BBC News",
+      "url": "https://www.bbc.com/news/world-africa-64126695",
+      "publishedDate": "2022-12-31",
+      "note": "Supports Santos's independence-era African tours and his own words that they 'changed not only my view of the world, but also the way the world perceived me'; Salif Keïta's 'us Africans only had Pelé, Mohamed Ali and Eusébio as visible stars'; and his final social post about Morocco. The ceasefire story is legend-prone and Pelé himself doubted it, so it is not narrated as fact."
+    },
+    {
+      "title": "Football great Pelé enters dictionary as synonym for 'unique'",
+      "publisher": "BBC News",
+      "url": "https://www.bbc.com/news/world-latin-america-65410049",
+      "publishedDate": "2023-04-26",
+      "note": "Supports the 26 April 2023 Michaelis dictionary entry defining pelé as exceptional, incomparable and unique, and the 125,000-signature campaign behind it."
+    },
+    {
+      "title": "Coupe du monde 1966: Pelé et l'exécution en deux actes",
+      "publisher": "L'Équipe",
+      "url": "https://www.lequipe.fr/Football/Article/Coupe-du-monde-1966-pele-et-l-execution-en-deux-actes/1372120",
+      "publishedDate": "2022",
+      "note": "Supports the 12 July 1966 Bulgaria match and the hematoma behind the right knee; Jetchev's 'I was always late'; the 19 July Portugal match, João Morais's two untamed challenges and Pelé's 'In the dressing room at half-time, I cried with rage and despair. I thought I was going to go mad.' 'Butchery' is not used as his quotation."
+    },
+    {
+      "title": "Pelé — Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Pele-Brazilian-athlete",
+      "publishedDate": "n.d.",
+      "note": "Reference for the 19 November 1969 thousandth goal at the Maracanã against Vasco da Gama in his 909th first-class match; the 1975 New York Cosmos contract and 1977 farewell; the 2014 Santos museum; and the 29 December 2022 death. Its Guinness career-goal count is one of several incompatible totals and is not used without a counting definition."
+    },
+    {
+      "title": "Pelé — Britannica Kids Scholars",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://kids.britannica.com/scholars/article/Pel%C3%A9/58992",
+      "publishedDate": "n.d.",
+      "note": "Supports the Bauru poverty, tea-selling, street football with a makeshift ball, Dondinho as father, and the 'no known meaning' nickname account. Page blocked direct fetching; facts checked against the reference trail."
+    },
+    {
+      "title": "File:Pele Netherlands 1962 (cropped).jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Pele_Netherlands_1962_(cropped).jpg",
+      "note": "Hero image, taken at Schiphol Airport on 19 October 1962. Photographer Joop van Bilsen for Anefo / Nationaal Archief; CC0. Verified via Commons extmetadata."
+    },
+    {
+      "title": "File:Djalma Santos, Pelé and Gilmar 1958.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Djalma_Santos,_Pel%C3%A9_and_Gilmar_1958.jpg",
+      "note": "Chapter-three image: Pelé weeping with Djalma Santos and Gilmar after the 1958 World Cup final. Photographer Pressens Bild; public domain. Verified via Commons extmetadata."
+    },
+    {
+      "title": "File:Pele celebrating 1970.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Pele_celebrating_1970.jpg",
+      "note": "Chapter-five image: Pelé celebrating the 1970 World Cup victory. Photographer unknown, distributed by the Associated Press; public domain. Verified via Commons extmetadata."
+    },
+    {
+      "title": "File:Pelé (Santos) - El Gráfico 2291.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Pel%C3%A9_(Santos)_-_El_Gr%C3%A1fico_2291.jpg",
+      "note": "Chapter-six image: Pelé in Santos kit, published by El Gráfico no. 2291 on 4 September 1963; public domain. Verified via Commons extmetadata."
+    },
+    {
+      "title": "File:Pelé.jpg",
+      "publisher": "Wikimedia Commons / Agência Brasil",
+      "url": "https://commons.wikimedia.org/wiki/File:Pel%C3%A9.jpg",
+      "note": "Chapter-seven image: 2004 portrait. Photographer Ricardo Stuckert / PR; CC BY 3.0 BR, licence URL included in the on-page credit. Verified via Commons extmetadata."
+    }
+  ],
+  "tags": [
+    "Pelé",
+    "Edson Arantes do Nascimento",
+    "Brazil",
+    "Santos",
+    "football",
+    "World Cup",
+    "1958",
+    "1970",
+    "New York Cosmos",
+    "sports",
+    "childhood poverty",
+    "legacy"
+  ],
+  "verified": true,
+  "verifiedAt": "2026-11-26"
+}

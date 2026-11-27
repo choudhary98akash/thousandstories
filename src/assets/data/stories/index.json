@@ -650,5 +650,77 @@
     "storyDate": "1882–1919",
     "heroImage": "assets/images/stories/madam-c-j-walker/portrait.jpg",
     "verified": true
+  },
+  {
+    "id": 22,
+    "slug": "jadav-payeng",
+    "personName": "Jadav Payeng",
+    "title": "The Man Who Grew a Forest from Grief",
+    "shortDescription": "A school-dropout in Assam watched floods leave snakes to die on a bare sandbar. Nothing, the forest department told him, would grow there. He spent decades proving them wrong — and still sells milk beside the forest he calls home.",
+    "country": "India",
+    "state": "Assam",
+    "city": "Kokilamukh",
+    "category": [
+      "Environment",
+      "Unsung Heroes",
+      "Courage",
+      "Social Change",
+      "Resilience"
+    ],
+    "birthYear": 1959,
+    "storyDate": "1979–2026",
+    "heroImage": "assets/images/stories/jadav-payeng/portrait.jpg",
+    "tags": [
+      "Jadav Payeng",
+      "Molai Forest",
+      "Assam",
+      "Brahmaputra",
+      "Mising",
+      "afforestation",
+      "environment",
+      "Padma Shri",
+      "Forest Man of India",
+      "unsung heroes",
+      "community forest",
+      "wildlife conservation"
+    ],
+    "verified": true
+  },
+  {
+    "id": 23,
+    "slug": "pele",
+    "personName": "Pelé",
+    "title": "The Boy Who Promised His Father a World Cup",
+    "shortDescription": "A boy in Bauru who hated the nickname Pelé watched his father cry after Brazil lost the 1950 World Cup and promised him a trophy. He would win three — and spend a lifetime as a name the world knew better than his own.",
+    "country": "Brazil",
+    "state": "São Paulo",
+    "city": "Bauru",
+    "category": [
+      "Sports",
+      "Achievement",
+      "Courage",
+      "Resilience",
+      "Leadership",
+      "Social Change"
+    ],
+    "birthYear": 1940,
+    "deathYear": 2022,
+    "storyDate": "1940–2023",
+    "heroImage": "assets/images/stories/pele/portrait.jpg",
+    "tags": [
+      "Pelé",
+      "Edson Arantes do Nascimento",
+      "Brazil",
+      "Santos",
+      "football",
+      "World Cup",
+      "1958",
+      "1970",
+      "New York Cosmos",
+      "sports",
+      "childhood poverty",
+      "legacy"
+    ],
+    "verified": true
   }
 ]
