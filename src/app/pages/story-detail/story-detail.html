@@ -18,7 +18,7 @@
       <figure class="story-portrait">
         <img [src]="story.heroImage" [alt]="'Portrait of ' + story.personName" />
         <figcaption>
-          Portrait photograph · public domain
+          {{ story.heroImageCaption ?? 'Portrait photograph · public domain' }}
         </figcaption>
       </figure>
       }

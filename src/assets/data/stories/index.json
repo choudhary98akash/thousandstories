@@ -722,5 +722,77 @@
       "legacy"
     ],
     "verified": true
+  },
+  {
+    "id": 24,
+    "slug": "toyotomi-hideyoshi",
+    "personName": "Toyotomi Hideyoshi",
+    "title": "The Boy Who Held a Warlord's Sandals",
+    "shortDescription": "His father was a poor foot soldier and he had no last name. He carried a warlord's sandals and learned to see what people needed before they asked. Forty years later he was regent of Japan and the builder of a castle that still stands. But the family he left behind did not last.",
+    "country": "Japan",
+    "state": "Aichi",
+    "city": "Nagoya",
+    "category": [
+      "Leadership",
+      "History",
+      "Courage",
+      "Achievement",
+      "Resilience"
+    ],
+    "birthYear": 1537,
+    "deathYear": 1598,
+    "storyDate": "1550s–1615",
+    "heroImage": "assets/images/stories/toyotomi-hideyoshi/portrait.jpg",
+    "tags": [
+      "Toyotomi Hideyoshi",
+      "Taikō",
+      "Oda Nobunaga",
+      "kampaku",
+      "Osaka Castle",
+      "Sengoku Japan",
+      "Battle of Yamazaki",
+      "Imjin War",
+      "Toyotomi Hideyori",
+      "Tokugawa Ieyasu",
+      "humble origins",
+      "legacy"
+    ],
+    "verified": true
+  },
+  {
+    "id": 25,
+    "slug": "anandi-gopal-joshi",
+    "personName": "Anandi Gopal Joshi",
+    "title": "The Girl Who Crossed the Sea to Learn to Heal",
+    "shortDescription": "She was married at nine and had never been to school. When her baby son died, she decided to become a doctor. She crossed the ocean, earned a medical degree in America, and came home to India. She died at twenty-one before she could use it.",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Kalyan",
+    "category": [
+      "Medicine",
+      "Education",
+      "History",
+      "Courage",
+      "Resilience"
+    ],
+    "birthYear": 1865,
+    "deathYear": 1887,
+    "storyDate": "1865–1887",
+    "heroImage": "assets/images/stories/anandi-gopal-joshi/portrait.jpg",
+    "tags": [
+      "Anandi Gopal Joshi",
+      "Anandabai Joshee",
+      "women in medicine",
+      "Woman's Medical College of Pennsylvania",
+      "Rachel Bodley",
+      "Theodicia Carpenter",
+      "Serampore",
+      "Kolhapur",
+      "Hindu obstetrics",
+      "Pandita Ramabai",
+      "Gopalrao Joshi",
+      "Poughkeepsie"
+    ],
+    "verified": true
   }
 ]

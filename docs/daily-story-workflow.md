@@ -109,6 +109,26 @@ chapter must pass all of these:
   goal. The facts are the material; the reader must come away having shared a
   life.
 
+### Novice-level language — non-negotiable user rule (2026-11-27)
+
+The user asked for story language "like a novice person could understand". Apply
+this to the introduction, the `shortDescription` and every chapter paragraph
+before a story is handed over — not only when the user asks again.
+
+- **Short sentences, everyday words.** One idea per sentence. If a sentence
+  needs a second read, rewrite it. Prefer a verb to an abstract noun.
+- **Explain hard terms at first mention.** Say what a title, old word or
+  technical term means in the same sentence: "ashigaru, a poor farmer paid to
+  fight", "kampaku, the regent who ran the court for the emperor". Do not leave
+  a reader guessing.
+- **Simplify words, never facts.** The scenes, dates, numbers, sources and
+  truth-gate blacklist stay exactly as researched. Plainer language must not
+  add, drop or soften a fact.
+- **No showy wording.** Cut grand phrases and ornament. Read a chapter aloud:
+  if it sounds like a book written for experts, make it simpler.
+- **Check before handover.** Run this pass on every new story, and on any story
+  that is rewritten. A factually correct but hard-to-read draft is not done.
+
 ## Daily input format
 ```
 HOOK (~100 words): <the opening hook to be refined, or a seed for it>

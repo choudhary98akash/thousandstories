@@ -11,6 +11,7 @@
 - Keep story data in `src/assets/data/`. Reason: static hosting on GitHub Pages.
 - Every story must have sources. Reason: project identity is truth-first.
 - Write with **human touch flow**: scene-led, relatable and enjoyable, with facts arriving through a person's choices, losses and small acts of dignity. Reason: the user has repeatedly required stories that are lived through, not dumped as fact sheets.
+- Write every story in **plain, novice-level English**: short sentences, everyday words, one idea per sentence. Explain any special or old term the first time it appears. Reason: the user asked for language that reads easily for a first-time reader; sophisticated wording is a failure even when the facts are right. Simplifying words never means changing a fact, scene or source.
 - Use semantic HTML and proper ARIA attributes. Reason: accessibility is a core requirement.
 - Include alt text on all images. Reason: accessibility.
 - Support mobile-first responsive design. Reason: story-reading optimized for mobile.

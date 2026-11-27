@@ -41,6 +41,7 @@ export interface Story {
   deathYear?: number;
   storyDate?: string;
   heroImage?: string;
+  heroImageCaption?: string;
   images?: StoryImage[];
   chapters?: StoryChapter[];
   introduction: string;
